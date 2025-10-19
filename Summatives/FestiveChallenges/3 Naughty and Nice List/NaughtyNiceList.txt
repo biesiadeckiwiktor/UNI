@@ -1,0 +1,3549 @@
+<Dunn,Serenity>:[67-46]->Book
+<Perez,Aubree>:[35-92]->Wooly Jumper
+<Robinson,Mackenzie>:[5-11]->Book
+<Morales,Karter>:[19-96]->Wooly Jumper
+<Castro,Rylee>:[32-81]->Bag of Sweets
+<Cruz,Serenity>:[5-7]->Orange
+<Ross,Amir>:[97-87]->Wooly Jumper
+<Henry,Isabella>:[29-35]->Teddy Bear
+<Chavez,Isabelle>:[4-89]->Wooly Jumper
+<Flores,Axel>:[58-29]->Orange
+<Mason,Alexandra>:[73-99]->Book
+<Chapman,Adeline>:[26-43]->Lego Set
+<Evans,Cameron>:[36-32]->Lego Set
+<Jenkins,Santiago>:[17-16]->Bike
+<Hunter,Alexandra>:[81-93]->Toy Car
+<Willis,Andrew>:[28-87]->Action Man Figure
+<Thomas,Zoey>:[11-8]->Orange
+<Parker,Ashton>:[66-62]->Book
+<Silva,Josiah>:[71-35]->Barbie Doll
+<Medina,Brielle>:[68-40]->Wooly Jumper
+<Phillips,Alexander>:[48-88]->Lego Set
+<Lane,Leah>:[73-40]->Barbie Doll
+<Carr,Emma>:[61-54]->Lego Set
+<Wright,Kennedy>:[24-0]->Teddy Bear
+<Woods,Graham>:[97-82]->Orange
+<Crawford,Mila>:[10-84]->Bike
+<Howell,Sloane>:[34-81]->Bag of Sweets
+<Daniels,Waylon>:[59-91]->Book
+<James,Adriel>:[29-72]->Wooly Jumper
+<Lopez,Weston>:[60-69]->Barbie Doll
+<Romero,Weston>:[29-76]->Wooly Jumper
+<Hayes,Savannah>:[73-91]->Bag of Sweets
+<Lopez,Nathan>:[7-58]->Bike
+<Oliver,Jordyn>:[65-15]->Barbie Doll
+<Sanders,Aria>:[96-8]->Barbie Doll
+<Chavez,Mackenzie>:[1-3]->Bag of Sweets
+<Carlson,Dean>:[54-73]->Action Man Figure
+<White,David>:[91-18]->Toy Car
+<Schmidt,Peyton>:[19-82]->Wooly Jumper
+<Brooks,Knox>:[73-37]->Barbie Doll
+<Murphy,Lily>:[44-30]->Book
+<Pierce,Amaya>:[28-67]->Barbie Doll
+<Pierce,Liam>:[94-72]->Bike
+<Nichols,Journee>:[11-59]->Book
+<Jacobs,Leah>:[65-84]->Bike
+<Fox,Matteo>:[35-81]->Barbie Doll
+<Castillo,Alan>:[46-88]->Barbie Doll
+<Morgan,Gianna>:[35-52]->Toy Car
+<Russell,Jacob>:[13-65]->Action Man Figure
+<Medina,Elena>:[41-72]->Teddy Bear
+<Olson,Liam>:[30-65]->Orange
+<Vargas,Charlie>:[40-97]->Lego Set
+<Wheeler,Lily>:[15-28]->Action Man Figure
+<Willis,Gianna>:[66-53]->Barbie Doll
+<Richards,Charles>:[51-75]->Lego Set
+<Porter,Journee>:[20-13]->Toy Car
+<Turner,Julian>:[97-74]->Orange
+<Harrison,Blakely>:[93-39]->Wooly Jumper
+<Lewis,Nicholas>:[96-97]->Toy Car
+<Gilbert,Josie>:[4-92]->Wooly Jumper
+<Castillo,Abraham>:[10-0]->Book
+<Martin,Tyler>:[74-94]->Bike
+<Jimenez,Jesus>:[45-60]->Wooly Jumper
+<Morgan,Diego>:[57-4]->Book
+<Schmidt,Bryce>:[41-4]->Toy Car
+<Edwards,Greyson>:[79-53]->Toy Car
+<Ryan,Luis>:[43-93]->Barbie Doll
+<Bishop,Avery>:[31-13]->Barbie Doll
+<Cole,Aiden>:[74-31]->Teddy Bear
+<Spencer,Emily>:[14-78]->Lego Set
+<Hansen,Arabella>:[53-77]->Barbie Doll
+<Jenkins,Valeria>:[51-22]->Bike
+<Knight,Reagan>:[74-31]->Action Man Figure
+<Knight,Cooper>:[59-78]->Lego Set
+<Burns,Zion>:[76-17]->Book
+<Woods,Morgan>:[38-62]->Wooly Jumper
+<Berry,Dominic>:[6-20]->Bike
+<Oliver,Kaiden>:[16-58]->Orange
+<Webb,Londyn>:[13-16]->Barbie Doll
+<Hunter,Elliana>:[64-95]->Orange
+<Gray,Jasper>:[29-75]->Action Man Figure
+<Perez,Andres>:[86-63]->Lego Set
+<Washington,Remington>:[46-57]->Lego Set
+<Long,Peyton>:[66-58]->Book
+<Allen,Hayes>:[47-22]->Book
+<Collins,Thomas>:[53-80]->Toy Car
+<Sullivan,Abraham>:[41-91]->Barbie Doll
+<Brooks,Paisley>:[8-33]->Bag of Sweets
+<Peterson,Giovanni>:[67-14]->Barbie Doll
+<Porter,Isaiah>:[14-6]->Lego Set
+<Jones,Brody>:[71-41]->Bag of Sweets
+<Hunt,Charlotte>:[84-77]->Bike
+<Peterson,Evelyn>:[72-63]->Bike
+<Sanders,Nicholas>:[27-70]->Bag of Sweets
+<Hawkins,Quinn>:[18-98]->Lego Set
+<Anderson,Evan>:[33-68]->Book
+<Fisher,Beckham>:[5-90]->Teddy Bear
+<Gonzalez,Bentley>:[9-47]->Toy Car
+<Bradley,Cameron>:[16-13]->Book
+<Howard,Rachel>:[73-43]->Bike
+<Aguilar,King>:[63-42]->Bag of Sweets
+<Larson,Ariel>:[11-62]->Toy Car
+<Greene,Lucas>:[75-89]->Orange
+<Pierce,Richard>:[19-85]->Bike
+<Ford,August>:[23-91]->Toy Car
+<Myers,Beckham>:[56-35]->Bag of Sweets
+<Roberts,Eliza>:[78-67]->Teddy Bear
+<Hernandez,August>:[72-86]->Barbie Doll
+<Dunn,Blakely>:[97-92]->Barbie Doll
+<Robertson,Kaylee>:[30-29]->Action Man Figure
+<Parker,Bryce>:[32-68]->Bike
+<Fisher,Sage>:[92-81]->Book
+<Lopez,Emmanuel>:[77-84]->Bike
+<Howard,Maya>:[59-8]->Bike
+<Ryan,Harlow>:[86-89]->Barbie Doll
+<Carr,River>:[80-94]->Book
+<Perkins,Ezekiel>:[98-71]->Bike
+<Adams,James>:[38-45]->Teddy Bear
+<Powell,Amaya>:[86-66]->Book
+<Stone,Leon>:[18-53]->Wooly Jumper
+<Patterson,Samuel>:[96-21]->Bag of Sweets
+<Hughes,Vera>:[65-66]->Action Man Figure
+<Berry,Charlie>:[45-22]->Orange
+<Nguyen,Calvin>:[84-23]->Barbie Doll
+<Brooks,Mateo>:[17-27]->Action Man Figure
+<Aguilar,Brianna>:[6-14]->Bike
+<Chapman,Sage>:[49-76]->Barbie Doll
+<Fernandez,London>:[33-31]->Action Man Figure
+<Schmidt,Theo>:[87-78]->Bag of Sweets
+<Stevens,Natalia>:[28-10]->Barbie Doll
+<Clark,Gemma>:[14-33]->Book
+<Griffin,Gavin>:[5-35]->Teddy Bear
+<Carter,Alana>:[85-54]->Bike
+<Rice,Everly>:[26-75]->Bike
+<Obrien,Alexander>:[47-11]->Action Man Figure
+<Wright,Mia>:[24-2]->Book
+<Carter,Eliana>:[72-55]->Teddy Bear
+<Hall,Amy>:[32-24]->Orange
+<Harvey,Ivan>:[64-69]->Book
+<Clark,Mateo>:[36-44]->Teddy Bear
+<Fernandez,Harrison>:[66-45]->Bike
+<Brown,Annie>:[22-8]->Bag of Sweets
+<Johnson,Weston>:[61-56]->Teddy Bear
+<Lawrence,Aurora>:[74-75]->Teddy Bear
+<Robinson,Brianna>:[93-33]->Barbie Doll
+<Price,Quinn>:[14-75]->Orange
+<Bennett,Juan>:[53-21]->Lego Set
+<Butler,Iris>:[93-41]->Barbie Doll
+<Kelly,Alan>:[75-88]->Bag of Sweets
+<Wells,Emersyn>:[84-84]->Wooly Jumper
+<Martinez,Lilah>:[18-31]->Teddy Bear
+<Wright,Hudson>:[41-53]->Teddy Bear
+<Edwards,Levi>:[98-29]->Book
+<Daniels,Maria>:[18-10]->Wooly Jumper
+<Greene,Josephine>:[80-56]->Toy Car
+<Carlson,Jayden>:[0-41]->Toy Car
+<Andrews,Josephine>:[75-72]->Bag of Sweets
+<Stone,Isabelle>:[98-32]->Bike
+<Miller,Felix>:[50-16]->Barbie Doll
+<Watkins,King>:[76-63]->Lego Set
+<Burns,Nova>:[69-16]->Bag of Sweets
+<Hudson,Emmanuel>:[18-42]->Action Man Figure
+<Taylor,Sofia>:[27-94]->Wooly Jumper
+<Arnold,Avery>:[78-25]->Teddy Bear
+<Morales,James>:[70-67]->Teddy Bear
+<James,Ariella>:[56-73]->Barbie Doll
+<Ruiz,Joseph>:[58-34]->Wooly Jumper
+<Flores,Amaya>:[28-96]->Book
+<Meyer,Finn>:[57-73]->Wooly Jumper
+<Carpenter,Addison>:[39-96]->Barbie Doll
+<Cunningham,Maverick>:[19-75]->Orange
+<Garcia,Josie>:[67-75]->Action Man Figure
+<Harrison,Parker>:[45-2]->Orange
+<Mendez,Hayden>:[91-33]->Book
+<Sanders,Emiliano>:[92-34]->Barbie Doll
+<Fisher,Isabelle>:[75-44]->Action Man Figure
+<Guzman,Messiah>:[68-49]->Toy Car
+<Bradley,Isaac>:[14-98]->Toy Car
+<Garcia,Chase>:[55-29]->Wooly Jumper
+<Montgomery,Jacob>:[16-11]->Wooly Jumper
+<Harris,Freya>:[68-30]->Book
+<Taylor,Hadley>:[56-15]->Bag of Sweets
+<Wood,Noah>:[84-10]->Barbie Doll
+<Robertson,Sophia>:[62-2]->Book
+<Hawkins,June>:[48-17]->Lego Set
+<Hawkins,Lennon>:[28-18]->Orange
+<Stevens,Griffin>:[60-64]->Bike
+<James,Silas>:[3-47]->Lego Set
+<Jordan,Nicolas>:[15-16]->Wooly Jumper
+<Lawrence,Colt>:[73-76]->Bag of Sweets
+<Woods,Laila>:[83-19]->Barbie Doll
+<Lynch,Connor>:[97-18]->Lego Set
+<Palmer,Grayson>:[92-30]->Book
+<Silva,Elijah>:[11-93]->Lego Set
+<Stewart,Luis>:[59-36]->Toy Car
+<Carter,Parker>:[60-55]->Teddy Bear
+<Jordan,Morgan>:[47-39]->Toy Car
+<Bennett,Faith>:[87-81]->Bag of Sweets
+<Reyes,Ivan>:[96-37]->Wooly Jumper
+<Porter,Charlotte>:[89-59]->Wooly Jumper
+<Knight,Cora>:[47-97]->Teddy Bear
+<Parker,Adrian>:[31-11]->Book
+<Morgan,Summer>:[59-67]->Wooly Jumper
+<Brooks,Julian>:[4-97]->Toy Car
+<Watson,Clara>:[51-37]->Toy Car
+<Weaver,Enzo>:[30-86]->Orange
+<Munoz,Cameron>:[34-53]->Wooly Jumper
+<Gray,Alexandra>:[4-38]->Lego Set
+<Olson,Grace>:[85-6]->Lego Set
+<Weaver,Daniel>:[21-12]->Barbie Doll
+<Wheeler,Jaxon>:[72-95]->Wooly Jumper
+<Porter,Caleb>:[47-4]->Orange
+<Ortiz,Genesis>:[81-7]->Teddy Bear
+<James,Emerson>:[65-50]->Action Man Figure
+<Morales,Madeline>:[57-1]->Book
+<Lynch,Remi>:[60-52]->Lego Set
+<Holmes,Jesus>:[77-5]->Bike
+<Parker,Kamila>:[57-34]->Orange
+<Andrews,Ariana>:[64-64]->Book
+<Arnold,Grant>:[37-77]->Barbie Doll
+<Perkins,Ian>:[59-58]->Bag of Sweets
+<Gutierrez,Nathan>:[75-14]->Lego Set
+<Webb,Remington>:[74-75]->Book
+<Stephens,Eric>:[69-0]->Toy Car
+<Stone,Jose>:[31-16]->Barbie Doll
+<Jackson,Abraham>:[49-10]->Toy Car
+<Fernandez,Enzo>:[85-44]->Orange
+<Gonzales,Carter>:[73-86]->Bike
+<Hill,Jordyn>:[3-81]->Toy Car
+<Hall,Grayson>:[26-47]->Bag of Sweets
+<Reyes,Abraham>:[54-98]->Bike
+<Wells,Athena>:[1-31]->Bag of Sweets
+<Matthews,Hudson>:[46-95]->Wooly Jumper
+<Reed,Avery>:[89-32]->Barbie Doll
+<Lawrence,Georgia>:[47-98]->Wooly Jumper
+<Stephens,Elliana>:[57-6]->Barbie Doll
+<Ramos,Jack>:[73-82]->Toy Car
+<Payne,Aaron>:[43-80]->Bag of Sweets
+<King,Adrian>:[26-44]->Bag of Sweets
+<Castro,Eva>:[49-75]->Wooly Jumper
+<Anderson,Naomi>:[9-41]->Teddy Bear
+<Bailey,Cooper>:[87-68]->Book
+<Williams,Ayla>:[7-8]->Barbie Doll
+<Wood,Arthur>:[36-16]->Lego Set
+<Hawkins,Evan>:[30-84]->Action Man Figure
+<Marshall,Eli>:[38-88]->Bag of Sweets
+<Reynolds,Oliver>:[67-96]->Toy Car
+<Wood,Eliza>:[66-60]->Orange
+<Jordan,Leilani>:[8-3]->Lego Set
+<Ortiz,Elliott>:[31-54]->Toy Car
+<Jenkins,Sophie>:[52-11]->Barbie Doll
+<Lee,Barrett>:[90-52]->Bike
+<Garcia,Katherine>:[40-85]->Barbie Doll
+<Carlson,June>:[37-57]->Book
+<Austin,Aubrey>:[16-52]->Book
+<Allen,Amy>:[16-79]->Teddy Bear
+<West,Adriel>:[99-20]->Action Man Figure
+<Riley,Valeria>:[32-80]->Wooly Jumper
+<Hill,Laila>:[85-10]->Toy Car
+<Kennedy,Milo>:[19-29]->Bike
+<Kim,Charles>:[18-44]->Wooly Jumper
+<Cooper,Andrea>:[87-28]->Teddy Bear
+<Murray,Arya>:[40-43]->Bag of Sweets
+<Olson,Ethan>:[71-68]->Lego Set
+<Jensen,Charlotte>:[45-85]->Bike
+<Hall,Aubree>:[44-23]->Bike
+<Jenkins,Amy>:[36-26]->Orange
+<Roberts,Ayla>:[18-29]->Wooly Jumper
+<Mendoza,Jason>:[78-29]->Bag of Sweets
+<Morgan,Maria>:[30-11]->Barbie Doll
+<Carroll,Jasmine>:[35-73]->Action Man Figure
+<Riley,Juniper>:[85-77]->Orange
+<Bennett,Cole>:[97-12]->Bag of Sweets
+<Ramirez,Ellie>:[92-63]->Barbie Doll
+<Foster,Sawyer>:[12-9]->Teddy Bear
+<Simmons,Juliana>:[98-58]->Lego Set
+<Herrera,Avery>:[76-66]->Toy Car
+<Brooks,Noah>:[61-19]->Action Man Figure
+<Moreno,Jose>:[47-16]->Action Man Figure
+<Miller,Alaia>:[66-31]->Barbie Doll
+<King,Elsie>:[63-2]->Book
+<Garza,Everleigh>:[43-94]->Orange
+<Carter,Remi>:[84-50]->Lego Set
+<Ross,Marley>:[34-12]->Orange
+<Silva,Kyler>:[49-26]->Action Man Figure
+<Franklin,Margaret>:[34-16]->Action Man Figure
+<Pierce,Vera>:[96-37]->Barbie Doll
+<Hoffman,Lukas>:[77-51]->Book
+<Anderson,Eric>:[69-85]->Bike
+<Green,Jaxon>:[8-2]->Action Man Figure
+<Graham,Brianna>:[60-23]->Bag of Sweets
+<Phillips,Luis>:[39-80]->Wooly Jumper
+<Hudson,Kash>:[19-48]->Toy Car
+<Gonzalez,Vera>:[24-85]->Lego Set
+<Spencer,Gabriel>:[74-19]->Toy Car
+<Wilson,Rowan>:[44-71]->Barbie Doll
+<Adams,Luka>:[41-46]->Toy Car
+<Murray,Benjamin>:[14-95]->Lego Set
+<Rose,Aiden>:[98-53]->Lego Set
+<Shaw,Mackenzie>:[35-78]->Book
+<Sullivan,Mason>:[97-66]->Barbie Doll
+<Mills,Josiah>:[74-47]->Bike
+<Oliver,Joseph>:[82-51]->Teddy Bear
+<Turner,Kylie>:[92-82]->Action Man Figure
+<Johnston,Abel>:[32-36]->Barbie Doll
+<Daniels,Cameron>:[30-1]->Toy Car
+<Lewis,Maverick>:[59-36]->Action Man Figure
+<Arnold,Felix>:[65-99]->Bag of Sweets
+<Murray,Grant>:[37-77]->Lego Set
+<Vasquez,Jayce>:[28-33]->Action Man Figure
+<Cook,Mia>:[9-48]->Bike
+<Morales,Bella>:[32-69]->Teddy Bear
+<Clark,Emery>:[96-86]->Action Man Figure
+<Smith,Sydney>:[60-69]->Book
+<Rice,Georgia>:[62-0]->Toy Car
+<Hansen,Ayla>:[23-68]->Orange
+<King,Nathaniel>:[16-19]->Toy Car
+<Johnson,Nash>:[93-42]->Teddy Bear
+<West,Eric>:[63-37]->Bag of Sweets
+<Gonzales,Elise>:[31-59]->Bike
+<Green,Santiago>:[80-70]->Lego Set
+<Diaz,Chase>:[5-62]->Lego Set
+<Wright,Olivia>:[88-83]->Toy Car
+<Ellis,Zayden>:[80-87]->Bag of Sweets
+<Howell,Mason>:[19-4]->Toy Car
+<Hill,Aurora>:[39-75]->Book
+<West,Isaiah>:[51-15]->Teddy Bear
+<Ramos,Barrett>:[33-68]->Book
+<Hart,Felix>:[28-13]->Book
+<Richardson,Xander>:[0-34]->Teddy Bear
+<Jacobs,Parker>:[11-52]->Teddy Bear
+<Oliver,Gael>:[10-68]->Bag of Sweets
+<Butler,Rhett>:[23-25]->Wooly Jumper
+<Butler,Miguel>:[12-26]->Toy Car
+<Owens,Isabelle>:[24-77]->Toy Car
+<Simpson,Emilia>:[31-95]->Bike
+<Ford,Lily>:[41-33]->Bike
+<Lawson,Robert>:[8-75]->Barbie Doll
+<Ryan,Kehlani>:[93-15]->Book
+<Green,Hailey>:[36-13]->Bag of Sweets
+<Mason,Leilani>:[58-91]->Toy Car
+<Anderson,Maria>:[95-67]->Book
+<Watkins,Elliott>:[20-96]->Book
+<Rodriguez,Isaiah>:[72-21]->Action Man Figure
+<Webb,Harlow>:[32-35]->Lego Set
+<Roberts,Allison>:[66-74]->Orange
+<Cunningham,Karter>:[76-99]->Bike
+<Sullivan,Luna>:[78-30]->Bike
+<Hawkins,Kai>:[88-76]->Wooly Jumper
+<Lynch,Iris>:[76-26]->Action Man Figure
+<Harris,Chase>:[24-33]->Bike
+<Graham,Joel>:[50-79]->Bag of Sweets
+<Aguilar,Jaxon>:[35-39]->Wooly Jumper
+<Martin,Brynlee>:[81-40]->Book
+<Fisher,Abel>:[61-93]->Bag of Sweets
+<Nelson,Colton>:[84-97]->Book
+<Hill,Everly>:[88-7]->Toy Car
+<Parker,Caroline>:[54-27]->Teddy Bear
+<Obrien,Lucia>:[3-99]->Action Man Figure
+<Tran,Brody>:[87-28]->Orange
+<Gray,Jonathan>:[50-87]->Bag of Sweets
+<Martin,Greyson>:[43-40]->Bike
+<Willis,Caden>:[52-66]->Lego Set
+<Richardson,Phoebe>:[38-2]->Toy Car
+<Harper,Aubrey>:[11-32]->Action Man Figure
+<Williams,Felix>:[69-91]->Bag of Sweets
+<Wallace,Piper>:[87-84]->Bike
+<Hicks,Beckham>:[64-69]->Orange
+<Morgan,Phoebe>:[60-3]->Action Man Figure
+<Meyer,Sophie>:[8-77]->Book
+<Powell,Daisy>:[41-29]->Action Man Figure
+<Mills,Sienna>:[96-86]->Teddy Bear
+<Harrison,Kinsley>:[43-79]->Orange
+<Alexander,Ian>:[64-59]->Bike
+<Ross,Eli>:[7-31]->Barbie Doll
+<Hernandez,Finley>:[54-19]->Barbie Doll
+<Bradley,Ivy>:[55-1]->Bag of Sweets
+<Castillo,Owen>:[71-1]->Teddy Bear
+<Duncan,Gavin>:[7-31]->Bag of Sweets
+<Mcdonald,Jasmine>:[62-78]->Action Man Figure
+<Holmes,Carlos>:[86-35]->Toy Car
+<Riley,Arya>:[45-62]->Barbie Doll
+<Torres,Theo>:[66-90]->Bag of Sweets
+<Edwards,Adeline>:[52-51]->Barbie Doll
+<Herrera,Everly>:[83-65]->Barbie Doll
+<Reynolds,Emiliano>:[30-62]->Lego Set
+<Johnson,Jayce>:[16-45]->Orange
+<Cruz,Kai>:[46-44]->Barbie Doll
+<Wheeler,Oaklynn>:[46-47]->Lego Set
+<Hernandez,Juliana>:[70-39]->Barbie Doll
+<Ruiz,Sofia>:[30-90]->Action Man Figure
+<Reynolds,Vivian>:[35-52]->Book
+<Dixon,Legend>:[10-76]->Bag of Sweets
+<Fernandez,Valeria>:[69-98]->Toy Car
+<Bradley,Noelle>:[4-18]->Bag of Sweets
+<Freeman,Emilia>:[55-92]->Toy Car
+<Oliver,Ryan>:[43-77]->Bike
+<Edwards,Willow>:[62-42]->Wooly Jumper
+<Porter,Eden>:[7-42]->Bike
+<Freeman,Lennon>:[61-19]->Bag of Sweets
+<Willis,Parker>:[27-73]->Bike
+<Burke,Riley>:[19-94]->Book
+<George,Madeline>:[10-46]->Action Man Figure
+<Morrison,Isabella>:[46-98]->Orange
+<George,Aubree>:[36-80]->Barbie Doll
+<Rice,Octavia>:[45-42]->Teddy Bear
+<Martinez,Margaret>:[38-24]->Wooly Jumper
+<Barnes,Valerie>:[67-46]->Lego Set
+<Aguilar,Elise>:[76-27]->Wooly Jumper
+<Gonzalez,Lennon>:[46-53]->Orange
+<Harvey,Daniel>:[82-8]->Bike
+<Willis,Bennett>:[91-67]->Lego Set
+<Elliott,Kaia>:[94-65]->Toy Car
+<Lane,Selena>:[86-51]->Action Man Figure
+<Martin,Sydney>:[36-75]->Bag of Sweets
+<Oliver,Zoe>:[3-16]->Orange
+<Edwards,Felix>:[15-58]->Bag of Sweets
+<Peterson,Zachary>:[83-68]->Bag of Sweets
+<Vasquez,Kyrie>:[32-39]->Bike
+<Bryant,Brielle>:[69-98]->Wooly Jumper
+<Lane,Jeremy>:[32-1]->Wooly Jumper
+<Garza,Josiah>:[75-48]->Bag of Sweets
+<Butler,Kylie>:[52-92]->Barbie Doll
+<Rivera,Quinn>:[42-26]->Wooly Jumper
+<Price,Amelia>:[64-71]->Toy Car
+<Robinson,Ivy>:[93-41]->Bike
+<Tucker,Blakely>:[14-53]->Lego Set
+<Spencer,Jax>:[0-75]->Toy Car
+<Butler,Kaylee>:[49-7]->Teddy Bear
+<Black,Oscar>:[83-50]->Bag of Sweets
+<Butler,Daisy>:[9-72]->Wooly Jumper
+<Ramirez,Josiah>:[44-62]->Barbie Doll
+<Alexander,Holden>:[26-77]->Book
+<Young,Olive>:[10-15]->Wooly Jumper
+<Murphy,Kai>:[33-91]->Barbie Doll
+<Carlson,Brianna>:[37-70]->Lego Set
+<Bennett,Ada>:[30-9]->Bike
+<Moreno,Grayson>:[3-88]->Bike
+<Watson,Riley>:[74-27]->Action Man Figure
+<Black,Damian>:[58-27]->Bike
+<Adams,Ezra>:[6-7]->Book
+<Perry,Xavier>:[20-91]->Barbie Doll
+<Bailey,Riley>:[75-92]->Bag of Sweets
+<Silva,Victoria>:[94-65]->Lego Set
+<Long,Sebastian>:[86-53]->Teddy Bear
+<Hunt,Hadley>:[4-36]->Bag of Sweets
+<Hughes,Luca>:[9-79]->Bag of Sweets
+<Harper,Olive>:[74-66]->Teddy Bear
+<Gonzales,Bailey>:[44-39]->Lego Set
+<Rose,Daniel>:[29-37]->Lego Set
+<Patel,Christian>:[81-72]->Teddy Bear
+<Morales,Weston>:[89-15]->Toy Car
+<Peterson,Ayla>:[25-52]->Wooly Jumper
+<Reynolds,River>:[78-70]->Orange
+<Garza,Gracie>:[97-78]->Orange
+<Lee,Adam>:[85-29]->Teddy Bear
+<Nichols,Adam>:[2-93]->Bike
+<Nichols,Hope>:[38-8]->Book
+<Webb,Blake>:[52-41]->Wooly Jumper
+<Young,Juniper>:[20-9]->Action Man Figure
+<Cooper,Journee>:[67-65]->Toy Car
+<Garza,Raelynn>:[99-58]->Orange
+<Daniels,Eva>:[95-45]->Bike
+<Diaz,Arabella>:[37-24]->Bag of Sweets
+<Baker,Emmett>:[66-66]->Lego Set
+<Brown,Avery>:[28-72]->Action Man Figure
+<Russell,Jordyn>:[57-94]->Toy Car
+<Chavez,Rylee>:[59-38]->Action Man Figure
+<Miller,Evelyn>:[51-29]->Book
+<Patel,Leonardo>:[36-19]->Wooly Jumper
+<Morris,Gemma>:[49-53]->Barbie Doll
+<Flores,Zachary>:[34-15]->Wooly Jumper
+<Shaw,Simon>:[66-19]->Lego Set
+<Lawson,Atlas>:[69-91]->Orange
+<Chavez,Abigail>:[43-41]->Lego Set
+<Hunt,Isla>:[21-75]->Bag of Sweets
+<Lynch,Eric>:[53-6]->Orange
+<Ortiz,Kai>:[29-59]->Teddy Bear
+<Silva,Jose>:[10-30]->Action Man Figure
+<Knight,Annie>:[53-43]->Book
+<Austin,Harrison>:[77-84]->Action Man Figure
+<Hansen,Vincent>:[66-10]->Action Man Figure
+<Willis,David>:[59-49]->Barbie Doll
+<Ford,Rachel>:[32-45]->Bike
+<Griffin,Jett>:[64-10]->Bag of Sweets
+<Duncan,Zayden>:[71-98]->Barbie Doll
+<Rodriguez,Archer>:[80-6]->Bag of Sweets
+<Kelley,Justin>:[77-84]->Book
+<Baker,Kylie>:[67-68]->Lego Set
+<Lopez,Logan>:[88-47]->Teddy Bear
+<Jordan,Zoey>:[95-0]->Orange
+<Duncan,Norah>:[52-72]->Orange
+<King,Eden>:[13-84]->Toy Car
+<Spencer,Judah>:[39-18]->Teddy Bear
+<Sanders,Giovanni>:[2-72]->Wooly Jumper
+<Porter,Isabelle>:[97-44]->Book
+<Wright,Lukas>:[13-19]->Bike
+<James,Juan>:[68-86]->Barbie Doll
+<Crawford,Jose>:[48-74]->Toy Car
+<Stewart,Max>:[68-63]->Book
+<Porter,Esther>:[77-19]->Bike
+<Gray,Rhett>:[89-68]->Orange
+<Martinez,Margot>:[41-67]->Book
+<Turner,Callie>:[0-33]->Teddy Bear
+<Castillo,Carlos>:[77-73]->Bike
+<Cole,Lincoln>:[97-52]->Bag of Sweets
+<Coleman,Maddox>:[46-74]->Barbie Doll
+<Lopez,Easton>:[38-28]->Wooly Jumper
+<Hicks,Layla>:[36-62]->Teddy Bear
+<Gonzalez,Everly>:[79-23]->Wooly Jumper
+<Simpson,Hope>:[46-4]->Toy Car
+<Howard,Juliana>:[46-17]->Lego Set
+<Webb,Mackenzie>:[19-46]->Orange
+<Peterson,Tyler>:[39-43]->Bag of Sweets
+<Sanders,Carter>:[60-80]->Barbie Doll
+<Weaver,Bailey>:[47-28]->Wooly Jumper
+<Kim,Aspen>:[11-55]->Teddy Bear
+<Peters,Damian>:[71-31]->Bag of Sweets
+<Sullivan,Harlow>:[64-32]->Wooly Jumper
+<Adams,Taylor>:[36-76]->Wooly Jumper
+<Bailey,Harmony>:[22-42]->Book
+<Nelson,Vera>:[32-66]->Lego Set
+<Harper,Jesus>:[72-81]->Lego Set
+<Vargas,Remi>:[1-71]->Wooly Jumper
+<Cruz,Jaxon>:[75-70]->Bag of Sweets
+<Patel,Caden>:[36-3]->Wooly Jumper
+<Foster,Leah>:[79-63]->Bike
+<Mcdonald,Eric>:[85-4]->Book
+<Kennedy,Dylan>:[12-47]->Bike
+<Gutierrez,Juniper>:[74-24]->Wooly Jumper
+<Sanders,Sebastian>:[34-30]->Action Man Figure
+<Rice,Ryker>:[71-24]->Barbie Doll
+<Brown,Zayden>:[15-56]->Teddy Bear
+<Franklin,Leonardo>:[26-83]->Action Man Figure
+<Washington,Aiden>:[40-21]->Action Man Figure
+<Harvey,Elena>:[55-14]->Toy Car
+<Gray,Magnolia>:[87-93]->Barbie Doll
+<Ross,Paisley>:[51-14]->Barbie Doll
+<Garza,Sophia>:[52-17]->Book
+<Morales,Ember>:[35-47]->Bike
+<Gardner,Kayden>:[88-19]->Book
+<Jackson,Kinsley>:[63-9]->Action Man Figure
+<Gardner,June>:[2-58]->Book
+<Hudson,Braxton>:[42-79]->Toy Car
+<Payne,Alan>:[67-87]->Orange
+<Nelson,Rhett>:[6-74]->Orange
+<Aguilar,Braxton>:[82-11]->Barbie Doll
+<George,Dawson>:[89-40]->Toy Car
+<Wallace,Mateo>:[54-19]->Action Man Figure
+<Owens,Julian>:[38-15]->Barbie Doll
+<Fisher,Valerie>:[0-3]->Orange
+<Munoz,Andrew>:[53-59]->Bag of Sweets
+<Watson,Charlie>:[41-12]->Bag of Sweets
+<Moore,George>:[66-0]->Orange
+<Cole,Alice>:[45-6]->Book
+<Howell,Avery>:[6-9]->Bike
+<Harper,Eliana>:[22-95]->Bag of Sweets
+<Crawford,Karter>:[84-60]->Action Man Figure
+<Warren,Sebastian>:[13-3]->Wooly Jumper
+<Rivera,Piper>:[18-86]->Lego Set
+<Vasquez,Angela>:[61-7]->Barbie Doll
+<Fisher,Leon>:[30-93]->Book
+<Garza,Charles>:[37-14]->Teddy Bear
+<White,Evangeline>:[47-6]->Teddy Bear
+<Berry,Kash>:[11-31]->Book
+<Jones,Kehlani>:[0-85]->Lego Set
+<Lee,Dean>:[67-5]->Bike
+<Silva,Walker>:[99-2]->Bag of Sweets
+<Gonzalez,Zayden>:[93-74]->Lego Set
+<Watkins,Archer>:[84-54]->Bag of Sweets
+<Sanders,Noelle>:[76-53]->Action Man Figure
+<Howard,Bailey>:[27-67]->Toy Car
+<Lynch,Sara>:[16-27]->Barbie Doll
+<Berry,Messiah>:[19-95]->Lego Set
+<Cunningham,Aaliyah>:[94-43]->Book
+<Lewis,Kamila>:[58-15]->Barbie Doll
+<Rodriguez,Brandon>:[6-39]->Bag of Sweets
+<Gutierrez,Atlas>:[58-92]->Toy Car
+<Rodriguez,Rowan>:[99-71]->Action Man Figure
+<Hughes,Amira>:[71-28]->Orange
+<Hill,James>:[73-99]->Bag of Sweets
+<Ryan,Madison>:[38-12]->Lego Set
+<Woods,Julia>:[45-95]->Barbie Doll
+<Barnes,Sarah>:[92-16]->Book
+<Meyer,Norah>:[12-81]->Wooly Jumper
+<Martin,Quinn>:[85-47]->Action Man Figure
+<Henry,Harper>:[49-49]->Orange
+<Bell,Parker>:[75-14]->Orange
+<Ray,Mackenzie>:[40-86]->Barbie Doll
+<Robinson,Hadley>:[5-32]->Barbie Doll
+<Austin,Elizabeth>:[21-75]->Barbie Doll
+<Schmidt,Kaia>:[88-3]->Wooly Jumper
+<Barnes,Samuel>:[36-7]->Bag of Sweets
+<Gonzalez,Ella>:[35-93]->Orange
+<Perkins,Josiah>:[44-14]->Action Man Figure
+<Moreno,Carson>:[53-37]->Barbie Doll
+<Walker,Ruth>:[66-60]->Lego Set
+<Meyer,Easton>:[19-52]->Wooly Jumper
+<Lopez,Ada>:[61-45]->Wooly Jumper
+<Turner,Mila>:[56-59]->Barbie Doll
+<Torres,Savannah>:[2-28]->Wooly Jumper
+<Rogers,Jacob>:[4-29]->Bag of Sweets
+<Graham,Zara>:[44-44]->Bike
+<Salazar,Silas>:[31-8]->Book
+<Henry,Noelle>:[73-68]->Barbie Doll
+<Grant,Karter>:[14-82]->Orange
+<Martinez,Molly>:[35-63]->Teddy Bear
+<Mason,Malachi>:[48-78]->Action Man Figure
+<Armstrong,Ace>:[31-39]->Action Man Figure
+<Olson,Edward>:[71-44]->Wooly Jumper
+<Sanders,Valentina>:[95-74]->Barbie Doll
+<Hughes,Grant>:[35-54]->Barbie Doll
+<Hamilton,Aubree>:[11-94]->Toy Car
+<Castillo,Carlos>:[9-61]->Book
+<Crawford,Rowan>:[22-75]->Wooly Jumper
+<Perkins,Lincoln>:[26-81]->Bag of Sweets
+<Snyder,Jett>:[94-40]->Bag of Sweets
+<Henry,Ava>:[94-22]->Lego Set
+<Olson,Octavia>:[95-47]->Lego Set
+<Bryant,Rylee>:[15-22]->Wooly Jumper
+<Ramos,Stella>:[59-39]->Teddy Bear
+<Bell,Bennett>:[64-63]->Wooly Jumper
+<Aguilar,Ember>:[47-97]->Wooly Jumper
+<Alvarez,Axel>:[82-47]->Toy Car
+<Reed,Bryson>:[70-81]->Book
+<Stewart,Giovanni>:[60-73]->Orange
+<Austin,Blake>:[46-80]->Book
+<Thompson,Sofia>:[50-72]->Toy Car
+<Gutierrez,Ximena>:[1-10]->Bike
+<Thomas,Leilani>:[33-4]->Barbie Doll
+<Medina,Milo>:[25-50]->Wooly Jumper
+<Thompson,Emmanuel>:[9-67]->Barbie Doll
+<Burns,Blakely>:[85-20]->Toy Car
+<Fisher,Avery>:[76-91]->Action Man Figure
+<Turner,Dawson>:[52-30]->Lego Set
+<Hayes,Adriel>:[15-55]->Toy Car
+<Morrison,Ruby>:[86-78]->Toy Car
+<Richardson,Madison>:[12-0]->Wooly Jumper
+<Lewis,Emersyn>:[50-2]->Book
+<Mendez,Kaia>:[59-8]->Toy Car
+<Hamilton,Nicholas>:[78-77]->Action Man Figure
+<Rivera,Kingston>:[10-18]->Barbie Doll
+<Scott,Avery>:[33-27]->Wooly Jumper
+<Kennedy,Phoebe>:[65-27]->Orange
+<Lane,Myla>:[63-29]->Bag of Sweets
+<Bailey,Aria>:[42-62]->Lego Set
+<Wheeler,Israel>:[36-91]->Book
+<Willis,Lucia>:[50-92]->Wooly Jumper
+<White,Anastasia>:[15-23]->Orange
+<Armstrong,Ashley>:[25-55]->Wooly Jumper
+<Knight,Violet>:[2-63]->Bike
+<Russell,Remington>:[67-12]->Bike
+<Silva,Lucas>:[27-30]->Teddy Bear
+<Gutierrez,Jesse>:[77-61]->Orange
+<Stewart,Penelope>:[56-62]->Book
+<Crawford,Isabella>:[58-77]->Book
+<Peters,Sienna>:[36-41]->Wooly Jumper
+<Harper,Nyla>:[60-19]->Action Man Figure
+<Gutierrez,Madison>:[0-83]->Book
+<Carr,Roman>:[54-96]->Wooly Jumper
+<Turner,Luis>:[52-12]->Action Man Figure
+<Butler,Xavier>:[0-86]->Bike
+<Wheeler,Alexandra>:[27-83]->Bag of Sweets
+<Kelly,Adrian>:[77-57]->Book
+<Kim,Lucy>:[35-56]->Bike
+<Kim,Oakley>:[26-59]->Bike
+<Carlson,Grayson>:[69-69]->Lego Set
+<Bennett,Emersyn>:[10-69]->Action Man Figure
+<Daniels,Justin>:[19-18]->Bag of Sweets
+<Garza,Sophia>:[91-3]->Action Man Figure
+<Tucker,Adriel>:[97-40]->Bike
+<Holmes,Ace>:[48-7]->Toy Car
+<Garza,Brooks>:[33-46]->Book
+<Griffin,Violet>:[3-92]->Teddy Bear
+<Alexander,Emmett>:[26-62]->Orange
+<Harper,Messiah>:[59-88]->Wooly Jumper
+<Hawkins,John>:[82-23]->Wooly Jumper
+<Castillo,Jayce>:[93-82]->Book
+<Dixon,Lucy>:[17-93]->Lego Set
+<Wood,Finley>:[4-49]->Bike
+<Nguyen,Sutton>:[49-24]->Wooly Jumper
+<Schmidt,Sage>:[96-62]->Book
+<George,Caleb>:[43-84]->Bag of Sweets
+<Gray,Samuel>:[62-2]->Action Man Figure
+<Gomez,Emiliano>:[71-48]->Bag of Sweets
+<Rice,Mary>:[26-4]->Action Man Figure
+<Jensen,Skylar>:[48-27]->Wooly Jumper
+<Bishop,Josephine>:[40-43]->Barbie Doll
+<Fox,Xander>:[35-59]->Barbie Doll
+<Lane,Jesse>:[35-28]->Toy Car
+<Romero,Juan>:[32-41]->Toy Car
+<Russell,Ariella>:[56-33]->Barbie Doll
+<Ruiz,Leah>:[90-23]->Toy Car
+<Dixon,Daniel>:[92-43]->Book
+<Davis,Isla>:[14-38]->Orange
+<Chapman,Lincoln>:[41-99]->Toy Car
+<Crawford,Melanie>:[99-49]->Lego Set
+<Jimenez,William>:[92-5]->Bike
+<Hunter,Santiago>:[44-71]->Action Man Figure
+<Vargas,Athena>:[7-38]->Barbie Doll
+<Mitchell,Avery>:[24-23]->Lego Set
+<Bell,Roman>:[52-92]->Teddy Bear
+<Owens,Nathan>:[43-17]->Toy Car
+<Jenkins,Aaliyah>:[4-35]->Bag of Sweets
+<Lane,Octavia>:[92-53]->Orange
+<Larson,Adeline>:[36-91]->Book
+<Hoffman,June>:[51-44]->Bike
+<Meyer,Parker>:[5-9]->Orange
+<Miller,Anna>:[34-48]->Barbie Doll
+<Richardson,Felix>:[37-10]->Bike
+<Gomez,Angel>:[58-30]->Toy Car
+<Cunningham,Diana>:[34-78]->Wooly Jumper
+<Turner,Aaron>:[99-12]->Action Man Figure
+<Davis,John>:[23-85]->Book
+<Lynch,Ximena>:[54-96]->Book
+<Roberts,Selena>:[13-34]->Lego Set
+<Jacobs,Nicolas>:[95-57]->Toy Car
+<Murphy,Matthew>:[43-71]->Teddy Bear
+<Crawford,Cooper>:[6-73]->Toy Car
+<West,Knox>:[57-81]->Book
+<Hayes,Javier>:[51-10]->Bag of Sweets
+<Watson,Millie>:[46-27]->Lego Set
+<Stewart,Legend>:[75-53]->Toy Car
+<Kelley,Kingston>:[97-24]->Orange
+<Hawkins,Ryker>:[70-83]->Teddy Bear
+<Graham,Maxwell>:[64-1]->Lego Set
+<Barnes,Jeremy>:[42-74]->Orange
+<Jackson,Amira>:[81-17]->Toy Car
+<Fernandez,Eloise>:[8-35]->Action Man Figure
+<Williamson,Elias>:[59-33]->Bag of Sweets
+<Russell,Bella>:[43-3]->Bike
+<Marshall,Serenity>:[59-65]->Lego Set
+<White,Dawson>:[69-83]->Barbie Doll
+<Torres,Asher>:[78-29]->Teddy Bear
+<Fernandez,Adeline>:[51-69]->Bag of Sweets
+<Martinez,Diego>:[26-63]->Barbie Doll
+<Arnold,Madelyn>:[21-76]->Bike
+<Knight,Freya>:[41-32]->Wooly Jumper
+<Andrews,Abraham>:[81-32]->Lego Set
+<Freeman,Jonathan>:[87-72]->Toy Car
+<Stephens,Remi>:[6-18]->Bag of Sweets
+<Ross,Elliana>:[65-97]->Barbie Doll
+<Carlson,Lyla>:[78-60]->Book
+<Austin,Madison>:[47-70]->Action Man Figure
+<Daniels,Blakely>:[42-51]->Barbie Doll
+<Austin,Londyn>:[41-93]->Toy Car
+<Castro,Harper>:[65-36]->Bag of Sweets
+<Montgomery,Leilani>:[80-6]->Action Man Figure
+<Elliott,Hope>:[8-72]->Barbie Doll
+<Warren,Caden>:[27-29]->Lego Set
+<Vasquez,Jameson>:[61-48]->Teddy Bear
+<Miller,Christopher>:[91-18]->Toy Car
+<Nelson,Rachel>:[99-22]->Book
+<Carlson,Bryson>:[69-16]->Lego Set
+<Fernandez,Aaliyah>:[31-8]->Action Man Figure
+<Richardson,Brynlee>:[78-61]->Orange
+<Rodriguez,Blake>:[92-34]->Orange
+<Woods,Patrick>:[89-31]->Wooly Jumper
+<Ray,Lilly>:[16-69]->Barbie Doll
+<Hill,Waylon>:[93-59]->Bike
+<Carroll,Everett>:[71-90]->Teddy Bear
+<Ferguson,Elsie>:[10-40]->Lego Set
+<Griffin,Phoebe>:[46-72]->Teddy Bear
+<Ramirez,Ellie>:[19-9]->Teddy Bear
+<Weaver,Maria>:[77-59]->Lego Set
+<George,Jude>:[96-62]->Lego Set
+<Kennedy,Mateo>:[73-50]->Lego Set
+<Morgan,Brianna>:[53-31]->Barbie Doll
+<Owens,Legend>:[6-29]->Barbie Doll
+<Gardner,Ava>:[43-61]->Wooly Jumper
+<Brown,Camila>:[12-85]->Action Man Figure
+<Hicks,Lucy>:[28-4]->Barbie Doll
+<Ward,Adrian>:[18-10]->Action Man Figure
+<Moreno,Ariana>:[3-59]->Bike
+<Wood,Robert>:[11-65]->Wooly Jumper
+<Meyer,Natalie>:[89-12]->Orange
+<Stone,Mariana>:[88-56]->Bag of Sweets
+<Henry,Rowan>:[12-71]->Action Man Figure
+<Schmidt,Blakely>:[87-74]->Orange
+<Watkins,Olivia>:[32-29]->Orange
+<Mcdonald,Adam>:[94-29]->Action Man Figure
+<Torres,Phoebe>:[78-57]->Toy Car
+<Brown,Lilly>:[92-8]->Bike
+<Jacobs,Beckett>:[43-94]->Barbie Doll
+<Graham,Sutton>:[54-59]->Action Man Figure
+<Jackson,Kennedy>:[86-31]->Toy Car
+<Hayes,Phoenix>:[46-68]->Action Man Figure
+<Collins,Ian>:[32-9]->Lego Set
+<Mills,Rylee>:[86-31]->Book
+<Montgomery,Cora>:[41-67]->Teddy Bear
+<Thomas,Michael>:[24-94]->Barbie Doll
+<Castillo,Kaleb>:[84-75]->Action Man Figure
+<Warren,Olive>:[41-97]->Orange
+<Watson,Sawyer>:[7-31]->Orange
+<Mcdonald,Elliana>:[49-90]->Bag of Sweets
+<Bennett,Cameron>:[54-40]->Lego Set
+<Diaz,Jeremiah>:[35-39]->Bike
+<Brooks,Magnolia>:[67-47]->Barbie Doll
+<Ross,Maverick>:[54-76]->Action Man Figure
+<Reed,Ivan>:[2-35]->Barbie Doll
+<Wagner,Andres>:[9-92]->Orange
+<Hawkins,Freya>:[46-99]->Teddy Bear
+<Burns,Ayla>:[8-30]->Toy Car
+<Morgan,Nevaeh>:[59-77]->Toy Car
+<Kennedy,Caroline>:[41-50]->Lego Set
+<Carpenter,Willow>:[2-22]->Bag of Sweets
+<Jordan,Hailey>:[25-23]->Bike
+<Williams,Jude>:[62-38]->Teddy Bear
+<Willis,Phoebe>:[19-50]->Book
+<Nichols,Cameron>:[70-81]->Bike
+<Arnold,Juliana>:[94-46]->Lego Set
+<Riley,Brooks>:[31-88]->Toy Car
+<Mills,Presley>:[20-90]->Wooly Jumper
+<George,Piper>:[0-96]->Wooly Jumper
+<Harrison,Logan>:[29-46]->Action Man Figure
+<Simpson,Justin>:[43-12]->Book
+<Hart,Nolan>:[16-28]->Lego Set
+<Robinson,Paisley>:[83-57]->Lego Set
+<Mcdonald,Aurora>:[39-92]->Action Man Figure
+<Myers,Gemma>:[69-64]->Wooly Jumper
+<Hudson,Micah>:[44-3]->Action Man Figure
+<Mason,Leilani>:[57-28]->Toy Car
+<Gardner,Elijah>:[49-58]->Bike
+<Tucker,Lucia>:[90-22]->Action Man Figure
+<Hamilton,Summer>:[36-5]->Wooly Jumper
+<Crawford,Ivan>:[10-49]->Bag of Sweets
+<Allen,Declan>:[80-4]->Bag of Sweets
+<Kelly,Waylon>:[15-14]->Wooly Jumper
+<Washington,Elizabeth>:[34-24]->Wooly Jumper
+<Perry,Gemma>:[78-10]->Toy Car
+<Riley,Lucy>:[74-59]->Teddy Bear
+<Tran,Carlos>:[68-6]->Toy Car
+<Evans,Carter>:[10-90]->Bike
+<Castro,Sydney>:[16-33]->Bag of Sweets
+<Mills,Hadley>:[67-47]->Wooly Jumper
+<Andrews,Isabel>:[92-48]->Book
+<Mendoza,River>:[94-38]->Action Man Figure
+<Palmer,Emilia>:[56-28]->Toy Car
+<Lynch,Mateo>:[84-88]->Teddy Bear
+<Daniels,Enzo>:[88-33]->Lego Set
+<Berry,Kamila>:[85-86]->Lego Set
+<Cunningham,Xavier>:[80-12]->Action Man Figure
+<Armstrong,Adalyn>:[34-11]->Toy Car
+<James,Iris>:[66-71]->Action Man Figure
+<Robinson,Emmett>:[18-31]->Toy Car
+<Morgan,Colton>:[26-11]->Bike
+<Greene,Harlow>:[78-20]->Action Man Figure
+<Fernandez,Silas>:[31-64]->Teddy Bear
+<Watkins,Rachel>:[89-86]->Wooly Jumper
+<Johnston,Eli>:[75-2]->Book
+<Cox,Beckham>:[42-33]->Book
+<Diaz,Arya>:[0-21]->Wooly Jumper
+<Austin,Arlo>:[3-60]->Bag of Sweets
+<Meyer,Beckett>:[16-11]->Barbie Doll
+<Knight,Zoe>:[22-31]->Book
+<Jenkins,Messiah>:[90-45]->Barbie Doll
+<Allen,Elliana>:[1-61]->Action Man Figure
+<Williams,Victoria>:[75-5]->Barbie Doll
+<Ruiz,Amy>:[5-16]->Wooly Jumper
+<Cunningham,Taylor>:[84-69]->Wooly Jumper
+<Burke,Ayla>:[32-82]->Lego Set
+<Hoffman,Summer>:[65-58]->Toy Car
+<Austin,Declan>:[18-2]->Bike
+<Howell,Arabella>:[3-39]->Book
+<Patel,Messiah>:[99-69]->Lego Set
+<Nelson,Zayden>:[1-96]->Orange
+<Jensen,Charlie>:[38-50]->Barbie Doll
+<Barnes,Evelyn>:[29-36]->Orange
+<Dixon,Beckett>:[7-39]->Lego Set
+<Walker,Anthony>:[82-29]->Book
+<Griffin,Elias>:[1-96]->Lego Set
+<Ramos,Jade>:[10-27]->Book
+<Washington,Juliette>:[74-79]->Action Man Figure
+<Willis,Arlo>:[11-10]->Book
+<Matthews,Hazel>:[68-83]->Book
+<Montgomery,Robert>:[42-22]->Wooly Jumper
+<Sanchez,Kingston>:[55-17]->Book
+<Fox,Sara>:[52-26]->Orange
+<Cox,Elijah>:[75-2]->Toy Car
+<Harvey,Beckham>:[85-88]->Barbie Doll
+<Thompson,Jett>:[61-2]->Bike
+<Kelley,Anthony>:[99-49]->Bike
+<Perry,Tristan>:[76-84]->Bag of Sweets
+<Perry,Xander>:[8-47]->Barbie Doll
+<Harvey,Carter>:[31-33]->Bag of Sweets
+<Collins,Hazel>:[3-34]->Book
+<Burns,Bailey>:[93-84]->Orange
+<Torres,Abigail>:[7-79]->Teddy Bear
+<Jacobs,Leon>:[27-57]->Wooly Jumper
+<Schmidt,Diana>:[93-93]->Orange
+<Ramos,London>:[38-51]->Book
+<Kelly,Claire>:[76-77]->Lego Set
+<Coleman,Alan>:[11-44]->Toy Car
+<Henry,Anthony>:[11-5]->Orange
+<George,Carlos>:[83-79]->Book
+<Herrera,Madison>:[24-50]->Barbie Doll
+<Butler,Arthur>:[13-58]->Action Man Figure
+<Gonzales,Waylon>:[9-41]->Wooly Jumper
+<Alexander,Eden>:[85-84]->Orange
+<Hall,Emmanuel>:[78-32]->Lego Set
+<Lopez,Lucia>:[45-61]->Wooly Jumper
+<Myers,Finn>:[42-57]->Teddy Bear
+<Kim,Legend>:[9-48]->Lego Set
+<Smith,Leon>:[67-91]->Teddy Bear
+<Kennedy,Kaia>:[54-1]->Barbie Doll
+<Lee,Ryder>:[48-20]->Lego Set
+<Ferguson,Bailey>:[82-19]->Barbie Doll
+<Stevens,Isabelle>:[68-14]->Teddy Bear
+<Owens,Brayden>:[62-64]->Bike
+<Foster,Lillian>:[90-84]->Action Man Figure
+<Peters,Lorenzo>:[60-89]->Barbie Doll
+<Young,Myles>:[37-94]->Bag of Sweets
+<Webb,Samuel>:[33-44]->Lego Set
+<Rogers,Graham>:[96-54]->Bike
+<Romero,Luca>:[99-31]->Orange
+<Cole,Annie>:[55-62]->Barbie Doll
+<Patel,Caroline>:[91-36]->Bag of Sweets
+<Thompson,Greyson>:[75-55]->Wooly Jumper
+<Evans,Riley>:[68-64]->Lego Set
+<Wood,Leonardo>:[86-90]->Orange
+<Willis,Gracie>:[75-62]->Orange
+<Pierce,Nathaniel>:[49-43]->Lego Set
+<Miller,Tristan>:[70-35]->Action Man Figure
+<Porter,Aaron>:[78-22]->Book
+<Webb,Damian>:[19-23]->Barbie Doll
+<Murphy,Oaklynn>:[94-95]->Teddy Bear
+<Edwards,Athena>:[39-59]->Wooly Jumper
+<Tucker,Melanie>:[73-5]->Lego Set
+<Reed,Esther>:[70-57]->Wooly Jumper
+<Murray,Hudson>:[54-78]->Bag of Sweets
+<Cunningham,Declan>:[77-77]->Wooly Jumper
+<Silva,Eloise>:[77-58]->Bike
+<Castro,Jace>:[43-74]->Barbie Doll
+<Owens,Sawyer>:[36-51]->Action Man Figure
+<Jensen,Declan>:[83-49]->Bag of Sweets
+<Bailey,Blake>:[9-20]->Lego Set
+<Pierce,Nyla>:[20-51]->Toy Car
+<Snyder,Jeremiah>:[36-13]->Lego Set
+<Roberts,Weston>:[58-6]->Wooly Jumper
+<Watkins,Abel>:[47-50]->Bike
+<Ross,Kyler>:[28-4]->Orange
+<Bell,Kaiden>:[42-96]->Bike
+<Powell,Nicolas>:[58-54]->Lego Set
+<Sullivan,Carlos>:[1-16]->Barbie Doll
+<Jacobs,Patrick>:[93-25]->Barbie Doll
+<Nguyen,Kingston>:[95-56]->Bag of Sweets
+<White,Damian>:[84-79]->Teddy Bear
+<Richards,Maxwell>:[74-84]->Wooly Jumper
+<Ortiz,Amelia>:[71-77]->Orange
+<Dixon,Leonardo>:[23-85]->Wooly Jumper
+<Tucker,Evan>:[65-15]->Orange
+<Dunn,Finn>:[25-33]->Bag of Sweets
+<Simpson,Simon>:[31-86]->Orange
+<Lee,Emersyn>:[78-97]->Orange
+<Henry,Kimberly>:[53-72]->Teddy Bear
+<Rivera,Ada>:[86-18]->Bag of Sweets
+<Richardson,Jesse>:[48-71]->Bag of Sweets
+<Wheeler,Sawyer>:[52-40]->Orange
+<Carpenter,Jacob>:[8-82]->Barbie Doll
+<Flores,Giovanni>:[96-29]->Wooly Jumper
+<Nichols,Jonathan>:[73-52]->Barbie Doll
+<Dunn,Charles>:[59-96]->Orange
+<Roberts,Oscar>:[56-77]->Barbie Doll
+<Romero,Charlie>:[28-93]->Teddy Bear
+<Wright,Millie>:[40-78]->Teddy Bear
+<Sullivan,Grace>:[69-64]->Teddy Bear
+<Baker,Isla>:[23-20]->Teddy Bear
+<Taylor,Sienna>:[10-75]->Book
+<Watson,Brielle>:[69-17]->Bag of Sweets
+<Williamson,Zachary>:[28-20]->Barbie Doll
+<Aguilar,Sawyer>:[6-26]->Toy Car
+<Smith,Eliza>:[79-57]->Bag of Sweets
+<Hart,Hunter>:[63-22]->Orange
+<Cooper,Emilio>:[59-92]->Toy Car
+<Franklin,Scarlett>:[30-91]->Bag of Sweets
+<Mason,Margaret>:[13-13]->Teddy Bear
+<Morrison,Presley>:[66-92]->Bag of Sweets
+<Rogers,Gracie>:[73-63]->Orange
+<Walker,Arabella>:[47-52]->Orange
+<Wilson,Elena>:[88-19]->Wooly Jumper
+<Moreno,John>:[46-90]->Toy Car
+<Foster,Melody>:[3-7]->Barbie Doll
+<Ramirez,Kaia>:[37-52]->Bag of Sweets
+<Rodriguez,Skylar>:[79-64]->Orange
+<Pierce,Octavia>:[97-82]->Bag of Sweets
+<Vasquez,Grace>:[52-0]->Lego Set
+<Castro,Ava>:[54-17]->Action Man Figure
+<Snyder,Atlas>:[44-66]->Book
+<Willis,Asher>:[97-93]->Teddy Bear
+<Mason,Maxwell>:[66-10]->Barbie Doll
+<Bennett,Londyn>:[56-16]->Bag of Sweets
+<Morales,Catalina>:[89-81]->Book
+<Fox,Karter>:[55-59]->Wooly Jumper
+<Ramirez,Isabel>:[62-81]->Teddy Bear
+<Daniels,Naomi>:[80-54]->Wooly Jumper
+<Lane,Charles>:[95-10]->Bike
+<Nelson,Silas>:[88-38]->Lego Set
+<Fox,Lilly>:[61-15]->Lego Set
+<Roberts,Sebastian>:[94-81]->Orange
+<Vargas,Leilani>:[19-12]->Book
+<Perez,Santiago>:[8-54]->Toy Car
+<Hayes,Ivan>:[90-10]->Orange
+<Howell,Sarah>:[26-63]->Action Man Figure
+<West,Wesley>:[98-29]->Toy Car
+<Sanders,Emersyn>:[90-91]->Bike
+<Mendez,James>:[6-15]->Lego Set
+<Moore,Blake>:[90-60]->Bag of Sweets
+<Powell,Abraham>:[52-0]->Book
+<Lawrence,Henry>:[36-16]->Book
+<Hughes,Edward>:[71-82]->Barbie Doll
+<Simpson,Jaxson>:[33-87]->Lego Set
+<James,Braxton>:[78-90]->Barbie Doll
+<Torres,Bailey>:[43-83]->Action Man Figure
+<Henry,Brianna>:[73-36]->Action Man Figure
+<Reed,Freya>:[43-97]->Orange
+<Diaz,Bailey>:[51-68]->Book
+<Herrera,Wyatt>:[31-40]->Teddy Bear
+<Hall,Adalyn>:[1-79]->Bike
+<Gardner,Jayce>:[27-43]->Barbie Doll
+<Ross,Henry>:[82-27]->Bag of Sweets
+<Gutierrez,Matias>:[75-21]->Bike
+<Gordon,Nash>:[17-96]->Teddy Bear
+<Jensen,Andres>:[26-20]->Orange
+<Fernandez,Andres>:[50-10]->Action Man Figure
+<Harrison,Ryder>:[78-15]->Toy Car
+<Kennedy,Hayes>:[75-40]->Wooly Jumper
+<Garcia,John>:[29-31]->Bag of Sweets
+<Stevens,Cameron>:[85-14]->Lego Set
+<Freeman,Cora>:[22-75]->Bike
+<Butler,Jonah>:[19-46]->Lego Set
+<Alvarez,Nevaeh>:[53-39]->Book
+<Sanders,Everly>:[28-53]->Orange
+<Bennett,Connor>:[5-75]->Bike
+<Hicks,David>:[3-98]->Book
+<Johnson,Bella>:[27-50]->Bag of Sweets
+<Salazar,Tucker>:[58-55]->Lego Set
+<Martinez,Lucas>:[7-20]->Teddy Bear
+<Jackson,Lilah>:[61-99]->Book
+<Burns,Journee>:[10-72]->Bike
+<Freeman,Grayson>:[4-72]->Teddy Bear
+<Cook,Sophie>:[71-89]->Action Man Figure
+<Torres,Eleanor>:[30-85]->Bike
+<Sullivan,Oscar>:[51-60]->Bike
+<Garza,Genevieve>:[54-96]->Orange
+<Lewis,Robert>:[46-83]->Book
+<Anderson,Jason>:[67-87]->Lego Set
+<Morrison,Richard>:[93-3]->Wooly Jumper
+<Lee,Brandon>:[92-28]->Lego Set
+<Garcia,Emmanuel>:[34-24]->Orange
+<Vargas,Freya>:[22-66]->Lego Set
+<Harris,Caroline>:[54-60]->Book
+<Boyd,Aubree>:[53-52]->Lego Set
+<Cooper,Clara>:[80-97]->Book
+<Evans,Riley>:[15-31]->Lego Set
+<Burns,Genevieve>:[12-56]->Bike
+<Aguilar,Carter>:[45-41]->Lego Set
+<Hill,Hayden>:[93-9]->Barbie Doll
+<Parker,Natalia>:[90-7]->Bag of Sweets
+<Jimenez,Maddox>:[86-48]->Bike
+<Wright,Enzo>:[43-80]->Teddy Bear
+<Powell,Valeria>:[38-40]->Toy Car
+<Powell,Ryleigh>:[52-82]->Wooly Jumper
+<Young,Quinn>:[35-29]->Wooly Jumper
+<Bailey,Ana>:[45-35]->Bag of Sweets
+<Snyder,Enzo>:[37-76]->Bike
+<Gordon,Jasper>:[30-27]->Wooly Jumper
+<Garza,Ruth>:[16-94]->Toy Car
+<Thomas,Londyn>:[10-86]->Action Man Figure
+<Johnson,Genevieve>:[15-3]->Lego Set
+<Cook,Dean>:[42-69]->Wooly Jumper
+<Warren,Luca>:[36-61]->Orange
+<Long,Laila>:[23-38]->Book
+<Mason,Myles>:[4-0]->Orange
+<Gomez,Sage>:[58-94]->Toy Car
+<Ramos,Gavin>:[67-71]->Bag of Sweets
+<Thompson,Sara>:[5-98]->Action Man Figure
+<Hunter,Arianna>:[42-97]->Bag of Sweets
+<Ramirez,Evelyn>:[61-82]->Orange
+<Jensen,Ruth>:[96-59]->Lego Set
+<Torres,Abel>:[27-39]->Orange
+<Butler,Valerie>:[51-22]->Teddy Bear
+<Weaver,Jeremiah>:[81-69]->Book
+<Cox,Caleb>:[26-19]->Wooly Jumper
+<Robinson,Olivia>:[18-98]->Action Man Figure
+<Washington,Remi>:[63-19]->Orange
+<Flores,Nolan>:[7-5]->Barbie Doll
+<Sanchez,Jason>:[56-68]->Teddy Bear
+<James,Alana>:[7-82]->Bag of Sweets
+<Carter,Xander>:[9-95]->Teddy Bear
+<Hall,Kai>:[60-87]->Barbie Doll
+<Arnold,Edward>:[38-17]->Teddy Bear
+<Kelly,Jasper>:[65-46]->Wooly Jumper
+<Bradley,Isabel>:[25-25]->Teddy Bear
+<Reynolds,Elsie>:[51-87]->Toy Car
+<Reed,Ada>:[93-40]->Bag of Sweets
+<Carr,Emma>:[32-44]->Toy Car
+<Griffin,Ian>:[17-2]->Bike
+<Jacobs,Zoey>:[55-56]->Barbie Doll
+<Duncan,Katherine>:[13-64]->Action Man Figure
+<Schmidt,Camila>:[6-3]->Wooly Jumper
+<Ellis,Adeline>:[99-50]->Barbie Doll
+<Reed,Ryleigh>:[97-25]->Bag of Sweets
+<Wheeler,Walker>:[93-52]->Lego Set
+<Morrison,Elias>:[13-23]->Barbie Doll
+<Mendoza,Ryan>:[8-58]->Book
+<Alexander,Sydney>:[47-19]->Lego Set
+<Russell,Santiago>:[32-41]->Action Man Figure
+<Woods,Brooklyn>:[35-42]->Bag of Sweets
+<Thompson,Vera>:[86-12]->Lego Set
+<Mason,Hunter>:[59-92]->Teddy Bear
+<Lawrence,Logan>:[41-22]->Teddy Bear
+<Nelson,Zane>:[91-13]->Wooly Jumper
+<Elliott,Everett>:[75-39]->Bike
+<Sullivan,Levi>:[94-41]->Action Man Figure
+<James,Alexandra>:[34-92]->Lego Set
+<Russell,Bennett>:[89-75]->Orange
+<Morris,River>:[46-40]->Teddy Bear
+<Harper,Jace>:[17-66]->Bag of Sweets
+<Brown,Wyatt>:[99-29]->Action Man Figure
+<Brooks,Landon>:[23-3]->Book
+<Nichols,Nova>:[48-21]->Lego Set
+<Garcia,Arlo>:[20-7]->Lego Set
+<Harrison,Charlie>:[34-38]->Action Man Figure
+<Hill,Antonio>:[31-79]->Toy Car
+<Oliver,Daniel>:[14-95]->Orange
+<Myers,Cora>:[74-68]->Bag of Sweets
+<Meyer,Kehlani>:[15-83]->Orange
+<Rivera,Kingston>:[19-60]->Bike
+<Adams,Luna>:[54-50]->Bike
+<Diaz,Brooks>:[60-38]->Bike
+<Munoz,Abigail>:[0-10]->Bag of Sweets
+<Nguyen,Luna>:[54-50]->Book
+<Greene,Allison>:[55-84]->Teddy Bear
+<Fernandez,Alexandra>:[49-55]->Orange
+<Price,Aiden>:[24-5]->Bag of Sweets
+<Holmes,Avery>:[14-56]->Teddy Bear
+<Black,Harper>:[15-6]->Bag of Sweets
+<Wells,Sage>:[90-52]->Toy Car
+<Carpenter,Archer>:[72-81]->Teddy Bear
+<Gibson,Charlie>:[10-70]->Bike
+<Crawford,Gavin>:[22-15]->Lego Set
+<Freeman,Zoey>:[4-19]->Orange
+<Harris,Isla>:[7-37]->Orange
+<Rose,Emerson>:[28-10]->Book
+<Simpson,Dean>:[60-22]->Action Man Figure
+<Carpenter,Aaliyah>:[1-47]->Lego Set
+<Hughes,Daniel>:[65-19]->Book
+<Arnold,Caroline>:[96-27]->Lego Set
+<Morgan,River>:[57-52]->Toy Car
+<Garcia,Lennon>:[67-1]->Lego Set
+<Dean,Sloane>:[57-24]->Bike
+<Harris,Margot>:[71-84]->Toy Car
+<Rodriguez,Arya>:[27-1]->Toy Car
+<Ramos,Peter>:[18-61]->Orange
+<Cruz,Preston>:[88-11]->Teddy Bear
+<Perkins,Olive>:[1-78]->Action Man Figure
+<Cooper,Gracie>:[21-70]->Wooly Jumper
+<Freeman,London>:[51-0]->Bag of Sweets
+<Johnston,Henry>:[94-71]->Lego Set
+<Marshall,Ryleigh>:[44-49]->Toy Car
+<Elliott,Bryce>:[87-80]->Bag of Sweets
+<Butler,Amelia>:[67-11]->Lego Set
+<Carlson,Penelope>:[10-91]->Book
+<Guzman,Lily>:[9-55]->Orange
+<Knight,Adalyn>:[6-93]->Bag of Sweets
+<Ross,Skylar>:[26-38]->Teddy Bear
+<Bell,Tyler>:[93-40]->Book
+<Peters,Daniel>:[41-5]->Barbie Doll
+<Ryan,Gabriella>:[86-47]->Book
+<Sanchez,Angela>:[61-58]->Book
+<Sanchez,London>:[89-77]->Bag of Sweets
+<Fisher,Jason>:[33-97]->Toy Car
+<Watson,Ivy>:[63-36]->Wooly Jumper
+<Stevens,Blake>:[14-63]->Toy Car
+<Jenkins,Iris>:[84-54]->Book
+<Peterson,Sawyer>:[40-3]->Bike
+<Carter,Raelynn>:[95-45]->Bike
+<Gonzales,Elijah>:[77-10]->Barbie Doll
+<Rose,Adrian>:[39-91]->Orange
+<Garcia,Kyrie>:[50-3]->Toy Car
+<Wells,Skylar>:[60-8]->Lego Set
+<Adams,Oliver>:[47-35]->Lego Set
+<Rodriguez,Ember>:[15-24]->Teddy Bear
+<Salazar,Phoenix>:[83-15]->Action Man Figure
+<Schmidt,Harmony>:[28-62]->Toy Car
+<Johnston,Stella>:[70-25]->Toy Car
+<Guzman,Eleanor>:[22-3]->Orange
+<Hamilton,Ayden>:[80-22]->Orange
+<Hicks,Greyson>:[66-35]->Bag of Sweets
+<Ellis,Avery>:[28-27]->Barbie Doll
+<Carr,Maya>:[91-77]->Action Man Figure
+<Mcdonald,Christian>:[6-73]->Toy Car
+<Dunn,Thiago>:[66-81]->Orange
+<Diaz,Sutton>:[25-7]->Book
+<George,Everleigh>:[41-30]->Bag of Sweets
+<Johnston,Vincent>:[67-86]->Action Man Figure
+<Foster,Marley>:[55-70]->Lego Set
+<White,River>:[19-13]->Book
+<Morrison,Raelynn>:[55-7]->Action Man Figure
+<Boyd,Henry>:[72-67]->Lego Set
+<Simpson,Zoey>:[14-26]->Action Man Figure
+<Rivera,Kaylee>:[62-17]->Book
+<Dean,Amy>:[0-23]->Teddy Bear
+<Tran,Alex>:[99-16]->Wooly Jumper
+<Kelly,Serenity>:[15-77]->Barbie Doll
+<Evans,Weston>:[12-37]->Barbie Doll
+<Williamson,Xander>:[73-85]->Orange
+<Lane,Charlie>:[28-20]->Teddy Bear
+<Robinson,Edward>:[37-36]->Teddy Bear
+<Holmes,Catalina>:[86-15]->Orange
+<Johnston,Messiah>:[15-82]->Teddy Bear
+<Patterson,Griffin>:[9-53]->Barbie Doll
+<Vargas,Elise>:[22-20]->Bag of Sweets
+<Ford,Jackson>:[82-56]->Bag of Sweets
+<Johnson,Cora>:[10-68]->Action Man Figure
+<Hoffman,Aspen>:[44-28]->Barbie Doll
+<Hamilton,Andres>:[80-56]->Barbie Doll
+<Perry,Eden>:[85-38]->Bike
+<Hunter,Ian>:[99-96]->Barbie Doll
+<Howard,Brianna>:[32-68]->Action Man Figure
+<Murray,Zachary>:[69-33]->Toy Car
+<Cole,Amira>:[46-14]->Book
+<White,Abraham>:[55-35]->Teddy Bear
+<Stevens,Maddox>:[83-46]->Orange
+<Mcdonald,Aliyah>:[88-64]->Orange
+<Jackson,Savannah>:[53-31]->Orange
+<Mendez,Sydney>:[56-84]->Lego Set
+<Woods,Sophie>:[61-16]->Bag of Sweets
+<Lawson,Violet>:[68-46]->Book
+<Rivera,Declan>:[38-79]->Orange
+<Andrews,Ashley>:[27-44]->Action Man Figure
+<Munoz,Giovanni>:[38-19]->Toy Car
+<Elliott,Autumn>:[2-84]->Orange
+<Moore,Emery>:[26-28]->Orange
+<Cruz,Elise>:[0-59]->Bag of Sweets
+<Jenkins,Eliana>:[81-82]->Barbie Doll
+<Hughes,Valeria>:[78-31]->Bike
+<Johnston,Melanie>:[57-66]->Orange
+<Wells,Molly>:[73-2]->Teddy Bear
+<Patel,Lyla>:[36-7]->Bike
+<Graham,Thomas>:[80-22]->Toy Car
+<Gardner,Easton>:[97-44]->Action Man Figure
+<Ross,Kyrie>:[97-49]->Lego Set
+<Bryant,Kyler>:[91-42]->Toy Car
+<Ramos,Eva>:[36-23]->Orange
+<Robertson,Eric>:[20-66]->Orange
+<Palmer,Jace>:[91-1]->Bag of Sweets
+<Hunter,Juan>:[90-34]->Barbie Doll
+<Torres,Ezekiel>:[14-0]->Book
+<Gonzales,Rosalie>:[40-7]->Barbie Doll
+<Ross,Rowan>:[39-59]->Book
+<Hughes,Alice>:[45-45]->Lego Set
+<Moore,James>:[95-81]->Action Man Figure
+<Matthews,Millie>:[62-10]->Bag of Sweets
+<Carpenter,Nyla>:[20-17]->Lego Set
+<Olson,Oscar>:[93-56]->Orange
+<Ortiz,Axel>:[1-52]->Lego Set
+<Russell,Logan>:[84-23]->Lego Set
+<Bell,Luka>:[53-26]->Book
+<Harvey,Caroline>:[16-50]->Bag of Sweets
+<Morrison,Matteo>:[64-61]->Bike
+<Richards,King>:[16-51]->Toy Car
+<Flores,Lily>:[33-31]->Lego Set
+<Fox,Zoe>:[51-66]->Book
+<Reyes,Morgan>:[46-15]->Lego Set
+<Gonzales,Leonardo>:[84-30]->Barbie Doll
+<James,Andrew>:[34-69]->Lego Set
+<Berry,Emery>:[63-35]->Orange
+<Kelley,Ryleigh>:[9-87]->Lego Set
+<Jordan,Amir>:[82-82]->Teddy Bear
+<Ford,Juniper>:[98-42]->Lego Set
+<Bishop,Kai>:[77-42]->Bike
+<Austin,Kaylee>:[12-67]->Toy Car
+<West,Carter>:[10-94]->Orange
+<Bryant,Delilah>:[57-32]->Bag of Sweets
+<Graham,Leila>:[16-85]->Bag of Sweets
+<Watson,Karter>:[28-14]->Teddy Bear
+<Palmer,Alina>:[14-36]->Orange
+<Graham,Barrett>:[71-15]->Wooly Jumper
+<Stewart,Ava>:[94-41]->Bike
+<Perry,Everett>:[24-60]->Wooly Jumper
+<Anderson,Jacob>:[86-42]->Wooly Jumper
+<Hernandez,Christopher>:[86-53]->Teddy Bear
+<Knight,Sawyer>:[20-25]->Book
+<Garza,Easton>:[82-61]->Bike
+<Bennett,Nevaeh>:[28-95]->Bike
+<Vargas,Jason>:[94-49]->Bag of Sweets
+<Carlson,Mary>:[83-32]->Barbie Doll
+<Cruz,Ayla>:[83-84]->Teddy Bear
+<Chapman,Athena>:[96-50]->Bag of Sweets
+<Scott,Taylor>:[32-47]->Barbie Doll
+<Bradley,Javier>:[49-13]->Bag of Sweets
+<Powell,Elsie>:[91-38]->Lego Set
+<Stewart,Emilio>:[75-38]->Book
+<Dean,Riley>:[31-30]->Orange
+<Schmidt,Elliot>:[76-3]->Teddy Bear
+<Clark,Evangeline>:[49-9]->Wooly Jumper
+<Gilbert,London>:[69-79]->Bag of Sweets
+<Ortiz,Myla>:[34-92]->Lego Set
+<Walker,Riley>:[39-97]->Wooly Jumper
+<Harvey,Hope>:[3-93]->Bike
+<Griffin,Stella>:[17-90]->Orange
+<Nguyen,Kennedy>:[82-14]->Wooly Jumper
+<Rodriguez,Christian>:[24-31]->Toy Car
+<Woods,Bella>:[32-54]->Orange
+<Price,Felix>:[87-50]->Book
+<Wells,Lukas>:[90-76]->Bag of Sweets
+<James,Londyn>:[59-83]->Barbie Doll
+<Wood,Harmony>:[87-1]->Bag of Sweets
+<Howell,Lorenzo>:[79-49]->Orange
+<Carpenter,Ella>:[52-13]->Action Man Figure
+<Henry,Benjamin>:[15-18]->Orange
+<Torres,Evan>:[72-72]->Barbie Doll
+<Hudson,Vincent>:[76-17]->Barbie Doll
+<Mitchell,Eli>:[36-45]->Toy Car
+<Gonzalez,Tyler>:[89-76]->Teddy Bear
+<Riley,Caroline>:[87-96]->Action Man Figure
+<Wallace,Milo>:[72-26]->Bag of Sweets
+<George,Andrea>:[28-14]->Wooly Jumper
+<Hart,Victoria>:[14-83]->Bike
+<Hunter,Felix>:[0-56]->Orange
+<Holmes,Zayden>:[81-68]->Bike
+<Peterson,Lennon>:[52-83]->Orange
+<Watson,Callie>:[0-42]->Book
+<Morrison,Samantha>:[22-99]->Action Man Figure
+<Guzman,Luka>:[69-54]->Teddy Bear
+<Stevens,Joshua>:[86-9]->Toy Car
+<Owens,Jace>:[67-89]->Bag of Sweets
+<Harrison,Elena>:[58-5]->Action Man Figure
+<Lane,Abel>:[90-62]->Book
+<Jones,Benjamin>:[1-4]->Book
+<Hernandez,Archer>:[44-92]->Lego Set
+<Graham,Carter>:[49-69]->Orange
+<Burke,Patrick>:[30-19]->Orange
+<Hernandez,Evelyn>:[31-32]->Orange
+<Larson,Matthew>:[88-0]->Teddy Bear
+<Howard,Sienna>:[28-94]->Bike
+<Martinez,Chloe>:[78-12]->Barbie Doll
+<Grant,Paisley>:[79-89]->Book
+<Wood,Colt>:[82-36]->Barbie Doll
+<Payne,Elizabeth>:[79-93]->Teddy Bear
+<Harris,Jesse>:[50-42]->Orange
+<Evans,Rachel>:[92-49]->Bag of Sweets
+<Patel,Ximena>:[68-48]->Action Man Figure
+<Morrison,Leonardo>:[52-76]->Bag of Sweets
+<Kelley,Zayden>:[46-64]->Toy Car
+<Tucker,Bryce>:[25-87]->Bike
+<Cruz,Genevieve>:[20-27]->Action Man Figure
+<Shaw,Graham>:[68-42]->Toy Car
+<Howard,Elijah>:[68-30]->Wooly Jumper
+<Moore,Christopher>:[12-65]->Teddy Bear
+<Matthews,Margot>:[53-34]->Barbie Doll
+<Carpenter,Maxwell>:[86-81]->Book
+<Green,Rhett>:[97-15]->Orange
+<Jacobs,Kaylee>:[60-46]->Book
+<Berry,Reese>:[9-63]->Wooly Jumper
+<Schmidt,Brooklyn>:[25-70]->Action Man Figure
+<Johnson,Bentley>:[49-65]->Bike
+<Arnold,Weston>:[44-67]->Barbie Doll
+<Rivera,Greyson>:[82-45]->Bike
+<Henry,Millie>:[37-92]->Book
+<Arnold,Cole>:[91-27]->Teddy Bear
+<Munoz,Molly>:[88-66]->Action Man Figure
+<Baker,Summer>:[4-35]->Lego Set
+<Carlson,Valentina>:[66-75]->Orange
+<Patterson,Amara>:[1-94]->Orange
+<Edwards,Maxwell>:[48-70]->Bike
+<Morrison,Josie>:[72-66]->Barbie Doll
+<Reed,Harrison>:[35-46]->Orange
+<Chavez,Jade>:[37-64]->Toy Car
+<Moreno,Arya>:[1-61]->Teddy Bear
+<Johnston,Jordyn>:[49-72]->Book
+<Jackson,River>:[21-24]->Toy Car
+<Willis,Mateo>:[30-34]->Barbie Doll
+<Washington,Waylon>:[66-32]->Bike
+<Willis,Jesus>:[45-83]->Teddy Bear
+<Schmidt,Jayden>:[60-73]->Bag of Sweets
+<Bennett,Alaina>:[79-32]->Teddy Bear
+<Griffin,Nash>:[98-68]->Bag of Sweets
+<Andrews,Stella>:[92-24]->Barbie Doll
+<Kennedy,Lorenzo>:[50-87]->Bike
+<Baker,Jordyn>:[55-10]->Bike
+<White,Sage>:[74-8]->Book
+<Nguyen,Angela>:[89-13]->Book
+<Gomez,David>:[62-67]->Action Man Figure
+<Adams,Kingston>:[0-46]->Orange
+<Hudson,Alejandro>:[69-63]->Bike
+<Watkins,Miguel>:[92-32]->Bag of Sweets
+<Alexander,Kamila>:[19-55]->Action Man Figure
+<Hunter,Amari>:[35-63]->Bag of Sweets
+<Hudson,Kevin>:[75-55]->Lego Set
+<Simmons,Penelope>:[84-75]->Action Man Figure
+<Diaz,Sage>:[7-11]->Barbie Doll
+<Mcdonald,Zayden>:[18-55]->Lego Set
+<Myers,Micah>:[68-53]->Bike
+<Guzman,James>:[60-80]->Book
+<Lawson,Laila>:[64-50]->Barbie Doll
+<Johnston,Genevieve>:[84-69]->Teddy Bear
+<Powell,Magnolia>:[34-80]->Lego Set
+<Sanders,Natalie>:[39-8]->Lego Set
+<Robertson,Elias>:[75-77]->Teddy Bear
+<Greene,Kaylee>:[75-72]->Bag of Sweets
+<Robinson,Jeremy>:[47-43]->Lego Set
+<Carter,Athena>:[16-70]->Bike
+<Ross,Kennedy>:[29-16]->Bike
+<Guzman,Cecilia>:[83-76]->Bag of Sweets
+<Phillips,Valerie>:[73-78]->Orange
+<Allen,Rose>:[46-55]->Action Man Figure
+<Hawkins,Presley>:[93-60]->Orange
+<Carroll,Adonis>:[8-61]->Bike
+<West,Lilah>:[40-85]->Barbie Doll
+<Dunn,Sienna>:[70-70]->Toy Car
+<Bryant,Adeline>:[48-0]->Teddy Bear
+<Scott,Kai>:[11-94]->Wooly Jumper
+<Cooper,Raelynn>:[71-17]->Barbie Doll
+<Gray,John>:[81-49]->Bag of Sweets
+<Collins,Sadie>:[32-36]->Teddy Bear
+<Mendoza,Elliana>:[46-32]->Bike
+<Carr,Wyatt>:[78-38]->Wooly Jumper
+<Hudson,Eli>:[43-66]->Wooly Jumper
+<Hawkins,Hadley>:[76-81]->Bag of Sweets
+<Hoffman,Elliott>:[17-88]->Lego Set
+<Gardner,Jayce>:[87-19]->Bike
+<Brown,Camden>:[93-73]->Bag of Sweets
+<Reyes,Kingston>:[33-14]->Lego Set
+<Howard,Jonah>:[1-77]->Bike
+<Campbell,Colt>:[55-85]->Book
+<Coleman,Ayden>:[75-8]->Toy Car
+<Powell,Savannah>:[87-36]->Bag of Sweets
+<Schmidt,June>:[79-51]->Wooly Jumper
+<Carpenter,Sadie>:[60-70]->Barbie Doll
+<Clark,Esther>:[10-2]->Wooly Jumper
+<Howard,Remi>:[32-0]->Wooly Jumper
+<Chapman,Andres>:[69-24]->Bike
+<Young,Nolan>:[0-10]->Toy Car
+<Howell,Sage>:[91-76]->Bike
+<Ray,Kimberly>:[72-32]->Book
+<Fernandez,Emmett>:[52-74]->Wooly Jumper
+<Perry,Ruby>:[20-11]->Toy Car
+<Nelson,Charlie>:[14-14]->Barbie Doll
+<Mason,Elsie>:[63-64]->Orange
+<Stone,Evangeline>:[97-41]->Orange
+<Carlson,King>:[49-8]->Teddy Bear
+<Henderson,Madelyn>:[75-3]->Wooly Jumper
+<Salazar,Olivia>:[51-75]->Barbie Doll
+<Parker,Noelle>:[91-76]->Bag of Sweets
+<Diaz,Amari>:[56-2]->Wooly Jumper
+<Campbell,Beau>:[9-41]->Action Man Figure
+<Wells,Nicholas>:[76-46]->Teddy Bear
+<Martin,Lucy>:[73-79]->Teddy Bear
+<Miller,Alan>:[3-38]->Bag of Sweets
+<Cruz,Morgan>:[83-48]->Book
+<Williams,Brody>:[21-58]->Book
+<Carroll,Magnolia>:[50-8]->Orange
+<Long,Alejandro>:[89-67]->Orange
+<Burke,Natalie>:[10-4]->Wooly Jumper
+<Bell,Timothy>:[29-62]->Wooly Jumper
+<Palmer,Ava>:[14-30]->Book
+<Hughes,Robert>:[82-35]->Barbie Doll
+<Smith,Abigail>:[77-10]->Teddy Bear
+<Lee,Maria>:[88-53]->Barbie Doll
+<Carroll,William>:[54-52]->Bag of Sweets
+<Kim,Callie>:[72-95]->Lego Set
+<Daniels,Ruby>:[25-29]->Book
+<Watkins,Arlo>:[44-61]->Barbie Doll
+<Freeman,Abel>:[2-44]->Teddy Bear
+<Willis,Marcus>:[42-38]->Lego Set
+<Reed,Kylie>:[19-94]->Barbie Doll
+<Romero,Roman>:[43-33]->Action Man Figure
+<Pierce,Lilly>:[43-23]->Bike
+<Pierce,Maxwell>:[8-57]->Orange
+<Fernandez,Weston>:[60-98]->Bag of Sweets
+<Warren,Sawyer>:[45-93]->Action Man Figure
+<Wells,Hunter>:[5-45]->Lego Set
+<Hill,Jaxon>:[51-59]->Bag of Sweets
+<Bennett,Laila>:[14-42]->Wooly Jumper
+<Kim,Violet>:[96-79]->Lego Set
+<Spencer,Kylie>:[61-13]->Book
+<Ferguson,Eli>:[74-9]->Action Man Figure
+<Wright,Jasmine>:[15-83]->Wooly Jumper
+<Vasquez,Joseph>:[5-19]->Lego Set
+<Jensen,Gracie>:[56-53]->Bag of Sweets
+<Hart,Juliette>:[85-74]->Teddy Bear
+<Patterson,Eliana>:[16-20]->Bike
+<Burns,Hudson>:[22-1]->Teddy Bear
+<Lynch,Paisley>:[61-82]->Action Man Figure
+<Ramos,Ashley>:[15-50]->Bike
+<Clark,Natalia>:[46-45]->Teddy Bear
+<Phillips,Ivan>:[34-44]->Barbie Doll
+<Tran,Joel>:[82-23]->Teddy Bear
+<Baker,River>:[46-90]->Book
+<Morrison,Aiden>:[85-81]->Action Man Figure
+<Stone,Madeline>:[32-35]->Bag of Sweets
+<Payne,Kingston>:[21-27]->Orange
+<Young,Daisy>:[23-20]->Toy Car
+<Adams,Vera>:[57-0]->Toy Car
+<Mendoza,Wyatt>:[63-93]->Orange
+<Riley,Piper>:[26-63]->Orange
+<Richardson,Luca>:[74-62]->Lego Set
+<Sullivan,Arianna>:[71-34]->Bag of Sweets
+<Matthews,Lucas>:[44-36]->Teddy Bear
+<Lewis,Isabelle>:[98-15]->Wooly Jumper
+<Medina,Timothy>:[18-73]->Bag of Sweets
+<Ellis,Elliott>:[91-12]->Wooly Jumper
+<Berry,Zayden>:[44-0]->Book
+<Griffin,Harmony>:[15-94]->Bike
+<Garcia,Harlow>:[67-82]->Teddy Bear
+<Lopez,Faith>:[73-42]->Action Man Figure
+<Gardner,Ace>:[43-34]->Action Man Figure
+<Flores,Milo>:[65-34]->Wooly Jumper
+<Wilson,Avery>:[26-43]->Lego Set
+<Gomez,Molly>:[50-60]->Wooly Jumper
+<Vasquez,Timothy>:[99-60]->Bike
+<Ortiz,Skylar>:[79-32]->Bike
+<Gardner,Juniper>:[7-87]->Toy Car
+<Watson,Angela>:[80-24]->Wooly Jumper
+<Davis,Sutton>:[70-36]->Book
+<Harrison,Sebastian>:[38-61]->Barbie Doll
+<Salazar,Hope>:[41-66]->Teddy Bear
+<Bradley,Zara>:[7-7]->Wooly Jumper
+<Schmidt,Madeline>:[40-17]->Lego Set
+<Butler,Dawson>:[45-25]->Orange
+<Obrien,Sloane>:[29-94]->Bag of Sweets
+<Evans,Sofia>:[43-71]->Toy Car
+<Gutierrez,Arabella>:[81-69]->Lego Set
+<Carlson,Maya>:[32-1]->Teddy Bear
+<Carroll,Savannah>:[40-65]->Lego Set
+<Robinson,Angela>:[21-71]->Bike
+<Martin,Aspen>:[76-95]->Orange
+<Ruiz,Adriel>:[23-52]->Teddy Bear
+<Mills,Zachary>:[58-62]->Toy Car
+<Mitchell,Hayes>:[1-53]->Orange
+<Campbell,Jude>:[29-27]->Bike
+<Vargas,Callie>:[14-27]->Teddy Bear
+<Matthews,Beau>:[92-76]->Teddy Bear
+<Snyder,Jax>:[59-49]->Toy Car
+<Harper,Calvin>:[89-80]->Wooly Jumper
+<Boyd,Anastasia>:[47-59]->Orange
+<Spencer,Allison>:[64-22]->Wooly Jumper
+<Wagner,Liam>:[31-20]->Wooly Jumper
+<Ryan,Mariana>:[60-42]->Book
+<Gonzales,Alex>:[70-95]->Bike
+<Montgomery,Ryleigh>:[1-82]->Orange
+<Rivera,Andrea>:[90-5]->Bike
+<Cole,Owen>:[97-41]->Wooly Jumper
+<Long,Alina>:[58-84]->Book
+<Guzman,Arya>:[71-25]->Book
+<Graham,Chase>:[23-81]->Orange
+<Armstrong,Arlo>:[58-8]->Action Man Figure
+<Fernandez,Aaron>:[77-1]->Lego Set
+<Sullivan,Leon>:[66-90]->Barbie Doll
+<Cole,Emma>:[80-7]->Barbie Doll
+<Dixon,Theo>:[91-60]->Toy Car
+<Green,Lilly>:[85-7]->Lego Set
+<Hart,Ryker>:[83-81]->Toy Car
+<Patterson,Reese>:[34-38]->Action Man Figure
+<Bennett,Zoey>:[10-6]->Book
+<Gardner,Kinsley>:[80-74]->Barbie Doll
+<Davis,Gavin>:[26-55]->Toy Car
+<Burns,Jayce>:[11-57]->Orange
+<Walker,Everly>:[70-28]->Action Man Figure
+<Patterson,Alex>:[70-45]->Lego Set
+<Clark,Judah>:[96-58]->Orange
+<Flores,Remi>:[37-23]->Toy Car
+<Mitchell,Jordan>:[57-66]->Bike
+<Garza,Avery>:[92-51]->Toy Car
+<Phillips,Maya>:[52-95]->Barbie Doll
+<Hart,Brayden>:[39-67]->Barbie Doll
+<Cruz,Arianna>:[92-66]->Action Man Figure
+<Marshall,Valerie>:[97-18]->Bag of Sweets
+<Henderson,Gemma>:[4-14]->Book
+<Henderson,Oscar>:[79-19]->Lego Set
+<Fox,Amy>:[11-38]->Teddy Bear
+<Arnold,Quinn>:[98-13]->Action Man Figure
+<Watson,Hailey>:[28-53]->Book
+<Duncan,Phoebe>:[92-7]->Bag of Sweets
+<Montgomery,Zion>:[65-82]->Book
+<Arnold,Theo>:[81-44]->Bag of Sweets
+<Brooks,Knox>:[67-0]->Book
+<James,Rhett>:[82-98]->Teddy Bear
+<Scott,Nathan>:[78-86]->Toy Car
+<Hamilton,Brandon>:[59-29]->Lego Set
+<Powell,Hailey>:[66-70]->Lego Set
+<Grant,Jett>:[15-1]->Action Man Figure
+<Sanchez,Landon>:[51-67]->Toy Car
+<Graham,Parker>:[46-81]->Action Man Figure
+<Powell,Santiago>:[35-74]->Bag of Sweets
+<Kennedy,Graham>:[86-43]->Toy Car
+<Lopez,Ella>:[17-66]->Wooly Jumper
+<Woods,Daniel>:[35-41]->Wooly Jumper
+<Woods,King>:[27-11]->Action Man Figure
+<Henry,Reagan>:[62-99]->Book
+<Bailey,Miguel>:[2-40]->Orange
+<Davis,Ariella>:[53-67]->Book
+<Morgan,Kehlani>:[97-25]->Lego Set
+<Larson,Anastasia>:[2-14]->Wooly Jumper
+<Griffin,Matias>:[41-61]->Action Man Figure
+<Ryan,Valentina>:[38-39]->Lego Set
+<Ellis,Nathan>:[76-58]->Book
+<Armstrong,Melanie>:[5-59]->Bag of Sweets
+<Howard,Vivian>:[93-39]->Action Man Figure
+<Green,Simon>:[84-9]->Wooly Jumper
+<Dean,Nyla>:[55-23]->Bag of Sweets
+<Howard,Rhett>:[26-81]->Teddy Bear
+<Graham,Gracie>:[48-80]->Wooly Jumper
+<Martinez,Amari>:[21-78]->Bike
+<Myers,Aaliyah>:[60-27]->Teddy Bear
+<Franklin,Evelyn>:[18-54]->Teddy Bear
+<Reyes,Jude>:[75-57]->Barbie Doll
+<Burns,James>:[87-56]->Action Man Figure
+<Taylor,Colt>:[92-60]->Wooly Jumper
+<Hicks,Sutton>:[50-72]->Toy Car
+<Dixon,Harlow>:[54-74]->Book
+<Moreno,Emmanuel>:[11-10]->Action Man Figure
+<Rodriguez,Aurora>:[39-22]->Orange
+<Perry,Roman>:[96-30]->Action Man Figure
+<Campbell,Dawson>:[4-4]->Wooly Jumper
+<Bryant,Matias>:[1-98]->Bike
+<Larson,Gavin>:[43-33]->Barbie Doll
+<Jackson,Genesis>:[26-44]->Bag of Sweets
+<Kim,Silas>:[2-80]->Wooly Jumper
+<Armstrong,Jack>:[23-71]->Bike
+<Cruz,Lily>:[3-79]->Bag of Sweets
+<Grant,Marley>:[14-0]->Wooly Jumper
+<Harper,Charlie>:[1-31]->Lego Set
+<Powell,Leonardo>:[98-42]->Bag of Sweets
+<Mcdonald,Ayden>:[69-80]->Lego Set
+<Tucker,Caden>:[98-98]->Book
+<Romero,Mia>:[47-98]->Wooly Jumper
+<Arnold,Juliette>:[9-55]->Toy Car
+<Dixon,Mateo>:[42-71]->Book
+<Obrien,Joshua>:[55-27]->Bag of Sweets
+<Holmes,Layla>:[6-39]->Toy Car
+<Wright,Scarlett>:[25-5]->Book
+<Stephens,Samantha>:[50-90]->Bag of Sweets
+<Hoffman,Eliana>:[90-2]->Barbie Doll
+<George,Weston>:[95-57]->Bike
+<Arnold,Millie>:[86-92]->Bike
+<James,Josephine>:[31-8]->Bike
+<Holmes,Valerie>:[50-65]->Barbie Doll
+<Bell,Isabella>:[35-52]->Teddy Bear
+<Wallace,Joel>:[12-16]->Bag of Sweets
+<Stone,Emersyn>:[8-23]->Barbie Doll
+<Wood,Angela>:[34-45]->Wooly Jumper
+<Mendoza,Grace>:[15-20]->Teddy Bear
+<Robertson,Maya>:[78-52]->Lego Set
+<Hansen,Walker>:[72-74]->Book
+<Lewis,Bryce>:[30-4]->Wooly Jumper
+<Obrien,Victoria>:[62-68]->Wooly Jumper
+<Munoz,Jude>:[84-84]->Bag of Sweets
+<Wagner,Magnolia>:[37-52]->Orange
+<Castillo,River>:[13-82]->Action Man Figure
+<Morrison,Emery>:[7-26]->Bag of Sweets
+<Turner,Kaiden>:[60-45]->Action Man Figure
+<Campbell,Olivia>:[60-22]->Toy Car
+<Hawkins,Aaron>:[90-58]->Action Man Figure
+<Gutierrez,Andres>:[57-46]->Teddy Bear
+<Stevens,George>:[81-56]->Wooly Jumper
+<Jensen,Ezra>:[52-29]->Barbie Doll
+<Ramos,Anastasia>:[38-67]->Action Man Figure
+<Roberts,Matias>:[82-95]->Toy Car
+<Miller,Harmony>:[16-10]->Bike
+<Diaz,Catalina>:[12-30]->Lego Set
+<Carroll,Eliana>:[36-67]->Toy Car
+<Russell,Malachi>:[69-52]->Book
+<Gordon,Ella>:[75-60]->Toy Car
+<Patel,Freya>:[7-95]->Teddy Bear
+<Wagner,June>:[70-0]->Teddy Bear
+<Perez,Melody>:[6-96]->Bike
+<Montgomery,Alina>:[18-61]->Orange
+<Herrera,Zoe>:[94-10]->Toy Car
+<Reyes,Ivan>:[13-88]->Orange
+<Lawson,Nora>:[61-68]->Lego Set
+<Mendoza,Sutton>:[31-93]->Bike
+<Foster,Margot>:[67-43]->Teddy Bear
+<Castro,Andrea>:[78-93]->Barbie Doll
+<Robertson,Legend>:[36-20]->Wooly Jumper
+<Armstrong,Alaia>:[85-84]->Action Man Figure
+<Meyer,Kaiden>:[37-62]->Lego Set
+<Jensen,Arya>:[0-24]->Wooly Jumper
+<Harris,Richard>:[82-45]->Lego Set
+<Burns,Chloe>:[25-25]->Orange
+<Peters,Diana>:[25-66]->Orange
+<Coleman,Ethan>:[40-18]->Lego Set
+<Murphy,Mason>:[19-26]->Book
+<Jimenez,Londyn>:[22-57]->Bag of Sweets
+<Tran,Javier>:[10-90]->Lego Set
+<Lopez,Kylie>:[82-13]->Bag of Sweets
+<Sanchez,Oaklynn>:[78-79]->Book
+<Walker,Juniper>:[5-87]->Action Man Figure
+<Warren,Nicholas>:[38-28]->Teddy Bear
+<Ross,Isaac>:[96-79]->Lego Set
+<Carr,Juan>:[25-41]->Action Man Figure
+<Perry,Dylan>:[84-1]->Bag of Sweets
+<Hamilton,Legend>:[99-56]->Orange
+<Ward,John>:[33-31]->Book
+<Wallace,Arianna>:[96-68]->Teddy Bear
+<Barnes,Olive>:[14-73]->Wooly Jumper
+<Ellis,Arlo>:[36-2]->Book
+<Long,Zayden>:[73-6]->Barbie Doll
+<Perez,Arlo>:[50-31]->Toy Car
+<Ford,Alani>:[56-68]->Bike
+<Scott,Ace>:[9-38]->Lego Set
+<Obrien,Alaina>:[44-81]->Bag of Sweets
+<Watson,Isabel>:[60-62]->Lego Set
+<Salazar,Brianna>:[52-60]->Barbie Doll
+<Carroll,Emersyn>:[57-33]->Book
+<Brooks,Sebastian>:[83-15]->Lego Set
+<Washington,Maddox>:[29-92]->Wooly Jumper
+<Duncan,Eden>:[86-30]->Lego Set
+<Mendez,Tucker>:[64-88]->Wooly Jumper
+<Castro,Elijah>:[9-33]->Lego Set
+<Lopez,Harper>:[63-86]->Lego Set
+<Webb,Molly>:[62-17]->Bike
+<Ford,Oliver>:[37-47]->Book
+<Perry,Lincoln>:[72-94]->Action Man Figure
+<Hall,Naomi>:[31-55]->Bag of Sweets
+<Riley,Leah>:[79-75]->Bag of Sweets
+<Meyer,Jett>:[23-57]->Bag of Sweets
+<Gonzalez,Giovanni>:[81-86]->Wooly Jumper
+<Gray,Griffin>:[73-30]->Bag of Sweets
+<Walker,River>:[46-85]->Book
+<Fernandez,Rowan>:[67-6]->Toy Car
+<Jacobs,Penelope>:[76-67]->Lego Set
+<Nguyen,Evelyn>:[51-5]->Teddy Bear
+<Ruiz,Skylar>:[68-39]->Teddy Bear
+<Mendoza,Josephine>:[77-68]->Wooly Jumper
+<Stephens,Kaiden>:[5-0]->Toy Car
+<Butler,Rosalie>:[58-94]->Lego Set
+<Reed,Mason>:[68-15]->Bike
+<Carr,Mackenzie>:[30-38]->Bag of Sweets
+<Chavez,Alaia>:[7-35]->Action Man Figure
+<Gray,Jasmine>:[18-0]->Lego Set
+<Harris,Mateo>:[30-22]->Toy Car
+<Hernandez,Owen>:[24-71]->Wooly Jumper
+<Hicks,Eleanor>:[90-25]->Action Man Figure
+<Young,Arlo>:[63-41]->Book
+<Meyer,Amari>:[34-61]->Wooly Jumper
+<Rice,Benjamin>:[11-16]->Wooly Jumper
+<Wallace,London>:[54-75]->Bag of Sweets
+<Williamson,Archer>:[82-81]->Teddy Bear
+<Burke,Walker>:[2-29]->Barbie Doll
+<Evans,Melanie>:[39-82]->Lego Set
+<Hernandez,Easton>:[57-51]->Barbie Doll
+<Campbell,Emersyn>:[86-3]->Action Man Figure
+<Webb,Aubree>:[48-19]->Lego Set
+<Lane,Ruth>:[1-12]->Wooly Jumper
+<Kim,Ezra>:[56-53]->Wooly Jumper
+<Wagner,Faith>:[73-2]->Wooly Jumper
+<Miller,Jesus>:[17-12]->Toy Car
+<Cruz,Iris>:[76-77]->Lego Set
+<Kelley,Gemma>:[91-99]->Bag of Sweets
+<Russell,Kennedy>:[15-17]->Orange
+<Harris,Molly>:[1-73]->Toy Car
+<Brooks,Lorenzo>:[79-1]->Toy Car
+<Kennedy,Cole>:[47-73]->Teddy Bear
+<Robertson,Elliot>:[27-83]->Teddy Bear
+<Sanchez,Luna>:[4-56]->Book
+<Castillo,Vivian>:[87-55]->Lego Set
+<Williams,Thiago>:[28-73]->Bike
+<Ford,Kai>:[28-55]->Lego Set
+<Elliott,Waylon>:[45-65]->Bag of Sweets
+<Perry,Quinn>:[60-24]->Action Man Figure
+<Ward,Theodore>:[84-38]->Wooly Jumper
+<Elliott,Grant>:[19-0]->Book
+<Ellis,Josie>:[40-36]->Orange
+<Carter,Eva>:[55-8]->Toy Car
+<Hayes,Adriel>:[92-92]->Bike
+<Simmons,Naomi>:[49-2]->Book
+<Garza,Amir>:[99-27]->Action Man Figure
+<Allen,Aria>:[14-85]->Action Man Figure
+<Sullivan,Matteo>:[61-24]->Bike
+<Hoffman,Enzo>:[47-73]->Teddy Bear
+<Williams,Aurora>:[85-10]->Lego Set
+<Nichols,Emmett>:[53-73]->Lego Set
+<Herrera,Edward>:[46-29]->Lego Set
+<Jacobs,Thomas>:[69-56]->Bag of Sweets
+<Rose,Ariel>:[85-99]->Orange
+<Moore,Cecilia>:[33-94]->Bike
+<Daniels,Evan>:[64-20]->Bike
+<Snyder,Walker>:[11-3]->Bag of Sweets
+<Gomez,Valentina>:[35-92]->Action Man Figure
+<Vasquez,Joseph>:[83-17]->Lego Set
+<Berry,Londyn>:[19-90]->Lego Set
+<Cooper,Aliyah>:[94-95]->Toy Car
+<Gordon,Emily>:[74-38]->Bag of Sweets
+<Sanchez,Taylor>:[32-80]->Wooly Jumper
+<Edwards,Penelope>:[18-47]->Bag of Sweets
+<Cruz,Christian>:[80-25]->Bike
+<Elliott,Archer>:[12-95]->Bag of Sweets
+<Hunt,Austin>:[17-83]->Teddy Bear
+<Freeman,Jasmine>:[29-13]->Lego Set
+<Cunningham,Isaac>:[33-14]->Bike
+<Moreno,Jordyn>:[18-68]->Wooly Jumper
+<Jensen,Brody>:[35-36]->Bag of Sweets
+<Johnson,Jackson>:[17-77]->Bag of Sweets
+<Vargas,Maverick>:[81-50]->Bike
+<Romero,Everett>:[43-34]->Barbie Doll
+<Parker,Norah>:[71-47]->Book
+<Carpenter,Edward>:[56-7]->Bike
+<Vasquez,Milo>:[12-87]->Bag of Sweets
+<Garcia,Noelle>:[21-87]->Toy Car
+<Owens,Holden>:[39-95]->Book
+<Gonzalez,Jace>:[57-94]->Orange
+<Gomez,Juliette>:[62-33]->Bag of Sweets
+<Morgan,Maya>:[16-91]->Teddy Bear
+<Rogers,Xander>:[85-39]->Orange
+<Bradley,Brody>:[76-33]->Action Man Figure
+<Mitchell,Aria>:[79-2]->Toy Car
+<Nguyen,Jaxon>:[63-6]->Bag of Sweets
+<Richardson,Mila>:[72-82]->Bag of Sweets
+<Smith,Ezra>:[19-70]->Orange
+<Mendoza,Clara>:[76-25]->Wooly Jumper
+<Perkins,Roman>:[27-45]->Action Man Figure
+<Ward,Taylor>:[32-43]->Book
+<Thomas,Raelynn>:[66-47]->Bag of Sweets
+<Harper,Leilani>:[43-34]->Orange
+<Foster,Lily>:[7-70]->Wooly Jumper
+<Miller,Aubrey>:[25-94]->Orange
+<Price,Lucy>:[40-39]->Toy Car
+<Martin,Knox>:[50-99]->Action Man Figure
+<Cruz,Kevin>:[40-43]->Bag of Sweets
+<Kennedy,Margaret>:[70-5]->Action Man Figure
+<Reynolds,Abigail>:[71-29]->Book
+<Hughes,Blakely>:[15-69]->Toy Car
+<Snyder,Lucas>:[10-11]->Lego Set
+<Stewart,Olivia>:[63-3]->Wooly Jumper
+<Shaw,Natalie>:[7-67]->Lego Set
+<Elliott,Callie>:[68-78]->Wooly Jumper
+<Hunter,Juan>:[78-33]->Action Man Figure
+<Hoffman,Amira>:[8-8]->Bag of Sweets
+<Howard,Zachary>:[68-50]->Teddy Bear
+<Kennedy,Lucia>:[92-97]->Wooly Jumper
+<Cook,Preston>:[90-2]->Lego Set
+<Castro,Eloise>:[22-80]->Toy Car
+<Montgomery,Miguel>:[90-29]->Bike
+<Weaver,Arya>:[73-81]->Bag of Sweets
+<Romero,Theodore>:[40-42]->Action Man Figure
+<Nguyen,Nova>:[51-72]->Action Man Figure
+<Harrison,Ariel>:[41-7]->Wooly Jumper
+<Richardson,Jeremiah>:[93-10]->Wooly Jumper
+<Campbell,Andrea>:[79-80]->Orange
+<Woods,Oscar>:[42-45]->Toy Car
+<Gutierrez,Alaia>:[28-56]->Orange
+<Gilbert,Hunter>:[4-1]->Wooly Jumper
+<Taylor,Beckett>:[5-48]->Lego Set
+<Vargas,Rosalie>:[98-31]->Barbie Doll
+<Jackson,Austin>:[81-56]->Action Man Figure
+<Shaw,Karter>:[81-65]->Orange
+<Thomas,Morgan>:[28-88]->Bike
+<Carlson,Kaiden>:[85-40]->Barbie Doll
+<Duncan,Kai>:[94-60]->Barbie Doll
+<Long,Gabriella>:[2-90]->Toy Car
+<Patel,Khloe>:[21-67]->Orange
+<Diaz,Nathan>:[28-78]->Barbie Doll
+<Walker,Amy>:[58-18]->Barbie Doll
+<Chavez,Elliott>:[11-94]->Bag of Sweets
+<Lawson,Julian>:[55-30]->Book
+<White,Emilia>:[74-21]->Wooly Jumper
+<Ramirez,Selena>:[34-85]->Toy Car
+<Dean,Sawyer>:[33-36]->Orange
+<Richardson,Timothy>:[0-29]->Action Man Figure
+<Hunt,Diana>:[12-38]->Book
+<Scott,Peter>:[0-50]->Bag of Sweets
+<Hall,Blake>:[52-47]->Orange
+<Gray,Alexander>:[2-52]->Book
+<Lewis,Maeve>:[32-43]->Toy Car
+<Ramirez,Noelle>:[31-73]->Toy Car
+<Moore,Justin>:[64-67]->Bike
+<Willis,Sara>:[40-73]->Lego Set
+<Peterson,Arabella>:[43-8]->Book
+<Nelson,Jaxson>:[84-96]->Teddy Bear
+<Stevens,Josephine>:[51-41]->Bike
+<Lawrence,Genesis>:[1-70]->Action Man Figure
+<Harper,Andrea>:[43-77]->Barbie Doll
+<Fernandez,Edward>:[62-11]->Book
+<Jacobs,Ayden>:[52-39]->Book
+<Bishop,Luna>:[74-15]->Lego Set
+<Hall,Liam>:[15-11]->Book
+<Burns,Elizabeth>:[46-61]->Wooly Jumper
+<Ferguson,Josie>:[71-5]->Lego Set
+<Hoffman,Alice>:[18-16]->Toy Car
+<Harrison,Anthony>:[40-31]->Barbie Doll
+<Castro,Max>:[83-80]->Bike
+<Lee,Arthur>:[32-43]->Lego Set
+<Jones,King>:[6-99]->Bike
+<Chapman,Abel>:[19-15]->Book
+<Watkins,Chase>:[64-28]->Book
+<Cooper,Sarah>:[77-64]->Book
+<Johnston,Maxwell>:[94-14]->Bag of Sweets
+<Bailey,Esther>:[41-30]->Bike
+<Castro,Brielle>:[96-31]->Lego Set
+<Patel,Molly>:[38-57]->Lego Set
+<Ruiz,Callie>:[56-89]->Action Man Figure
+<Scott,Arya>:[25-23]->Wooly Jumper
+<Hunter,Reese>:[14-70]->Wooly Jumper
+<Ramos,Milo>:[48-5]->Lego Set
+<Elliott,Ava>:[13-82]->Toy Car
+<Perkins,Layla>:[69-34]->Orange
+<Bailey,Hudson>:[55-44]->Lego Set
+<Carr,Jax>:[89-13]->Bike
+<Hamilton,Vincent>:[96-37]->Barbie Doll
+<Riley,Isaiah>:[77-99]->Book
+<Torres,Diego>:[81-57]->Orange
+<Campbell,Zoe>:[87-55]->Toy Car
+<Tucker,Gemma>:[34-84]->Book
+<Guzman,Evelyn>:[35-68]->Action Man Figure
+<Moore,Jordan>:[79-21]->Book
+<Walker,Cora>:[68-98]->Lego Set
+<Porter,Holden>:[85-68]->Bag of Sweets
+<Spencer,Ember>:[75-86]->Teddy Bear
+<Wheeler,Evelyn>:[32-11]->Bike
+<Howard,Logan>:[34-4]->Bag of Sweets
+<Aguilar,Joshua>:[65-29]->Barbie Doll
+<Silva,Cooper>:[63-50]->Barbie Doll
+<Cook,Cecilia>:[80-58]->Lego Set
+<Ward,Aurora>:[4-4]->Action Man Figure
+<Clark,Jesse>:[58-6]->Orange
+<Murphy,Harrison>:[74-83]->Wooly Jumper
+<Porter,Elise>:[58-89]->Toy Car
+<Myers,Cameron>:[83-63]->Bike
+<Hart,Braxton>:[54-70]->Book
+<Torres,Aspen>:[18-94]->Teddy Bear
+<Bennett,Kehlani>:[76-62]->Book
+<Lee,Avery>:[77-84]->Teddy Bear
+<Dean,London>:[56-26]->Wooly Jumper
+<Evans,Alan>:[47-61]->Bike
+<Perez,Alaina>:[67-90]->Lego Set
+<Hamilton,Ashley>:[22-22]->Toy Car
+<Collins,Ashley>:[64-1]->Bike
+<Hughes,Adrian>:[8-38]->Action Man Figure
+<Ferguson,John>:[7-62]->Orange
+<Sanchez,Zion>:[81-3]->Teddy Bear
+<Morgan,Evan>:[4-77]->Lego Set
+<Henderson,Alaina>:[46-28]->Action Man Figure
+<Watkins,Alice>:[24-33]->Bike
+<Torres,Kingston>:[60-82]->Wooly Jumper
+<Castillo,Lilah>:[5-59]->Bag of Sweets
+<Hoffman,Isaiah>:[9-50]->Teddy Bear
+<Rodriguez,Brayden>:[99-65]->Orange
+<Hawkins,Jace>:[38-88]->Toy Car
+<Johnson,Asher>:[66-59]->Toy Car
+<Nelson,Isabelle>:[56-58]->Bike
+<Mendoza,Jace>:[69-10]->Toy Car
+<Martin,Holden>:[48-12]->Teddy Bear
+<Woods,Grant>:[42-39]->Bike
+<Powell,Oscar>:[3-36]->Orange
+<Harper,Robert>:[41-15]->Wooly Jumper
+<Jones,Esther>:[67-80]->Book
+<Campbell,Emily>:[29-3]->Bag of Sweets
+<Wright,Octavia>:[20-7]->Barbie Doll
+<Williamson,Dawson>:[73-43]->Bag of Sweets
+<Shaw,Chloe>:[48-81]->Lego Set
+<Moore,Andres>:[28-31]->Action Man Figure
+<Nguyen,Bryce>:[19-41]->Book
+<Salazar,Luis>:[89-7]->Lego Set
+<Wood,Anna>:[17-9]->Bag of Sweets
+<Allen,Dawson>:[62-21]->Barbie Doll
+<Larson,Sadie>:[70-59]->Wooly Jumper
+<Crawford,Everett>:[31-10]->Wooly Jumper
+<Anderson,Emersyn>:[42-7]->Lego Set
+<Brooks,Nicholas>:[66-41]->Bag of Sweets
+<Anderson,Elliot>:[15-1]->Action Man Figure
+<Peterson,Remington>:[78-64]->Wooly Jumper
+<Roberts,Jack>:[37-58]->Teddy Bear
+<Snyder,William>:[92-2]->Bag of Sweets
+<Bishop,Waylon>:[49-17]->Teddy Bear
+<Mitchell,Aubrey>:[17-15]->Lego Set
+<Richardson,Ivy>:[33-84]->Teddy Bear
+<Powell,Gracie>:[46-32]->Bike
+<Mitchell,August>:[31-13]->Toy Car
+<Dean,Andrew>:[34-91]->Teddy Bear
+<Griffin,Zoe>:[49-22]->Bag of Sweets
+<Duncan,Adalyn>:[64-24]->Lego Set
+<Stevens,Hayes>:[76-46]->Teddy Bear
+<Gilbert,Lydia>:[63-20]->Wooly Jumper
+<Harris,Alaina>:[24-93]->Bag of Sweets
+<Cox,Benjamin>:[81-69]->Lego Set
+<Johnson,Sydney>:[58-58]->Orange
+<Torres,Andres>:[18-51]->Action Man Figure
+<Vargas,Xavier>:[94-10]->Bag of Sweets
+<Kennedy,Jameson>:[36-74]->Book
+<Ward,Phoebe>:[10-41]->Lego Set
+<Johnston,Damian>:[43-12]->Teddy Bear
+<Larson,Jayce>:[93-99]->Toy Car
+<Jacobs,Braxton>:[53-14]->Bike
+<Ramirez,Serenity>:[73-93]->Action Man Figure
+<Jackson,Adalynn>:[12-30]->Bike
+<Thomas,Israel>:[40-33]->Bag of Sweets
+<Knight,Taylor>:[4-85]->Orange
+<Lopez,David>:[93-25]->Action Man Figure
+<Spencer,Bentley>:[62-96]->Barbie Doll
+<Turner,Elliot>:[5-65]->Lego Set
+<Kelley,Eleanor>:[55-63]->Barbie Doll
+<Bishop,Josephine>:[68-43]->Wooly Jumper
+<Fox,Nicolas>:[98-41]->Barbie Doll
+<Allen,Emersyn>:[38-37]->Orange
+<Jackson,Walker>:[44-1]->Toy Car
+<Stevens,Landon>:[16-21]->Barbie Doll
+<Carlson,Amir>:[75-47]->Book
+<Garcia,Rachel>:[71-55]->Lego Set
+<Shaw,Alejandro>:[49-91]->Wooly Jumper
+<Rivera,Walker>:[79-37]->Bag of Sweets
+<Perry,John>:[84-71]->Toy Car
+<Thomas,Sawyer>:[35-84]->Bike
+<Moore,Eloise>:[24-31]->Lego Set
+<Brooks,Dominic>:[88-17]->Bag of Sweets
+<Boyd,Nathaniel>:[93-40]->Orange
+<Marshall,Harlow>:[88-83]->Bike
+<Kennedy,Presley>:[99-69]->Book
+<Hudson,Lucia>:[71-52]->Wooly Jumper
+<Price,Rosalie>:[51-93]->Orange
+<Long,Nyla>:[66-75]->Orange
+<Brown,Juniper>:[73-78]->Bike
+<Brooks,Jayden>:[6-93]->Wooly Jumper
+<Silva,Ryan>:[0-32]->Toy Car
+<Phillips,Alice>:[38-57]->Action Man Figure
+<Stone,Brynlee>:[5-19]->Lego Set
+<Long,John>:[46-41]->Toy Car
+<Murray,London>:[98-27]->Book
+<Greene,Jordan>:[55-45]->Teddy Bear
+<Allen,Bennett>:[47-17]->Barbie Doll
+<Wagner,Genevieve>:[61-28]->Toy Car
+<Wheeler,Hazel>:[24-53]->Orange
+<Ellis,Asher>:[77-0]->Book
+<Harvey,Autumn>:[25-95]->Bike
+<King,Beckham>:[60-17]->Wooly Jumper
+<Murphy,Kinsley>:[66-91]->Toy Car
+<Walker,Nyla>:[45-31]->Bike
+<Ray,Tyler>:[69-37]->Teddy Bear
+<Hughes,Jesse>:[68-28]->Wooly Jumper
+<Warren,Peyton>:[20-94]->Bike
+<Jones,Cole>:[1-85]->Action Man Figure
+<Payne,Bennett>:[56-52]->Wooly Jumper
+<Williams,Bryson>:[25-77]->Wooly Jumper
+<Hill,Mia>:[15-89]->Teddy Bear
+<Ruiz,Bentley>:[38-20]->Orange
+<Hamilton,Isaac>:[51-25]->Barbie Doll
+<Franklin,Ariana>:[86-97]->Bag of Sweets
+<Diaz,Emersyn>:[96-80]->Action Man Figure
+<Bryant,Colton>:[87-39]->Toy Car
+<Diaz,Elliana>:[97-99]->Action Man Figure
+<Dunn,Hazel>:[21-32]->Teddy Bear
+<Dean,Lillian>:[22-56]->Barbie Doll
+<Barnes,Lukas>:[72-81]->Toy Car
+<Mitchell,London>:[17-96]->Barbie Doll
+<Howard,Ariana>:[4-78]->Lego Set
+<Black,Amelia>:[51-9]->Orange
+<Hunt,Dominic>:[77-56]->Teddy Bear
+<Jackson,Freya>:[24-75]->Teddy Bear
+<Rodriguez,Ethan>:[25-26]->Toy Car
+<Rogers,Rafael>:[13-69]->Bag of Sweets
+<Reynolds,Scarlett>:[4-34]->Action Man Figure
+<Fernandez,James>:[81-56]->Teddy Bear
+<Mills,David>:[17-88]->Bag of Sweets
+<James,Henry>:[16-32]->Action Man Figure
+<Parker,Londyn>:[98-69]->Bag of Sweets
+<Morales,Jade>:[61-24]->Wooly Jumper
+<Chavez,Camila>:[89-51]->Teddy Bear
+<Schmidt,Aubrey>:[35-11]->Barbie Doll
+<Ward,Aaron>:[77-71]->Toy Car
+<Armstrong,Zane>:[58-4]->Orange
+<Perez,Willow>:[50-49]->Bike
+<Salazar,Anna>:[3-10]->Orange
+<Castillo,Owen>:[83-76]->Orange
+<Mason,Connor>:[53-71]->Book
+<Warren,Israel>:[19-75]->Teddy Bear
+<Hernandez,Josie>:[32-28]->Wooly Jumper
+<Baker,Steven>:[99-68]->Barbie Doll
+<Green,Wesley>:[11-49]->Wooly Jumper
+<Ross,Faith>:[36-62]->Orange
+<Bell,Rosalie>:[88-62]->Book
+<Lynch,Kamila>:[72-4]->Toy Car
+<Meyer,Presley>:[68-45]->Teddy Bear
+<Ross,Adriel>:[51-66]->Wooly Jumper
+<Cooper,Connor>:[34-72]->Bike
+<Shaw,Noah>:[12-1]->Bag of Sweets
+<Gomez,Bryce>:[90-26]->Lego Set
+<Barnes,Eleanor>:[8-63]->Barbie Doll
+<Carter,Olivia>:[21-72]->Bag of Sweets
+<Young,Beckham>:[93-22]->Bike
+<Evans,Addison>:[88-16]->Bike
+<Henderson,Jameson>:[59-83]->Bike
+<Matthews,Isabel>:[16-94]->Wooly Jumper
+<Gibson,Xavier>:[38-0]->Orange
+<Stone,Mackenzie>:[34-11]->Teddy Bear
+<Silva,Juliette>:[32-68]->Orange
+<Andrews,Allison>:[69-62]->Orange
+<Hoffman,Ryan>:[63-73]->Toy Car
+<Harper,Walker>:[1-84]->Bike
+<Nelson,Avery>:[39-88]->Bike
+<Myers,Kayden>:[2-54]->Toy Car
+<Patterson,Colton>:[27-42]->Toy Car
+<Larson,Harper>:[73-25]->Wooly Jumper
+<Gonzales,Alyssa>:[27-87]->Lego Set
+<Castro,Aubree>:[58-63]->Barbie Doll
+<Nichols,Chloe>:[6-38]->Lego Set
+<Kelly,Griffin>:[28-61]->Bag of Sweets
+<Bishop,Ada>:[81-64]->Teddy Bear
+<Lawrence,Nyla>:[87-83]->Book
+<Lopez,Kevin>:[53-45]->Orange
+<Allen,Madison>:[36-90]->Teddy Bear
+<Baker,Angel>:[86-91]->Wooly Jumper
+<Young,Autumn>:[54-42]->Action Man Figure
+<Hicks,Luis>:[76-51]->Toy Car
+<Andrews,Freya>:[61-30]->Bag of Sweets
+<Rodriguez,Everleigh>:[69-19]->Barbie Doll
+<Jimenez,Nicholas>:[43-92]->Wooly Jumper
+<Matthews,James>:[62-10]->Bag of Sweets
+<Franklin,Messiah>:[86-54]->Action Man Figure
+<Simmons,Raelynn>:[6-98]->Book
+<Martinez,Magnolia>:[3-90]->Toy Car
+<Cox,Rowan>:[89-46]->Barbie Doll
+<Davis,Olivia>:[2-62]->Bag of Sweets
+<Castro,Lilly>:[70-55]->Barbie Doll
+<Bradley,Emma>:[13-68]->Lego Set
+<Brown,Jordan>:[47-94]->Lego Set
+<Fox,Finley>:[63-15]->Teddy Bear
+<Fisher,Wesley>:[35-19]->Bag of Sweets
+<Hoffman,Kamila>:[1-27]->Wooly Jumper
+<Ferguson,Jesse>:[56-48]->Teddy Bear
+<Willis,Gianna>:[62-46]->Book
+<Lee,Journee>:[16-86]->Action Man Figure
+<King,Ryan>:[91-70]->Lego Set
+<Reyes,Luna>:[57-56]->Toy Car
+<Carroll,Jesse>:[92-68]->Wooly Jumper
+<Gordon,Liliana>:[43-42]->Teddy Bear
+<Tran,Atlas>:[23-35]->Teddy Bear
+<Murray,Axel>:[8-8]->Bag of Sweets
+<Warren,Caleb>:[79-33]->Bike
+<Jackson,Sophia>:[65-93]->Wooly Jumper
+<Weaver,Xander>:[39-60]->Lego Set
+<Palmer,Lily>:[7-38]->Teddy Bear
+<Tucker,Alan>:[90-20]->Action Man Figure
+<Ward,Juliette>:[69-39]->Bike
+<Wright,Steven>:[49-11]->Wooly Jumper
+<Hunter,Arthur>:[32-63]->Bag of Sweets
+<Wood,Melody>:[76-51]->Bike
+<Brown,Robert>:[98-50]->Teddy Bear
+<Thompson,Colt>:[30-28]->Orange
+<Burns,Lorenzo>:[89-34]->Wooly Jumper
+<Lawrence,Tucker>:[67-1]->Teddy Bear
+<Gomez,Alan>:[58-20]->Bag of Sweets
+<Knight,Dominic>:[3-63]->Book
+<Alexander,Brooks>:[33-26]->Book
+<Harper,Margot>:[95-47]->Toy Car
+<Duncan,Nevaeh>:[63-2]->Bag of Sweets
+<Hall,Arabella>:[25-69]->Wooly Jumper
+<Roberts,Valentina>:[36-68]->Lego Set
+<Harris,Allison>:[38-32]->Toy Car
+<Johnston,Claire>:[18-5]->Action Man Figure
+<Johnston,Lilly>:[53-93]->Lego Set
+<Tucker,Caleb>:[63-65]->Wooly Jumper
+<Price,Javier>:[1-15]->Barbie Doll
+<Alvarez,Alan>:[45-40]->Lego Set
+<Stevens,Bella>:[74-24]->Bike
+<Salazar,River>:[70-10]->Toy Car
+<Nguyen,Juan>:[15-60]->Book
+<Munoz,Adonis>:[50-43]->Lego Set
+<Dixon,Hailey>:[86-24]->Book
+<Tran,Sofia>:[69-87]->Teddy Bear
+<Gray,Elliot>:[38-89]->Bike
+<Perkins,John>:[63-69]->Book
+<Roberts,Morgan>:[26-25]->Lego Set
+<Porter,Ximena>:[94-21]->Lego Set
+<Olson,David>:[18-19]->Bag of Sweets
+<Mason,Phoebe>:[49-71]->Barbie Doll
+<Ruiz,Reagan>:[2-76]->Bag of Sweets
+<Medina,Taylor>:[19-53]->Teddy Bear
+<Allen,Jayce>:[37-47]->Teddy Bear
+<Carr,Gavin>:[54-36]->Toy Car
+<Roberts,Atlas>:[42-21]->Action Man Figure
+<Griffin,Kylie>:[36-13]->Wooly Jumper
+<Reynolds,Leah>:[90-32]->Toy Car
+<Mendez,Iris>:[23-53]->Book
+<Barnes,Angela>:[88-85]->Barbie Doll
+<Robinson,Octavia>:[68-69]->Action Man Figure
+<Holmes,Avery>:[27-4]->Teddy Bear
+<Hall,Parker>:[54-47]->Bag of Sweets
+<Ryan,Faith>:[68-72]->Orange
+<Morgan,Hazel>:[59-35]->Teddy Bear
+<Ross,Graham>:[37-72]->Bag of Sweets
+<Patterson,Lincoln>:[53-62]->Toy Car
+<Hansen,Wesley>:[57-77]->Wooly Jumper
+<Bailey,Kyler>:[91-57]->Bag of Sweets
+<Fox,Summer>:[32-28]->Lego Set
+<Williams,Peter>:[44-17]->Toy Car
+<Reed,Lennon>:[47-84]->Toy Car
+<Turner,Sebastian>:[9-44]->Book
+<Lee,Marley>:[82-58]->Orange
+<Griffin,Valeria>:[35-35]->Lego Set
+<Foster,Miguel>:[25-70]->Teddy Bear
+<Evans,Maya>:[44-35]->Barbie Doll
+<Payne,Barrett>:[15-5]->Orange
+<Elliott,Hayes>:[23-2]->Bike
+<Freeman,Bryson>:[67-51]->Bike
+<Scott,Ian>:[95-21]->Wooly Jumper
+<Fisher,Theo>:[84-59]->Bike
+<Hudson,Javier>:[45-86]->Orange
+<Medina,Kylie>:[85-5]->Action Man Figure
+<Burke,Eloise>:[73-77]->Barbie Doll
+<Hoffman,Vincent>:[31-71]->Orange
+<Myers,Dominic>:[17-29]->Lego Set
+<Hoffman,Walker>:[67-60]->Lego Set
+<Guzman,Holden>:[53-53]->Orange
+<Hansen,Iris>:[64-1]->Book
+<Lopez,Mariana>:[93-85]->Toy Car
+<Bradley,Aurora>:[51-97]->Orange
+<Hudson,Zane>:[98-56]->Action Man Figure
+<Mcdonald,Atlas>:[39-6]->Barbie Doll
+<Boyd,Hadley>:[58-64]->Bag of Sweets
+<Lewis,Madison>:[14-50]->Wooly Jumper
+<Ford,Myla>:[4-4]->Barbie Doll
+<Mcdonald,Amelia>:[75-75]->Teddy Bear
+<Chapman,Cooper>:[66-49]->Orange
+<Davis,Avery>:[2-43]->Bike
+<Cox,Kylie>:[40-23]->Book
+<Montgomery,Charles>:[92-52]->Orange
+<Hamilton,Amara>:[26-4]->Wooly Jumper
+<Castillo,Jason>:[52-74]->Teddy Bear
+<Patel,Savannah>:[33-44]->Teddy Bear
+<Riley,William>:[8-90]->Toy Car
+<Ward,Kylie>:[2-20]->Book
+<Phillips,Bailey>:[36-6]->Wooly Jumper
+<Weaver,Jasmine>:[45-30]->Orange
+<Castro,Kaia>:[83-30]->Wooly Jumper
+<Cole,Christian>:[49-17]->Orange
+<Henderson,Georgia>:[82-32]->Teddy Bear
+<Thomas,Amir>:[17-43]->Bag of Sweets
+<Thomas,Knox>:[85-14]->Bag of Sweets
+<Guzman,Milo>:[79-74]->Orange
+<Taylor,Delilah>:[13-16]->Orange
+<Chapman,Kylie>:[56-43]->Book
+<Rodriguez,Joshua>:[31-68]->Book
+<Tran,Charlotte>:[97-10]->Action Man Figure
+<Bennett,Brynlee>:[32-10]->Bag of Sweets
+<Cox,George>:[32-16]->Barbie Doll
+<Price,Kyrie>:[49-27]->Lego Set
+<Lawson,Remington>:[75-51]->Lego Set
+<Lynch,Joel>:[56-85]->Bag of Sweets
+<Robertson,Emilia>:[68-64]->Orange
+<Scott,Ryker>:[49-80]->Barbie Doll
+<Diaz,Nathan>:[2-27]->Bag of Sweets
+<Parker,Grayson>:[62-9]->Lego Set
+<Gardner,Serenity>:[66-36]->Bag of Sweets
+<Mendoza,Aspen>:[31-93]->Orange
+<Patel,Layla>:[45-22]->Barbie Doll
+<Thompson,Amy>:[42-46]->Teddy Bear
+<Howell,Ryan>:[78-57]->Bag of Sweets
+<Carter,Sarah>:[18-72]->Wooly Jumper
+<Dean,Avery>:[34-45]->Lego Set
+<Ortiz,Eloise>:[70-70]->Action Man Figure
+<Hughes,Parker>:[91-34]->Book
+<Freeman,John>:[7-23]->Lego Set
+<Hoffman,Sage>:[38-78]->Wooly Jumper
+<Woods,Leila>:[33-95]->Toy Car
+<Grant,Lukas>:[43-99]->Teddy Bear
+<Dixon,Skylar>:[62-12]->Teddy Bear
+<Powell,Sophie>:[87-18]->Bike
+<Miller,Isla>:[3-15]->Wooly Jumper
+<Cunningham,Harmony>:[84-32]->Barbie Doll
+<Jensen,Jeremy>:[59-96]->Orange
+<Henderson,Daniel>:[42-81]->Lego Set
+<Miller,Ace>:[30-39]->Orange
+<Armstrong,Henry>:[21-5]->Teddy Bear
+<Hayes,Magnolia>:[62-91]->Lego Set
+<Barnes,Xander>:[54-76]->Teddy Bear
+<Simmons,Hannah>:[73-27]->Orange
+<Adams,Owen>:[9-9]->Barbie Doll
+<Weaver,Eliana>:[32-81]->Bike
+<Kelley,Wesley>:[17-72]->Wooly Jumper
+<Green,Rafael>:[21-23]->Wooly Jumper
+<Hawkins,Miguel>:[59-13]->Lego Set
+<Wallace,Rowan>:[47-69]->Book
+<Hill,Patrick>:[27-60]->Bag of Sweets
+<Wilson,Sage>:[29-18]->Bike
+<Daniels,Emmett>:[73-62]->Book
+<Washington,Kylie>:[8-60]->Action Man Figure
+<Hayes,Aiden>:[53-59]->Toy Car
+<Austin,Elsie>:[60-5]->Book
+<Peterson,Kyler>:[90-52]->Lego Set
+<Austin,Malachi>:[67-87]->Lego Set
+<Ferguson,Alexandra>:[83-10]->Orange
+<Kelley,Lucas>:[16-95]->Wooly Jumper
+<Price,Peyton>:[85-54]->Wooly Jumper
+<Williamson,Wyatt>:[17-62]->Book
+<Daniels,George>:[97-7]->Orange
+<Lane,Kaleb>:[2-52]->Bag of Sweets
+<Cunningham,Journee>:[98-4]->Toy Car
+<Mills,Weston>:[90-60]->Book
+<Bryant,Ellie>:[40-42]->Action Man Figure
+<Simmons,Nolan>:[3-72]->Toy Car
+<Fox,Isabel>:[78-9]->Wooly Jumper
+<Bishop,Logan>:[73-1]->Lego Set
+<Spencer,Aspen>:[76-59]->Bag of Sweets
+<Palmer,Harlow>:[97-94]->Action Man Figure
+<Carlson,Michael>:[24-22]->Toy Car
+<Ramos,Mariana>:[15-69]->Barbie Doll
+<Washington,Daniel>:[75-68]->Lego Set
+<Patterson,Piper>:[54-12]->Action Man Figure
+<Hall,Dylan>:[50-43]->Bag of Sweets
+<Brown,Caroline>:[9-57]->Bag of Sweets
+<Griffin,Landon>:[9-47]->Teddy Bear
+<Flores,Freya>:[12-28]->Bag of Sweets
+<Franklin,Ryan>:[0-88]->Toy Car
+<Turner,Leila>:[97-79]->Teddy Bear
+<Scott,Naomi>:[66-80]->Book
+<Andrews,Brielle>:[93-18]->Bike
+<Hudson,Margaret>:[32-6]->Teddy Bear
+<Jackson,Alaina>:[69-22]->Orange
+<Hansen,Hayden>:[99-24]->Bike
+<Davis,Brianna>:[52-61]->Bag of Sweets
+<Allen,Kaleb>:[6-34]->Lego Set
+<Marshall,Messiah>:[40-8]->Action Man Figure
+<Holmes,Jose>:[34-92]->Book
+<Carpenter,Aliyah>:[36-63]->Wooly Jumper
+<Ramos,Eliana>:[98-43]->Teddy Bear
+<Schmidt,Javier>:[58-33]->Lego Set
+<Mills,Elena>:[45-68]->Bag of Sweets
+<Roberts,Brianna>:[53-97]->Barbie Doll
+<Stephens,Melanie>:[40-37]->Orange
+<Crawford,Presley>:[21-41]->Orange
+<Wheeler,Jaxson>:[2-17]->Bike
+<Myers,Sawyer>:[22-33]->Barbie Doll
+<Shaw,Timothy>:[81-69]->Wooly Jumper
+<Carr,Owen>:[36-42]->Wooly Jumper
+<Porter,Antonio>:[91-90]->Orange
+<Romero,Ariana>:[76-67]->Book
+<Dixon,River>:[29-70]->Book
+<Nichols,Evangeline>:[35-6]->Lego Set
+<Alexander,Samuel>:[80-79]->Teddy Bear
+<Wells,Justin>:[4-0]->Orange
+<Johnston,Richard>:[82-6]->Toy Car
+<Willis,Zuri>:[41-22]->Teddy Bear
+<Castillo,Zayden>:[28-95]->Orange
+<Stevens,Ian>:[80-6]->Action Man Figure
+<Riley,Morgan>:[45-3]->Bike
+<Mendoza,Santiago>:[33-79]->Toy Car
+<Richards,Javier>:[85-6]->Bag of Sweets
+<Olson,Grace>:[94-13]->Barbie Doll
+<Cunningham,Zuri>:[11-85]->Bag of Sweets
+<Cunningham,Kyler>:[95-20]->Wooly Jumper
+<Grant,Ryan>:[83-33]->Wooly Jumper
+<Munoz,Jonah>:[18-89]->Bike
+<Bennett,Aspen>:[95-63]->Lego Set
+<Torres,Kash>:[33-39]->Toy Car
+<Ray,Diego>:[89-8]->Barbie Doll
+<Lee,Leon>:[44-90]->Orange
+<Price,Jasper>:[25-61]->Book
+<Kelley,Eden>:[86-7]->Orange
+<Mcdonald,Magnolia>:[55-89]->Teddy Bear
+<Ward,Savannah>:[43-8]->Lego Set
+<Myers,Grace>:[5-54]->Wooly Jumper
+<Taylor,Kayden>:[43-61]->Wooly Jumper
+<Morales,Isaac>:[90-62]->Action Man Figure
+<Montgomery,Aaron>:[45-68]->Wooly Jumper
+<Webb,Delilah>:[65-86]->Wooly Jumper
+<Payne,Lucy>:[13-86]->Book
+<Jenkins,Mason>:[59-10]->Bag of Sweets
+<Sanchez,Molly>:[67-30]->Wooly Jumper
+<Kim,Magnolia>:[35-54]->Barbie Doll
+<Wilson,Tyler>:[5-12]->Teddy Bear
+<Martinez,Selena>:[99-26]->Teddy Bear
+<Palmer,Ezekiel>:[18-13]->Orange
+<Hansen,Colt>:[92-68]->Book
+<Martin,Aubrey>:[79-87]->Lego Set
+<Gilbert,Declan>:[32-86]->Wooly Jumper
+<Duncan,Juliana>:[35-71]->Barbie Doll
+<Mills,Owen>:[74-54]->Orange
+<Diaz,Mateo>:[56-30]->Wooly Jumper
+<Webb,Rowan>:[45-2]->Bike
+<Kelly,Rachel>:[90-22]->Action Man Figure
+<Morris,Ariel>:[52-94]->Book
+<Jacobs,Archer>:[61-9]->Teddy Bear
+<Flores,Finley>:[41-98]->Wooly Jumper
+<Johnson,Emmett>:[18-38]->Teddy Bear
+<Miller,Joseph>:[95-11]->Book
+<Webb,Hunter>:[56-16]->Action Man Figure
+<Cruz,Kimberly>:[97-16]->Toy Car
+<Evans,Remington>:[55-52]->Toy Car
+<Knight,Eli>:[82-5]->Bag of Sweets
+<Watson,Lucia>:[71-13]->Action Man Figure
+<Hicks,Ashley>:[21-15]->Book
+<Bishop,Zara>:[38-55]->Wooly Jumper
+<Aguilar,Kaleb>:[98-79]->Book
+<Lewis,Isla>:[51-48]->Barbie Doll
+<Greene,Ella>:[45-87]->Wooly Jumper
+<Wells,Kaylee>:[75-44]->Book
+<Munoz,Margaret>:[21-7]->Orange
+<Kelly,Magnolia>:[15-11]->Lego Set
+<Franklin,Marcus>:[42-1]->Teddy Bear
+<Dunn,Nova>:[55-57]->Lego Set
+<Williams,Eden>:[22-68]->Lego Set
+<Martinez,Natalia>:[68-85]->Action Man Figure
+<Owens,Matias>:[94-32]->Orange
+<Hicks,Margot>:[90-43]->Action Man Figure
+<Ferguson,Savannah>:[1-75]->Lego Set
+<White,Alexandra>:[58-40]->Toy Car
+<Howell,Harlow>:[98-22]->Wooly Jumper
+<Romero,Ayden>:[47-80]->Barbie Doll
+<Hicks,Kevin>:[93-17]->Orange
+<Fox,Walker>:[27-95]->Teddy Bear
+<Lopez,Caleb>:[18-12]->Bike
+<Robertson,Giovanni>:[85-86]->Barbie Doll
+<Martin,Kai>:[7-74]->Lego Set
+<Vasquez,Camden>:[62-22]->Teddy Bear
+<Allen,Colt>:[70-98]->Barbie Doll
+<Sanchez,Ryleigh>:[92-5]->Wooly Jumper
+<James,Aurora>:[22-69]->Teddy Bear
+<Hoffman,Oaklynn>:[38-89]->Orange
+<Carpenter,Adeline>:[19-57]->Toy Car
+<Carter,Karter>:[90-98]->Lego Set
+<Peters,Rylee>:[37-7]->Book
+<Romero,Dominic>:[57-87]->Book
+<Berry,Silas>:[20-0]->Book
+<Jenkins,Evangeline>:[44-97]->Book
+<Stone,Gemma>:[67-26]->Bike
+<Wells,Brynlee>:[78-84]->Action Man Figure
+<Taylor,Sawyer>:[47-38]->Teddy Bear
+<Obrien,Cameron>:[77-62]->Action Man Figure
+<Reynolds,Natalia>:[67-95]->Action Man Figure
+<Wallace,Samuel>:[65-82]->Barbie Doll
+<Shaw,Connor>:[97-25]->Bag of Sweets
+<Marshall,James>:[64-25]->Teddy Bear
+<Chapman,Aria>:[62-6]->Bike
+<Hayes,Maxwell>:[98-2]->Action Man Figure
+<Castro,Isaiah>:[3-70]->Wooly Jumper
+<Tran,Zoe>:[50-11]->Bag of Sweets
+<Nguyen,Eli>:[94-40]->Bike
+<Alvarez,Tristan>:[15-87]->Lego Set
+<Nichols,Andrew>:[72-53]->Bag of Sweets
+<Nguyen,Evangeline>:[19-90]->Bag of Sweets
+<Fox,Oscar>:[12-71]->Barbie Doll
+<Torres,Oscar>:[53-28]->Orange
+<Carroll,Gianna>:[50-81]->Orange
+<Spencer,Adelyn>:[9-99]->Book
+<Watkins,Eric>:[92-51]->Wooly Jumper
+<Hughes,Ashton>:[80-76]->Toy Car
+<Berry,Jason>:[66-95]->Teddy Bear
+<Graham,Rowan>:[56-70]->Bag of Sweets
+<Lee,Khloe>:[62-66]->Action Man Figure
+<Vasquez,Christian>:[43-27]->Bag of Sweets
+<Mcdonald,Emiliano>:[56-11]->Book
+<Bennett,Aaliyah>:[28-64]->Wooly Jumper
+<Webb,Emma>:[67-27]->Teddy Bear
+<Bennett,Nevaeh>:[4-8]->Teddy Bear
+<Black,Liliana>:[67-16]->Toy Car
+<Shaw,Josie>:[74-81]->Orange
+<Murphy,June>:[16-86]->Barbie Doll
+<Russell,Diego>:[93-3]->Toy Car
+<Davis,Samantha>:[65-97]->Orange
+<Larson,Angel>:[64-35]->Orange
+<Green,Maria>:[15-43]->Teddy Bear
+<Salazar,Blake>:[97-0]->Toy Car
+<Fisher,Ivan>:[72-10]->Teddy Bear
+<Lawrence,Lorenzo>:[51-90]->Bag of Sweets
+<Guzman,Marcus>:[44-10]->Action Man Figure
+<Ellis,Noah>:[3-67]->Toy Car
+<Evans,Steven>:[77-14]->Lego Set
+<Chavez,Lilah>:[64-67]->Orange
+<Crawford,Harrison>:[6-86]->Bike
+<Diaz,Kaylee>:[71-85]->Bag of Sweets
+<Lawrence,Lydia>:[92-52]->Wooly Jumper
+<Morrison,Jesus>:[62-93]->Lego Set
+<Ward,Isla>:[70-50]->Lego Set
+<Brown,Karter>:[24-15]->Lego Set
+<Wood,Alan>:[70-72]->Bike
+<Webb,Alani>:[11-37]->Action Man Figure
+<Richardson,Sophie>:[57-38]->Bag of Sweets
+<Washington,Georgia>:[69-80]->Teddy Bear
+<Johnston,Marcus>:[38-25]->Barbie Doll
+<Kelly,Valeria>:[50-2]->Bag of Sweets
+<Garcia,Charlie>:[5-82]->Bike
+<Bailey,Everett>:[8-47]->Bag of Sweets
+<Lane,Matthew>:[77-15]->Teddy Bear
+<Bradley,Thomas>:[8-22]->Barbie Doll
+<Kelly,Alex>:[19-91]->Book
+<Hoffman,Melanie>:[68-92]->Lego Set
+<Boyd,Victoria>:[16-53]->Lego Set
+<Perkins,Piper>:[46-64]->Bag of Sweets
+<Franklin,Hannah>:[33-24]->Lego Set
+<Berry,Oscar>:[71-83]->Barbie Doll
+<Mason,Ariella>:[30-51]->Book
+<James,Amir>:[82-11]->Toy Car
+<Watson,Alana>:[81-46]->Barbie Doll
+<Scott,Lennon>:[69-43]->Barbie Doll
+<Adams,Jasper>:[9-43]->Orange
+<Stone,Nathan>:[0-42]->Toy Car
+<Mendez,Hunter>:[60-35]->Lego Set
+<Gordon,Wesley>:[5-91]->Book
+<Gomez,Xander>:[1-58]->Wooly Jumper
+<Schmidt,Javier>:[70-57]->Barbie Doll
+<Dean,Andrew>:[45-73]->Bike
+<Martin,Lilly>:[0-22]->Orange
+<Robinson,Edward>:[77-82]->Orange
+<Ramirez,Matias>:[88-74]->Wooly Jumper
+<Bell,Amara>:[83-19]->Bag of Sweets
+<Guzman,Ruby>:[44-24]->Lego Set
+<Wells,Khloe>:[42-86]->Wooly Jumper
+<Martin,Austin>:[99-86]->Lego Set
+<Thompson,Melanie>:[2-88]->Action Man Figure
+<Ortiz,Brody>:[24-79]->Toy Car
+<Powell,Ariella>:[76-71]->Action Man Figure
+<Cruz,Peter>:[34-21]->Bike
+<Bryant,Rosalie>:[45-11]->Lego Set
+<Rice,Brody>:[39-97]->Barbie Doll
+<Gonzales,Freya>:[71-7]->Bike
+<Lewis,Caleb>:[12-66]->Bike
+<Hamilton,Journee>:[78-87]->Wooly Jumper
+<Mendoza,Freya>:[95-81]->Barbie Doll
+<Moore,Mateo>:[44-43]->Bag of Sweets
+<Hamilton,Parker>:[3-98]->Toy Car
+<Stephens,Braxton>:[25-85]->Bag of Sweets
+<Larson,Aaron>:[64-61]->Lego Set
+<Edwards,Isaiah>:[57-96]->Toy Car
+<Schmidt,Zara>:[71-51]->Orange
+<Patel,Isaac>:[15-65]->Lego Set
+<Larson,Blakely>:[16-98]->Teddy Bear
+<Silva,Amelia>:[94-55]->Toy Car
+<West,Kyrie>:[90-39]->Book
+<Perry,Gemma>:[93-84]->Bag of Sweets
+<Larson,Arlo>:[16-44]->Lego Set
+<Kim,Londyn>:[53-9]->Toy Car
+<Collins,Everly>:[37-18]->Lego Set
+<Perry,Xander>:[32-91]->Wooly Jumper
+<Jacobs,Parker>:[58-6]->Wooly Jumper
+<Powell,Santiago>:[64-12]->Toy Car
+<Butler,Kyler>:[31-46]->Barbie Doll
+<Thompson,Alex>:[25-25]->Bike
+<Hansen,Carson>:[95-55]->Wooly Jumper
+<Ramos,Brayden>:[78-50]->Bike
+<Munoz,Delilah>:[73-60]->Teddy Bear
+<Austin,Legend>:[51-23]->Book
+<Stone,Kayden>:[36-52]->Wooly Jumper
+<Franklin,Weston>:[59-73]->Toy Car
+<Meyer,Bailey>:[8-2]->Toy Car
+<Carter,Lillian>:[10-71]->Barbie Doll
+<Robinson,Dawson>:[35-86]->Bike
+<Lane,Kai>:[38-2]->Barbie Doll
+<Reed,Zara>:[69-3]->Action Man Figure
+<Bryant,Lila>:[58-28]->Wooly Jumper
+<Jackson,Bryson>:[16-46]->Lego Set
+<Freeman,Liam>:[21-24]->Action Man Figure
+<Ruiz,Alexandra>:[29-59]->Lego Set
+<Carr,Beckett>:[51-11]->Wooly Jumper
+<Dixon,Isla>:[26-66]->Lego Set
+<Williamson,Violet>:[7-38]->Barbie Doll
+<Sullivan,Reagan>:[79-33]->Toy Car
+<Kennedy,Noah>:[47-6]->Barbie Doll
+<Willis,Valeria>:[84-60]->Action Man Figure
+<Mitchell,Aurora>:[50-16]->Toy Car
+<Rogers,Georgia>:[86-47]->Teddy Bear
+<Hernandez,Sienna>:[67-51]->Orange
+<Anderson,Declan>:[97-37]->Toy Car
+<Ramirez,Finley>:[83-28]->Bag of Sweets
+<Kelley,Brynlee>:[33-74]->Lego Set
+<Brooks,Brayden>:[8-25]->Lego Set
+<Lane,Isaiah>:[33-23]->Action Man Figure
+<Hughes,Preston>:[16-75]->Bag of Sweets
+<Ramos,Kyrie>:[99-87]->Action Man Figure
+<Anderson,Kamila>:[83-33]->Toy Car
+<Burns,Serenity>:[81-95]->Lego Set
+<Ward,Emersyn>:[90-91]->Bag of Sweets
+<Miller,Bryson>:[77-88]->Lego Set
+<Berry,Camden>:[12-79]->Orange
+<Spencer,Ada>:[81-99]->Bag of Sweets
+<Watkins,Julian>:[64-33]->Bike
+<Austin,Josie>:[48-62]->Bike
+<Hall,Peyton>:[42-19]->Toy Car
+<Mendoza,Alan>:[0-83]->Bag of Sweets
+<Ray,Alana>:[49-29]->Action Man Figure
+<Ray,Harlow>:[95-27]->Bag of Sweets
+<Sanchez,Elliott>:[93-57]->Book
+<King,Remington>:[85-79]->Toy Car
+<Peters,William>:[74-75]->Toy Car
+<Meyer,Avery>:[81-80]->Lego Set
+<Johnson,Vera>:[80-8]->Bike
+<Boyd,Amir>:[43-70]->Bike
+<Vasquez,Jace>:[3-42]->Bag of Sweets
+<Robertson,Valentina>:[72-51]->Orange
+<Baker,Eleanor>:[64-14]->Teddy Bear
+<Matthews,Kimberly>:[86-49]->Bag of Sweets
+<Montgomery,King>:[79-99]->Bag of Sweets
+<Montgomery,Victoria>:[86-81]->Barbie Doll
+<Vasquez,Jesse>:[69-49]->Teddy Bear
+<Franklin,Evan>:[65-80]->Bike
+<Cox,Rowan>:[76-29]->Barbie Doll
+<Graham,Ethan>:[51-36]->Orange
+<George,Alex>:[7-65]->Action Man Figure
+<Lawson,Alaina>:[27-10]->Lego Set
+<Montgomery,Jax>:[5-16]->Orange
+<Hansen,Leon>:[24-87]->Barbie Doll
+<Jenkins,Giovanni>:[54-98]->Action Man Figure
+<Silva,Brooklyn>:[93-31]->Orange
+<Freeman,Bailey>:[70-25]->Wooly Jumper
+<Jenkins,Adriel>:[52-98]->Bike
+<Cole,Nathaniel>:[58-26]->Barbie Doll
+<Mcdonald,Everly>:[29-12]->Orange
+<Hicks,Maria>:[95-71]->Barbie Doll
+<Jensen,Samantha>:[42-78]->Book
+<Pierce,Arya>:[84-81]->Barbie Doll
+<Hudson,Elise>:[40-58]->Barbie Doll
+<Garcia,Jacob>:[97-18]->Wooly Jumper
+<Freeman,Ryder>:[24-38]->Wooly Jumper
+<Sullivan,Kayden>:[34-93]->Bike
+<Riley,Lilah>:[83-42]->Lego Set
+<Lynch,Mason>:[39-74]->Orange
+<Adams,Aspen>:[92-22]->Book
+<Morgan,Allison>:[9-39]->Action Man Figure
+<Adams,Anthony>:[84-95]->Barbie Doll
+<Carr,Bennett>:[22-54]->Wooly Jumper
+<Hill,Natalie>:[2-94]->Toy Car
+<Burke,Gabriella>:[4-59]->Wooly Jumper
+<Burke,Kai>:[45-29]->Lego Set
+<Howard,Emerson>:[12-50]->Lego Set
+<Wagner,Gemma>:[84-84]->Toy Car
+<Brooks,Roman>:[25-43]->Orange
+<Harper,Aurora>:[79-24]->Barbie Doll
+<Romero,Cole>:[1-7]->Bag of Sweets
+<Watson,Noah>:[62-9]->Lego Set
+<Gonzales,Rhett>:[28-44]->Bag of Sweets
+<Watkins,Brandon>:[66-1]->Teddy Bear
+<Cooper,Addison>:[18-35]->Wooly Jumper
+<Hill,Kaia>:[93-24]->Bag of Sweets
+<Lynch,Edward>:[47-2]->Teddy Bear
+<Mills,Callie>:[94-29]->Teddy Bear
+<King,Kylie>:[65-79]->Orange
+<Hill,Zayden>:[26-59]->Wooly Jumper
+<Alvarez,Dylan>:[10-54]->Book
+<Brown,Adelyn>:[83-30]->Bike
+<Gonzalez,Jace>:[37-53]->Action Man Figure
+<Kelly,Declan>:[10-85]->Action Man Figure
+<Coleman,Morgan>:[11-38]->Teddy Bear
+<Morrison,June>:[62-99]->Wooly Jumper
+<Sullivan,Dominic>:[39-61]->Book
+<Dunn,London>:[35-33]->Teddy Bear
+<Foster,Amaya>:[56-13]->Book
+<Garcia,Bailey>:[0-30]->Teddy Bear
+<Ferguson,Damian>:[19-27]->Orange
+<Williamson,Jacob>:[35-94]->Toy Car
+<Roberts,Micah>:[92-56]->Orange
+<Lawrence,Hunter>:[90-62]->Orange
+<Ross,Delilah>:[45-91]->Lego Set
+<Edwards,Zuri>:[72-14]->Bag of Sweets
+<Palmer,Esther>:[0-20]->Bike
+<Scott,Xander>:[78-88]->Lego Set
+<Hudson,Jonah>:[14-78]->Orange
+<Jones,Maya>:[32-78]->Book
+<Duncan,Miles>:[24-40]->Bag of Sweets
+<Hughes,Tucker>:[69-72]->Book
+<Ortiz,Katherine>:[46-43]->Barbie Doll
+<Sullivan,Ashley>:[86-84]->Bag of Sweets
+<Johnson,Nathan>:[58-51]->Action Man Figure
+<Willis,Xavier>:[57-2]->Bike
+<Price,Oaklynn>:[33-59]->Teddy Bear
+<Butler,Emery>:[34-49]->Lego Set
+<Mcdonald,Kaleb>:[24-63]->Wooly Jumper
+<Garza,Braxton>:[62-32]->Book
+<Harris,Israel>:[63-31]->Toy Car
+<Williams,Hailey>:[90-35]->Action Man Figure
+<Jones,Jonathan>:[73-47]->Bag of Sweets
+<Carter,Isla>:[88-77]->Toy Car
+<Hudson,Angela>:[5-78]->Book
+<Dixon,Bennett>:[83-12]->Bag of Sweets
+<Sullivan,Henry>:[30-47]->Action Man Figure
+<Gilbert,Paisley>:[51-33]->Barbie Doll
+<Cox,Hannah>:[68-25]->Orange
+<Gutierrez,Jack>:[87-21]->Action Man Figure
+<Harris,Adonis>:[70-73]->Book
+<Rose,Santiago>:[1-49]->Book
+<Harrison,Natalia>:[74-69]->Wooly Jumper
+<Gonzalez,Victoria>:[21-81]->Lego Set
+<Larson,Jude>:[56-14]->Barbie Doll
+<Carter,George>:[73-36]->Teddy Bear
+<Pierce,Bryce>:[87-77]->Barbie Doll
+<Stevens,Kamila>:[69-97]->Bag of Sweets
+<Walker,Noah>:[94-98]->Orange
+<Jordan,Juan>:[16-18]->Teddy Bear
+<Gomez,Ryan>:[18-33]->Teddy Bear
+<Palmer,Lucia>:[43-52]->Toy Car
+<Black,Rylee>:[5-68]->Bag of Sweets
+<Hayes,Kevin>:[47-78]->Barbie Doll
+<Bryant,Luis>:[51-62]->Wooly Jumper
+<White,Eliana>:[8-70]->Teddy Bear
+<Wheeler,Atlas>:[12-40]->Teddy Bear
+<Thompson,Enzo>:[41-96]->Bag of Sweets
+<Knight,Luis>:[46-52]->Book
+<Perez,Julia>:[43-72]->Bag of Sweets
+<Ray,Liam>:[58-27]->Book
+<Hall,Madeline>:[2-52]->Book
+<Gordon,Khloe>:[28-59]->Bike
+<Olson,Emerson>:[62-39]->Action Man Figure
+<Duncan,Elliana>:[28-61]->Orange
+<Adams,Liliana>:[80-28]->Barbie Doll
+<Knight,Preston>:[3-66]->Book
+<Mason,Katherine>:[16-51]->Action Man Figure
+<Butler,Ellie>:[45-90]->Bike
+<Perry,Margot>:[93-43]->Bike
+<Carroll,Aubree>:[33-76]->Bike
+<Morrison,Aiden>:[93-66]->Lego Set
+<Cole,Sofia>:[80-42]->Bag of Sweets
+<Cox,Alejandro>:[95-42]->Wooly Jumper
+<Cooper,Jayden>:[11-81]->Wooly Jumper
+<Knight,Bentley>:[68-98]->Bag of Sweets
+<Porter,Myla>:[8-37]->Bike
+<Ellis,Presley>:[95-73]->Bike
+<Medina,Magnolia>:[34-62]->Barbie Doll
+<Bell,Sophia>:[86-99]->Lego Set
+<Chapman,Selena>:[65-60]->Lego Set
+<Thomas,Taylor>:[82-44]->Barbie Doll
+<Hoffman,Taylor>:[89-29]->Orange
+<Black,Ruby>:[33-85]->Lego Set
+<Long,Finn>:[41-11]->Action Man Figure
+<Baker,Isabelle>:[77-86]->Action Man Figure
+<Peterson,Elizabeth>:[92-69]->Toy Car
+<Wilson,Brody>:[11-9]->Bag of Sweets
+<Ross,Andres>:[6-81]->Book
+<Mendoza,Ellie>:[16-98]->Barbie Doll
+<Mendez,Maxwell>:[13-23]->Teddy Bear
+<Lane,Liliana>:[28-0]->Book
+<Aguilar,Diana>:[6-37]->Bag of Sweets
+<Hansen,Antonio>:[18-5]->Bike
+<Wells,Zara>:[53-29]->Barbie Doll
+<Bailey,Mila>:[39-45]->Orange
+<Montgomery,Ryan>:[61-41]->Orange
+<Howard,Jason>:[55-14]->Wooly Jumper
+<Stephens,Presley>:[19-65]->Book
+<Boyd,Jacob>:[45-87]->Wooly Jumper
+<Carroll,Hazel>:[90-17]->Barbie Doll
+<Murphy,Sawyer>:[96-30]->Orange
+<Lynch,Maxwell>:[78-71]->Teddy Bear
+<Arnold,Savannah>:[65-11]->Bag of Sweets
+<Salazar,Mackenzie>:[74-28]->Book
+<Simmons,Lennon>:[25-62]->Teddy Bear
+<Ford,Owen>:[73-49]->Book
+<Bell,Harmony>:[88-61]->Teddy Bear
+<Price,Rowan>:[78-79]->Teddy Bear
+<Reed,Catalina>:[12-55]->Orange
+<Meyer,Simon>:[58-92]->Orange
+<Owens,Alexandra>:[61-3]->Orange
+<Alvarez,Genevieve>:[9-26]->Bike
+<Wallace,Waylon>:[35-55]->Teddy Bear
+<Alexander,Arthur>:[81-80]->Teddy Bear
+<Watson,Adam>:[77-56]->Book
+<Greene,Harlow>:[67-76]->Bag of Sweets
+<White,Lincoln>:[42-31]->Toy Car
+<Lawrence,Zachary>:[15-17]->Barbie Doll
+<Carroll,Isabel>:[73-19]->Orange
+<Snyder,Ezra>:[10-11]->Teddy Bear
+<Sanders,Christian>:[82-49]->Action Man Figure
+<Jackson,Luna>:[77-86]->Book
+<Foster,Amari>:[18-57]->Bike
+<Snyder,Magnolia>:[47-42]->Barbie Doll
+<Bishop,Everly>:[58-15]->Orange
+<Mcdonald,Colt>:[77-80]->Toy Car
+<Hunt,Catalina>:[59-44]->Wooly Jumper
+<White,Londyn>:[70-35]->Bag of Sweets
+<West,Kaleb>:[34-59]->Wooly Jumper
+<Mitchell,Millie>:[98-24]->Toy Car
+<Vargas,Nolan>:[67-65]->Bag of Sweets
+<Alvarez,Emiliano>:[72-99]->Bike
+<Bailey,Aiden>:[54-64]->Teddy Bear
+<Gomez,Lorenzo>:[31-13]->Wooly Jumper
+<Herrera,Eloise>:[61-26]->Bike
+<Garcia,Ada>:[14-60]->Book
+<Nguyen,Autumn>:[97-99]->Bag of Sweets
+<White,Arabella>:[24-76]->Lego Set
+<Jones,Peyton>:[0-73]->Wooly Jumper
+<Gonzalez,Vera>:[67-88]->Action Man Figure
+<Jackson,Calvin>:[90-37]->Teddy Bear
+<Mason,Ace>:[40-92]->Barbie Doll
+<Nichols,Carson>:[55-12]->Action Man Figure
+<Hall,Emma>:[91-30]->Bike
+<Davis,Eliza>:[81-99]->Action Man Figure
+<Cooper,Damian>:[42-92]->Bike
+<Austin,Ruby>:[93-91]->Action Man Figure
+<Chapman,Abigail>:[7-12]->Action Man Figure
+<Murphy,Nova>:[26-88]->Book
+<Bishop,Emmett>:[51-95]->Lego Set
+<Munoz,Kimberly>:[85-95]->Orange
+<Ward,Chase>:[26-59]->Action Man Figure
+<Greene,Madeline>:[4-12]->Action Man Figure
+<Graham,Nathaniel>:[31-55]->Barbie Doll
+<Duncan,Harrison>:[44-95]->Action Man Figure
+<Stephens,Robert>:[61-17]->Bag of Sweets
+<Jimenez,Alana>:[92-66]->Lego Set
+<Rodriguez,Kaiden>:[43-74]->Teddy Bear
+<Cole,Brooklyn>:[84-2]->Orange
+<Stone,Eric>:[26-96]->Bag of Sweets
+<Jordan,Miles>:[73-28]->Action Man Figure
+<Barnes,Ruth>:[72-74]->Bike
+<Gonzalez,Greyson>:[42-10]->Bike
+<Sanders,Sienna>:[89-79]->Barbie Doll
+<Fisher,Emerson>:[47-12]->Toy Car
+<Martinez,Emerson>:[65-44]->Action Man Figure
+<Harrison,Jasper>:[96-91]->Book
+<King,Archer>:[55-53]->Orange
+<George,Reese>:[15-62]->Wooly Jumper
+<Simpson,Jaxon>:[19-3]->Book
+<Perry,Barrett>:[42-79]->Bike
+<Robertson,Eden>:[57-95]->Barbie Doll
+<Hicks,Zoe>:[98-77]->Bike
+<Greene,Mia>:[53-23]->Bag of Sweets
+<Bradley,Elliot>:[42-37]->Wooly Jumper
+<Gilbert,Nash>:[57-19]->Bike
+<Elliott,Ace>:[52-76]->Teddy Bear
+<Ortiz,Kevin>:[5-91]->Toy Car
+<Barnes,Christian>:[14-48]->Orange
+<Alvarez,Diana>:[75-23]->Bike
+<Green,Claire>:[95-76]->Book
+<Garza,Ashton>:[55-54]->Toy Car
+<Hoffman,Kingston>:[70-95]->Barbie Doll
+<Wood,Emersyn>:[92-67]->Wooly Jumper
+<Hughes,Adrian>:[59-54]->Teddy Bear
+<Roberts,Hazel>:[33-2]->Bag of Sweets
+<Cole,Khloe>:[56-92]->Action Man Figure
+<Rose,Ana>:[9-20]->Action Man Figure
+<Harris,Graham>:[77-35]->Lego Set
+<Chapman,George>:[76-1]->Lego Set
+<Alvarez,Harlow>:[19-20]->Lego Set
+<Lane,Melanie>:[22-37]->Bike
+<Reed,Isla>:[45-92]->Bag of Sweets
+<Lawson,Valeria>:[33-71]->Orange
+<Jenkins,Lorenzo>:[20-16]->Lego Set
+<Castillo,Kennedy>:[2-41]->Action Man Figure
+<Bishop,Brynlee>:[4-7]->Orange
+<Williamson,Joshua>:[49-26]->Barbie Doll
+<Hicks,Beckham>:[92-39]->Action Man Figure
+<Palmer,Logan>:[39-48]->Bike
+<Gonzales,Amy>:[68-58]->Bag of Sweets
+<Foster,Remington>:[13-94]->Bike
+<Gardner,Maddox>:[22-99]->Teddy Bear
+<Jimenez,Matias>:[66-27]->Orange
+<Sanders,Ezra>:[36-11]->Bike
+<Wells,Javier>:[61-34]->Barbie Doll
+<James,Faith>:[72-53]->Lego Set
+<Mendez,Brooklyn>:[56-93]->Bag of Sweets
+<Arnold,Ayla>:[14-59]->Bag of Sweets
+<Howard,Luca>:[60-89]->Bike
+<Hansen,Christopher>:[10-72]->Bag of Sweets
+<Price,Jace>:[51-22]->Lego Set
+<Mason,Charlotte>:[85-2]->Teddy Bear
+<Kelley,Enzo>:[75-61]->Bike
+<Obrien,Alan>:[49-28]->Bike
+<Mendoza,Remi>:[73-95]->Book
+<Morgan,Jason>:[10-38]->Bike
+<Simpson,Malachi>:[24-65]->Action Man Figure
+<Gilbert,Beau>:[31-78]->Bike
+<Ferguson,Roman>:[90-35]->Lego Set
+<Hawkins,Oscar>:[51-96]->Barbie Doll
+<Evans,Margaret>:[39-22]->Bag of Sweets
+<Kennedy,Steven>:[61-18]->Orange
+<Jensen,Kai>:[5-99]->Barbie Doll
+<Bennett,Zuri>:[27-60]->Orange
+<Romero,Colton>:[18-39]->Lego Set
+<Ward,Jesse>:[43-44]->Barbie Doll
+<Owens,Kayden>:[25-67]->Toy Car
+<Ross,Rowan>:[60-65]->Bike
+<Butler,Easton>:[48-65]->Teddy Bear
+<Butler,Alan>:[67-50]->Lego Set
+<Adams,Riley>:[26-41]->Action Man Figure
+<Coleman,Leilani>:[8-7]->Book
+<Olson,Ivan>:[95-42]->Action Man Figure
+<Watkins,Mia>:[29-0]->Teddy Bear
+<Chapman,Nathaniel>:[59-11]->Teddy Bear
+<Willis,Alice>:[67-80]->Orange
+<Andrews,Cameron>:[76-38]->Bag of Sweets
+<Mendez,Peyton>:[99-16]->Action Man Figure
+<Ross,Carson>:[70-26]->Barbie Doll
+<Alexander,Londyn>:[27-11]->Bag of Sweets
+<Sullivan,Morgan>:[88-77]->Toy Car
+<Fernandez,Harrison>:[15-20]->Barbie Doll
+<Foster,Xander>:[73-91]->Toy Car
+<Robinson,Harper>:[17-14]->Toy Car
+<Griffin,Zion>:[11-15]->Bag of Sweets
+<Hart,Joshua>:[10-39]->Orange
+<Marshall,Zuri>:[39-45]->Lego Set
+<Morales,Kaleb>:[13-75]->Barbie Doll
+<Richards,Sloane>:[43-94]->Action Man Figure
+<Cook,Nevaeh>:[1-99]->Toy Car
+<Kelley,Eleanor>:[29-90]->Barbie Doll
+<Fernandez,Andrea>:[14-30]->Lego Set
+<Nichols,Mackenzie>:[9-56]->Bike
+<Smith,Mila>:[4-49]->Toy Car
+<Cooper,Daisy>:[69-57]->Barbie Doll
+<Alvarez,Josiah>:[54-55]->Barbie Doll
+<Ortiz,Michael>:[77-40]->Bike
+<Payne,Aaron>:[11-36]->Bike
+<Gonzalez,Myles>:[7-6]->Bag of Sweets
+<Romero,Emmanuel>:[76-61]->Barbie Doll
+<Dixon,Ethan>:[88-26]->Lego Set
+<Ferguson,Dawson>:[35-24]->Bike
+<Porter,Khloe>:[50-82]->Barbie Doll
+<Castillo,Skylar>:[37-21]->Lego Set
+<Alvarez,Lilly>:[62-14]->Lego Set
+<Walker,Riley>:[41-94]->Teddy Bear
+<Nichols,London>:[72-65]->Bag of Sweets
+<Nelson,Arabella>:[84-62]->Book
+<Henry,Marcus>:[53-30]->Bike
+<Olson,Messiah>:[38-1]->Teddy Bear
+<Jimenez,Juliette>:[94-96]->Wooly Jumper
+<Ryan,Graham>:[37-53]->Lego Set
+<Diaz,Benjamin>:[13-8]->Toy Car
+<Phillips,Elias>:[25-72]->Lego Set
+<Dixon,Amari>:[99-18]->Barbie Doll
+<Anderson,George>:[80-44]->Action Man Figure
+<Young,Brooklyn>:[19-18]->Action Man Figure
+<Marshall,Alina>:[88-90]->Toy Car
+<Lynch,Joshua>:[74-35]->Barbie Doll
+<Ortiz,Maeve>:[21-42]->Book
+<Wright,Kehlani>:[34-5]->Bike
+<Larson,Axel>:[81-52]->Bag of Sweets
+<Murphy,Dylan>:[95-41]->Barbie Doll
+<Green,Declan>:[70-57]->Book
+<Alvarez,Elliott>:[67-64]->Wooly Jumper
+<Mills,Maddox>:[38-91]->Toy Car
+<Jimenez,Layla>:[73-8]->Teddy Bear
+<Green,Brody>:[0-66]->Action Man Figure
+<Peters,Sienna>:[24-85]->Wooly Jumper
+<Wells,Samantha>:[0-33]->Bike
+<Obrien,Max>:[81-61]->Teddy Bear
+<Brown,Aiden>:[46-99]->Barbie Doll
+<Garza,Luka>:[70-5]->Bag of Sweets
+<Fisher,Isabella>:[61-66]->Action Man Figure
+<Medina,Jonah>:[69-50]->Barbie Doll
+<Baker,Hadley>:[42-20]->Lego Set
+<Powell,Vivian>:[98-9]->Teddy Bear
+<Marshall,Audrey>:[27-4]->Toy Car
+<Lynch,Peyton>:[70-83]->Teddy Bear
+<Larson,Carlos>:[71-10]->Bag of Sweets
+<Mason,Angel>:[81-26]->Toy Car
+<Salazar,Walker>:[22-27]->Toy Car
+<Reed,Elijah>:[36-99]->Lego Set
+<Kelley,Abraham>:[6-83]->Lego Set
+<Bell,Emmanuel>:[91-64]->Barbie Doll
+<Mills,Zachary>:[50-19]->Toy Car
+<Mcdonald,Blake>:[69-65]->Book
+<Gonzales,Walker>:[72-49]->Orange
+<Scott,Caden>:[69-96]->Bag of Sweets
+<Dunn,Declan>:[98-46]->Lego Set
+<Baker,Miguel>:[95-77]->Bike
+<Sanders,Kash>:[80-43]->Orange
+<Kelly,Magnolia>:[11-95]->Orange
+<Myers,Andres>:[84-9]->Book
+<Kennedy,Naomi>:[16-24]->Action Man Figure
+<Jensen,Rowan>:[60-4]->Wooly Jumper
+<Hernandez,Anastasia>:[6-23]->Bag of Sweets
+<Henderson,Sienna>:[19-0]->Bike
+<Torres,Sebastian>:[10-46]->Lego Set
+<Boyd,Zion>:[89-54]->Teddy Bear
+<Ruiz,Elliana>:[37-26]->Toy Car
+<Green,Olive>:[28-84]->Book
+<Perkins,Hannah>:[49-40]->Book
+<Hamilton,Xander>:[34-39]->Toy Car
+<Jackson,Maddox>:[34-98]->Action Man Figure
+<Mendoza,Naomi>:[87-10]->Orange
+<Vargas,Elsie>:[66-59]->Toy Car
+<Owens,Jonathan>:[42-22]->Barbie Doll
+<Tucker,King>:[9-3]->Lego Set
+<Baker,Savannah>:[73-45]->Wooly Jumper
+<Barnes,Beckett>:[85-82]->Teddy Bear
+<Jordan,Asher>:[1-82]->Bag of Sweets
+<Wheeler,Atlas>:[0-39]->Bike
+<Meyer,Hayden>:[51-55]->Action Man Figure
+<Hoffman,Emmanuel>:[1-89]->Bag of Sweets
+<Kim,Esther>:[54-54]->Book
+<Stone,Vivian>:[60-34]->Toy Car
+<Rice,Catalina>:[50-23]->Lego Set
+<Bailey,Ezekiel>:[30-90]->Lego Set
+<Shaw,Jason>:[1-81]->Lego Set
+<Henderson,Marley>:[61-2]->Toy Car
+<Medina,Sienna>:[28-63]->Bike
+<James,Kylie>:[31-76]->Barbie Doll
+<Matthews,Morgan>:[17-85]->Toy Car
+<Garza,Luis>:[22-88]->Bike
+<Ryan,James>:[95-90]->Action Man Figure
+<Davis,Angela>:[70-10]->Wooly Jumper
+<Carter,Timothy>:[77-82]->Lego Set
+<Daniels,Clara>:[98-1]->Toy Car
+<Thompson,Declan>:[19-66]->Teddy Bear
+<Howell,Levi>:[58-25]->Barbie Doll
+<Herrera,Kaleb>:[70-83]->Wooly Jumper
+<Wallace,Walker>:[19-73]->Action Man Figure
+<Williams,Beau>:[36-21]->Action Man Figure
+<Chavez,Nolan>:[64-91]->Lego Set
+<Richardson,Bennett>:[13-69]->Teddy Bear
+<Robinson,Alexander>:[77-48]->Toy Car
+<Perkins,Lilah>:[19-61]->Lego Set
+<Peterson,Annie>:[45-25]->Book
+<Crawford,Sofia>:[28-0]->Lego Set
+<Morales,Ariella>:[16-94]->Action Man Figure
+<Collins,Myla>:[5-3]->Lego Set
+<Daniels,Wyatt>:[77-49]->Book
+<Obrien,Bryson>:[75-60]->Barbie Doll
+<Ortiz,Brielle>:[50-45]->Toy Car
+<Young,Raelynn>:[92-19]->Wooly Jumper
+<Johnston,Kaia>:[96-4]->Toy Car
+<Lewis,Luka>:[78-34]->Lego Set
+<Morgan,Aria>:[69-66]->Action Man Figure
+<Wheeler,Blake>:[40-80]->Action Man Figure
+<Reed,Rosalie>:[28-8]->Wooly Jumper
+<Moreno,Caroline>:[63-94]->Bag of Sweets
+<Baker,Avery>:[92-70]->Toy Car
+<Martinez,Madison>:[20-94]->Orange
+<Munoz,Allison>:[67-91]->Toy Car
+<Matthews,Maeve>:[99-16]->Lego Set
+<Hughes,Gracie>:[37-37]->Bag of Sweets
+<Bradley,Marcus>:[92-57]->Bag of Sweets
+<Carpenter,Rowan>:[95-43]->Action Man Figure
+<Ryan,Claire>:[69-64]->Book
+<Anderson,Emmett>:[12-97]->Orange
+<Miller,Kaleb>:[60-66]->Wooly Jumper
+<Gibson,Nathan>:[53-89]->Wooly Jumper
+<Diaz,Alaina>:[33-76]->Toy Car
+<Hicks,Delilah>:[55-55]->Bike
+<Rodriguez,Noelle>:[74-22]->Bike
+<Nguyen,Preston>:[39-99]->Book
+<Andrews,Eloise>:[39-25]->Bike
+<Roberts,Eleanor>:[65-34]->Wooly Jumper
+<Baker,Piper>:[76-10]->Lego Set
+<Gonzales,Diego>:[88-55]->Action Man Figure
+<Ruiz,Finn>:[83-86]->Action Man Figure
+<Reynolds,Abraham>:[53-31]->Book
+<Armstrong,Aaliyah>:[60-14]->Barbie Doll
+<Kelley,Jack>:[5-82]->Bike
+<Willis,Layla>:[27-55]->Action Man Figure
+<Miller,Abigail>:[25-81]->Toy Car
+<Palmer,Brynlee>:[60-39]->Book
+<Lawrence,William>:[92-64]->Bike
+<Mendoza,Luis>:[1-8]->Bike
+<Jimenez,Angel>:[54-60]->Action Man Figure
+<Pierce,Elizabeth>:[8-84]->Toy Car
+<Gonzales,Dylan>:[68-40]->Barbie Doll
+<Snyder,Oaklynn>:[53-32]->Lego Set
+<Gibson,Finley>:[71-81]->Bike
+<Castillo,Naomi>:[72-76]->Wooly Jumper
+<Matthews,Declan>:[13-91]->Bag of Sweets
+<Henderson,Grace>:[66-99]->Toy Car
+<Hill,Piper>:[2-13]->Wooly Jumper
+<Sanders,Jonathan>:[79-85]->Teddy Bear
+<Lewis,Natalie>:[82-2]->Barbie Doll
+<Montgomery,Kash>:[86-34]->Book
+<Kim,Malachi>:[79-8]->Book
+<Hamilton,Grayson>:[39-20]->Book
+<Edwards,Ximena>:[74-66]->Lego Set
+<Stewart,Blakely>:[94-16]->Book
+<Ruiz,Kimberly>:[94-0]->Book
+<Lynch,Valentina>:[19-65]->Book
+<Gray,Christopher>:[27-27]->Wooly Jumper
+<Green,Addison>:[76-67]->Book
+<Walker,Olivia>:[27-3]->Wooly Jumper
+<Reyes,Lydia>:[46-57]->Bag of Sweets
+<Warren,Ada>:[12-55]->Wooly Jumper
+<Lee,Charlie>:[2-30]->Action Man Figure
+<Gilbert,Reese>:[94-73]->Lego Set
+<Morris,Natalie>:[11-26]->Bag of Sweets
+<Stewart,Evangeline>:[57-31]->Wooly Jumper
+<Simmons,Summer>:[35-12]->Wooly Jumper
+<Armstrong,Genesis>:[12-48]->Lego Set
+<Lee,Londyn>:[79-31]->Lego Set
+<Morales,Kayden>:[46-72]->Wooly Jumper
+<Wallace,John>:[33-70]->Wooly Jumper
+<Morgan,Felix>:[16-31]->Bike
+<Myers,Zachary>:[78-62]->Orange
+<Campbell,Luna>:[73-13]->Book
+<Ford,Matthew>:[98-57]->Bag of Sweets
+<Patel,Reese>:[11-5]->Barbie Doll
+<Crawford,Camila>:[53-26]->Toy Car
+<Porter,Rosalie>:[94-78]->Toy Car
+<Sanders,Nova>:[21-38]->Orange
+<Lewis,Lennon>:[20-89]->Lego Set
+<Gutierrez,Scarlett>:[26-45]->Wooly Jumper
+<Mitchell,Taylor>:[14-26]->Book
+<Crawford,Amara>:[90-44]->Wooly Jumper
+<Duncan,Blakely>:[38-96]->Action Man Figure
+<Jimenez,Madelyn>:[51-99]->Bike
+<Stephens,Theodore>:[4-9]->Wooly Jumper
+<Holmes,Kaylee>:[9-43]->Book
+<Cole,Kinsley>:[46-67]->Bag of Sweets
+<Gilbert,Nathaniel>:[6-38]->Bag of Sweets
+<Duncan,James>:[8-39]->Barbie Doll
+<Lewis,Gemma>:[81-89]->Toy Car
+<Sullivan,Raelynn>:[32-54]->Barbie Doll
+<Rose,Silas>:[49-46]->Teddy Bear
+<Knight,Alice>:[85-55]->Toy Car
+<Richardson,Nova>:[29-25]->Barbie Doll
+<Mcdonald,Cole>:[51-69]->Toy Car
+<Myers,Morgan>:[60-73]->Action Man Figure
+<Cunningham,Jose>:[91-55]->Wooly Jumper
+<Edwards,Diana>:[77-72]->Toy Car
+<Lewis,Ezra>:[77-83]->Wooly Jumper
+<Stewart,Mackenzie>:[45-12]->Lego Set
+<Dean,Serenity>:[48-3]->Bike
+<Johnston,Josephine>:[41-13]->Toy Car
+<Dixon,Natalie>:[17-67]->Bike
+<Mills,Sawyer>:[93-76]->Bike
+<Bell,Adriel>:[67-34]->Book
+<Green,Allison>:[44-95]->Toy Car
+<Smith,London>:[89-97]->Action Man Figure
+<Ray,Kaia>:[2-48]->Book
+<White,Andres>:[62-29]->Action Man Figure
+<Salazar,Alaia>:[3-3]->Bike
+<Hayes,Marley>:[21-51]->Toy Car
+<Warren,Rosalie>:[86-8]->Barbie Doll
+<Robertson,Caleb>:[25-29]->Action Man Figure
+<Gomez,Miles>:[95-20]->Toy Car
+<Cunningham,Rowan>:[20-39]->Bag of Sweets
+<Griffin,Lincoln>:[5-66]->Lego Set
+<Romero,Skylar>:[6-72]->Orange
+<Crawford,Natalie>:[23-63]->Barbie Doll
+<Jackson,Andres>:[6-28]->Bag of Sweets
+<Palmer,Elena>:[82-30]->Bag of Sweets
+<Harper,Arthur>:[35-42]->Book
+<Adams,Eliza>:[25-61]->Orange
+<Robertson,Evelyn>:[6-84]->Lego Set
+<Simmons,Alexander>:[38-63]->Bag of Sweets
+<Lee,Mackenzie>:[11-45]->Teddy Bear
+<Castillo,Patrick>:[59-48]->Lego Set
+<Mitchell,Aurora>:[83-31]->Teddy Bear
+<Jacobs,Presley>:[41-89]->Toy Car
+<Oliver,Weston>:[54-8]->Bag of Sweets
+<Johnson,Abigail>:[79-8]->Action Man Figure
+<Hansen,Claire>:[54-5]->Wooly Jumper
+<Jenkins,Grayson>:[1-83]->Lego Set
+<Butler,Calvin>:[91-77]->Wooly Jumper
+<Howard,Stella>:[31-86]->Bike
+<Jordan,Blake>:[68-44]->Bag of Sweets
+<Chapman,Arlo>:[81-34]->Toy Car
+<Jenkins,Valeria>:[47-45]->Bike
+<Cunningham,Sophie>:[15-82]->Action Man Figure
+<Burke,Amara>:[4-32]->Bag of Sweets
+<Watkins,Penelope>:[43-3]->Book
+<Snyder,Ryker>:[29-56]->Book
+<Morrison,Lorenzo>:[45-68]->Wooly Jumper
+<Gilbert,Elizabeth>:[56-9]->Teddy Bear
+<Bennett,Josephine>:[67-60]->Wooly Jumper
+<Shaw,Mateo>:[23-3]->Teddy Bear
+<Palmer,Phoenix>:[14-24]->Orange
+<Jackson,Elizabeth>:[32-29]->Bike
+<Murphy,Emiliano>:[44-92]->Lego Set
+<Howell,Caroline>:[52-96]->Action Man Figure
+<James,Isla>:[59-27]->Orange
+<Rice,Olive>:[65-58]->Book
+<Roberts,Gracie>:[56-60]->Bag of Sweets
+<Tran,Addison>:[96-30]->Orange
+<Webb,Jackson>:[80-71]->Teddy Bear
+<Williamson,David>:[86-52]->Bag of Sweets
+<Reynolds,Mia>:[48-96]->Orange
+<Kelley,Ryder>:[81-66]->Lego Set
+<Hall,Melanie>:[69-4]->Lego Set
+<Chapman,Rhett>:[94-32]->Action Man Figure
+<Dunn,Laila>:[5-12]->Toy Car
+<Medina,Zane>:[94-95]->Book
+<Franklin,Eric>:[43-9]->Book
+<Munoz,Daniel>:[99-61]->Lego Set
+<Ferguson,Brooks>:[18-63]->Lego Set
+<Carter,Kyrie>:[8-11]->Action Man Figure
+<Kelley,Julia>:[1-68]->Wooly Jumper
+<Garcia,Tyler>:[11-27]->Teddy Bear
+<Williams,Sawyer>:[33-63]->Teddy Bear
+<Bailey,Eliza>:[8-36]->Orange
+<Reyes,Alexandra>:[76-97]->Book
+<Mendez,Ezra>:[49-61]->Lego Set
+<Armstrong,Elsie>:[19-55]->Teddy Bear
+<Alvarez,Nevaeh>:[6-11]->Book
+<Palmer,Eliana>:[95-52]->Barbie Doll
+<Matthews,River>:[38-58]->Bike
+<Duncan,Amelia>:[73-44]->Teddy Bear
+<Elliott,Kevin>:[35-47]->Barbie Doll
+<Young,Finn>:[73-29]->Action Man Figure
+<Thompson,Eleanor>:[29-18]->Bag of Sweets
+<Jimenez,Adam>:[2-90]->Action Man Figure
+<Black,Rhett>:[65-4]->Toy Car
+<Lawson,Enzo>:[87-7]->Toy Car
+<Gardner,Wesley>:[37-49]->Orange
+<Simmons,Israel>:[41-7]->Barbie Doll
+<Herrera,Naomi>:[27-24]->Orange
+<West,Oliver>:[47-50]->Barbie Doll
+<Flores,Ivy>:[59-14]->Barbie Doll
+<Carlson,Brielle>:[38-91]->Bag of Sweets
+<Hansen,Micah>:[84-94]->Action Man Figure
+<Austin,Laila>:[63-30]->Action Man Figure
+<Grant,Damian>:[54-84]->Teddy Bear
+<Ford,Ariella>:[14-40]->Toy Car
+<Kelly,Josie>:[94-77]->Lego Set
+<Cole,Sloane>:[97-7]->Orange
+<Pierce,Madelyn>:[2-41]->Orange
+<Hunter,Israel>:[20-75]->Action Man Figure
+<Murray,Kayden>:[93-21]->Book
+<Watson,Natalia>:[78-60]->Bag of Sweets
+<Rose,Ariana>:[68-3]->Wooly Jumper
+<Scott,Harlow>:[16-36]->Bag of Sweets
+<Robinson,Gemma>:[66-16]->Lego Set
+<Brooks,Oaklynn>:[7-92]->Action Man Figure
+<Williamson,Silas>:[41-5]->Wooly Jumper
+<Perez,Jonah>:[13-65]->Teddy Bear
+<Sanchez,Mateo>:[7-61]->Wooly Jumper
+<Cunningham,Alan>:[70-44]->Lego Set
+<Bennett,Jett>:[64-80]->Bike
+<Wright,Isaiah>:[28-29]->Lego Set
+<Pierce,Sage>:[45-95]->Lego Set
+<Murphy,Malachi>:[27-37]->Bag of Sweets
+<Cunningham,Morgan>:[28-86]->Wooly Jumper
+<Ramirez,Dean>:[36-92]->Bag of Sweets
+<Jensen,Declan>:[55-86]->Lego Set
+<Hicks,Myles>:[6-16]->Barbie Doll
+<Gutierrez,Logan>:[16-73]->Barbie Doll
+<Ortiz,Beau>:[1-10]->Book
+<Anderson,Lillian>:[60-72]->Lego Set
+<Bennett,Lily>:[36-65]->Bag of Sweets
+<Stewart,Nicolas>:[46-87]->Bag of Sweets
+<Ferguson,Barrett>:[2-45]->Wooly Jumper
+<Griffin,Austin>:[37-51]->Action Man Figure
+<George,Caleb>:[18-77]->Orange
+<Rose,Emery>:[89-43]->Teddy Bear
+<Burke,Blake>:[66-97]->Orange
+<Hunt,Harlow>:[12-47]->Bag of Sweets
+<Carter,Lilly>:[7-79]->Orange
+<Payne,Adalyn>:[14-62]->Orange
+<Woods,Atlas>:[97-31]->Teddy Bear
+<Hansen,Aliyah>:[84-36]->Wooly Jumper
+<Bishop,Peter>:[35-38]->Wooly Jumper
+<Gibson,Blake>:[70-44]->Action Man Figure
+<Hunt,Stella>:[55-86]->Bike
+<Hill,Alan>:[2-1]->Barbie Doll
+<Castro,Oakley>:[42-28]->Lego Set
+<Carr,Zion>:[11-76]->Teddy Bear
+<Scott,Cecilia>:[94-1]->Barbie Doll
+<Elliott,Henry>:[83-59]->Toy Car
+<Burke,Zane>:[67-72]->Bike
+<Hunt,Jade>:[28-71]->Bag of Sweets
+<Jacobs,Kennedy>:[70-41]->Teddy Bear
+<Rice,Alice>:[69-28]->Book
+<Gardner,Adalyn>:[98-18]->Action Man Figure
+<Hall,Reese>:[91-64]->Barbie Doll
+<Porter,Henry>:[98-27]->Action Man Figure
+<Watkins,Bentley>:[82-51]->Teddy Bear
+<Carroll,Oakley>:[92-82]->Bike
+<Fox,Zane>:[91-95]->Toy Car
+<Tucker,Charlie>:[55-92]->Orange
+<Diaz,Aiden>:[23-2]->Bag of Sweets
+<Porter,Sydney>:[19-91]->Bike
+<Schmidt,Liam>:[23-55]->Bike
+<Wright,Sloane>:[5-38]->Wooly Jumper
+<Green,Elliana>:[31-44]->Bag of Sweets
+<Montgomery,Juniper>:[40-11]->Bike
+<Olson,Rylee>:[25-13]->Bag of Sweets
+<Simpson,Jayce>:[2-15]->Wooly Jumper
+<Gutierrez,Kehlani>:[23-60]->Book
+<Bailey,Graham>:[72-60]->Action Man Figure
+<Robertson,Riley>:[58-5]->Orange
+<Freeman,Juliana>:[49-97]->Teddy Bear
+<Lawson,Maya>:[83-44]->Lego Set
+<Rose,Layla>:[95-81]->Bag of Sweets
+<Graham,Madeline>:[55-66]->Action Man Figure
+<Bishop,Ryleigh>:[91-27]->Action Man Figure
+<Boyd,Chase>:[35-3]->Toy Car
+<Stewart,Gianna>:[57-78]->Toy Car
+<Dean,Taylor>:[4-24]->Teddy Bear
+<Chapman,Miguel>:[5-91]->Action Man Figure
+<Perry,James>:[39-32]->Orange
+<Morales,Juliette>:[36-55]->Barbie Doll
+<Ross,Felix>:[18-46]->Book
+<Wallace,Scarlett>:[81-20]->Book
+<Thomas,Zara>:[60-19]->Teddy Bear
+<Green,Grant>:[48-65]->Barbie Doll
+<Mason,Steven>:[71-93]->Toy Car
+<Garcia,Eric>:[42-92]->Orange
+<Herrera,Daisy>:[45-93]->Barbie Doll
+<Jacobs,Christopher>:[73-18]->Bike
+<Hansen,Norah>:[8-54]->Barbie Doll
+<Munoz,Aurora>:[33-29]->Action Man Figure
+<Ramirez,Weston>:[40-64]->Teddy Bear
+<Gomez,Carter>:[76-63]->Book
+<Hawkins,Jeremiah>:[61-64]->Wooly Jumper
+<Johnson,Mason>:[38-75]->Book
+<Hayes,Ariana>:[32-23]->Bike
+<Bennett,Jasmine>:[69-23]->Teddy Bear
+<Thomas,Alan>:[6-33]->Action Man Figure
+<Rodriguez,Finn>:[83-53]->Book
+<Aguilar,Zane>:[4-72]->Orange
+<Gray,Jace>:[30-70]->Barbie Doll
+<Harper,Eden>:[23-64]->Bag of Sweets
+<Roberts,Calvin>:[72-25]->Bag of Sweets
+<Johnson,Aspen>:[2-38]->Orange
+<Simpson,Georgia>:[24-2]->Lego Set
+<Taylor,Isaiah>:[22-69]->Barbie Doll
+<Washington,Adrian>:[13-38]->Bike
+<Phillips,Dean>:[23-5]->Toy Car
+<Howard,Mackenzie>:[69-34]->Book
+<Brooks,Faith>:[99-54]->Book
+<Freeman,Elise>:[50-98]->Lego Set
+<Brown,Everleigh>:[74-80]->Lego Set
+<Ray,Molly>:[66-64]->Orange
+<Cruz,Esther>:[73-16]->Action Man Figure
+<Cook,Rhett>:[97-25]->Book
+<Robinson,Ryan>:[8-32]->Book
+<Hoffman,Kaleb>:[1-89]->Barbie Doll
+<Bennett,Andrew>:[43-97]->Toy Car
+<Edwards,Javier>:[29-51]->Bike
+<Nelson,Ellie>:[59-85]->Wooly Jumper
+<Reyes,Aliyah>:[33-41]->Book
+<Jensen,Emilia>:[85-29]->Action Man Figure
+<Guzman,Maeve>:[62-29]->Orange
+<Patterson,Phoenix>:[92-88]->Book
+<Robinson,William>:[21-62]->Book
+<Carter,Ruby>:[65-23]->Barbie Doll
+<Barnes,Hudson>:[36-51]->Bag of Sweets
+<Ross,Kennedy>:[13-72]->Action Man Figure
+<Bailey,Asher>:[55-10]->Lego Set
+<Black,Emma>:[61-35]->Book
+<Young,Jesus>:[40-4]->Action Man Figure
+<Salazar,Avery>:[44-90]->Bag of Sweets
+<West,Archer>:[40-94]->Barbie Doll
+<Webb,Zara>:[21-76]->Bag of Sweets
+<Freeman,Reagan>:[16-36]->Bike
+<Gutierrez,Gianna>:[72-38]->Bike
+<Matthews,Sienna>:[41-46]->Bag of Sweets
+<Woods,June>:[40-85]->Toy Car
+<Patel,Lilly>:[12-62]->Lego Set
+<Wright,Vincent>:[59-4]->Lego Set
+<Romero,Stella>:[51-22]->Bag of Sweets
+<Salazar,Serenity>:[84-79]->Toy Car
+<Cole,Cecilia>:[63-60]->Wooly Jumper
+<Graham,Hope>:[75-38]->Bike
+<Thomas,Cooper>:[25-26]->Wooly Jumper
+<Munoz,Logan>:[57-23]->Barbie Doll
+<Carr,Remington>:[92-61]->Bag of Sweets
+<Riley,Charles>:[1-20]->Toy Car
+<Porter,Wesley>:[89-28]->Toy Car
+<Patterson,Catalina>:[9-94]->Book
+<Rose,Colton>:[92-57]->Action Man Figure
+<Olson,Ximena>:[67-26]->Action Man Figure
+<Grant,River>:[76-58]->Wooly Jumper
+<Reynolds,Leila>:[24-30]->Wooly Jumper
+<Pierce,Violet>:[53-86]->Teddy Bear
+<Torres,Emerson>:[86-30]->Orange
+<Lawson,Evangeline>:[34-7]->Orange
+<Grant,Tucker>:[94-47]->Wooly Jumper
+<Anderson,Allison>:[40-19]->Toy Car
+<Peterson,Noelle>:[19-12]->Orange
+<Torres,Luka>:[42-81]->Action Man Figure
+<Bennett,Emma>:[54-47]->Action Man Figure
+<Gonzales,Easton>:[8-63]->Toy Car
+<Montgomery,Braxton>:[10-94]->Book
+<Fox,Vincent>:[73-51]->Barbie Doll
+<Cooper,Levi>:[39-78]->Book
+<Rogers,Myla>:[62-16]->Toy Car
+<Dunn,Ethan>:[76-14]->Teddy Bear
+<Williams,Elliot>:[98-88]->Barbie Doll
+<Patterson,Leo>:[35-69]->Action Man Figure
+<Sanders,Charlie>:[13-23]->Orange
+<Hayes,Elise>:[83-29]->Toy Car
+<Hall,Abel>:[41-14]->Lego Set
+<Silva,Esther>:[91-23]->Book
+<Greene,Nash>:[54-30]->Barbie Doll
+<Hansen,Legend>:[61-81]->Toy Car
+<Schmidt,Finley>:[23-57]->Bag of Sweets
+<Greene,Jacob>:[58-69]->Wooly Jumper
+<Grant,Allison>:[28-52]->Bag of Sweets
+<Wheeler,Audrey>:[83-38]->Teddy Bear
+<Moore,Christian>:[66-35]->Teddy Bear
+<Lawson,Leonardo>:[15-40]->Toy Car
+<Grant,Julian>:[4-99]->Bag of Sweets
+<Chapman,Jax>:[66-47]->Wooly Jumper
+<Reyes,Emma>:[43-52]->Lego Set
+<Johnson,Lila>:[15-42]->Wooly Jumper
+<Salazar,Jameson>:[94-54]->Teddy Bear
+<Chapman,Zion>:[3-72]->Teddy Bear
+<White,Ryder>:[21-48]->Toy Car
+<Fox,Nathan>:[35-16]->Lego Set
+<Ryan,Myles>:[50-32]->Action Man Figure
+<Pierce,Messiah>:[26-41]->Bike
+<Smith,Kai>:[97-13]->Barbie Doll
+<Gutierrez,Peyton>:[8-34]->Action Man Figure
+<Williamson,Harmony>:[92-12]->Toy Car
+<Knight,Octavia>:[93-45]->Wooly Jumper
+<Garza,Everleigh>:[10-28]->Bag of Sweets
+<Payne,Clara>:[57-8]->Bag of Sweets
+<Mills,Benjamin>:[76-40]->Barbie Doll
+<Roberts,Elena>:[12-59]->Barbie Doll
+<Flores,Bentley>:[99-98]->Barbie Doll
+<Jacobs,Zayden>:[98-28]->Toy Car
+<Thompson,Zion>:[98-99]->Barbie Doll
+<Wright,Gianna>:[57-97]->Bike
+<Perez,Zayden>:[28-74]->Action Man Figure
+<Harper,Isaac>:[55-48]->Bag of Sweets
+<Edwards,Bella>:[69-8]->Toy Car
+<Hudson,Alani>:[67-26]->Wooly Jumper
+<Vargas,Eliza>:[94-60]->Book
+<Arnold,Christopher>:[54-69]->Bike
+<Hart,Octavia>:[78-10]->Wooly Jumper
+<Austin,Parker>:[41-41]->Book
+<Mcdonald,Bryson>:[4-36]->Toy Car
+<Morales,Abraham>:[94-81]->Bike
+<Cunningham,Aria>:[59-8]->Action Man Figure
+<Graham,Ashton>:[50-16]->Bike
+<Green,Oaklynn>:[10-31]->Orange
+<Foster,Felix>:[37-78]->Barbie Doll
+<Silva,Isabella>:[94-66]->Toy Car
+<Collins,Josephine>:[20-58]->Teddy Bear
+<Bennett,Sara>:[33-86]->Bike
+<Carpenter,Dean>:[9-59]->Book
+<Sullivan,Amelia>:[5-50]->Action Man Figure
+<Ruiz,Grayson>:[24-43]->Toy Car
+<Anderson,Lucas>:[31-61]->Wooly Jumper
+<Brown,Addison>:[9-0]->Teddy Bear
+<Bell,Asher>:[61-60]->Toy Car
+<Roberts,Oliver>:[82-96]->Toy Car
+<Perez,Owen>:[59-89]->Teddy Bear
+<Smith,Natalie>:[69-19]->Bag of Sweets
+<Smith,Finn>:[28-94]->Action Man Figure
+<Watson,Sydney>:[47-58]->Toy Car
+<Gomez,Ella>:[21-7]->Bike
+<Porter,Hunter>:[79-11]->Book
+<Carpenter,Christopher>:[21-9]->Wooly Jumper
+<Rose,Barrett>:[70-10]->Teddy Bear
+<Cox,Brianna>:[50-46]->Barbie Doll
+<Garza,Maria>:[36-15]->Teddy Bear
+<Bradley,Brooklyn>:[34-50]->Bag of Sweets
+<Bishop,Isaac>:[92-14]->Bike
+<Alexander,Steven>:[85-85]->Teddy Bear
+<Gonzalez,Alice>:[11-83]->Barbie Doll
+<Gardner,Eric>:[10-89]->Toy Car
+<Wells,Amara>:[5-17]->Bike
+<Hoffman,Hailey>:[3-9]->Orange
+<Herrera,Christian>:[71-99]->Orange
+<Cooper,Ava>:[85-48]->Barbie Doll
+<Hall,Kayden>:[82-83]->Teddy Bear
+<Green,Luke>:[93-15]->Bike
+<Powell,Madison>:[62-33]->Bike
+<Lewis,Journee>:[44-44]->Bike
+<Ramos,Brody>:[72-89]->Toy Car
+<Hill,Brandon>:[98-43]->Orange
+<Moore,Rowan>:[78-30]->Bike
+<Nguyen,Julia>:[68-81]->Barbie Doll
+<Scott,Charles>:[47-92]->Bike
+<Gray,Selena>:[40-70]->Wooly Jumper
+<Dunn,Jose>:[56-32]->Lego Set
+<Robertson,Nevaeh>:[75-83]->Action Man Figure
+<Watkins,Daisy>:[79-73]->Wooly Jumper
+<Aguilar,Ariana>:[76-4]->Barbie Doll
+<Woods,Phoenix>:[66-22]->Book
+<Duncan,Remington>:[87-40]->Book
+<Jacobs,George>:[9-95]->Wooly Jumper
+<Owens,Griffin>:[19-66]->Bag of Sweets
+<Grant,Ruby>:[12-57]->Teddy Bear
+<Tran,Walker>:[26-41]->Orange
+<Daniels,Aliyah>:[3-80]->Bag of Sweets
+<Green,Eloise>:[32-31]->Bike
+<Russell,Margaret>:[94-85]->Action Man Figure
+<Cunningham,Mila>:[58-56]->Book
+<Diaz,Genesis>:[46-44]->Bag of Sweets
+<Gonzales,Camila>:[63-62]->Bike
+<Martinez,Zayden>:[61-8]->Lego Set
+<Bennett,Kyrie>:[46-71]->Orange
+<Patel,Hadley>:[96-59]->Bag of Sweets
+<Peters,Richard>:[42-95]->Lego Set
+<Gonzalez,Ariel>:[22-72]->Toy Car
+<Crawford,Selena>:[50-94]->Wooly Jumper
+<Murray,Amy>:[56-78]->Bag of Sweets
+<Turner,Ezekiel>:[72-85]->Toy Car
+<Butler,Tucker>:[30-92]->Bike
+<Sanchez,Jude>:[90-17]->Toy Car
+<Montgomery,Ivy>:[61-73]->Barbie Doll
+<Carlson,Sarah>:[96-78]->Book
+<Ross,Joshua>:[17-80]->Barbie Doll
+<Armstrong,Gracie>:[59-52]->Bag of Sweets
+<Stewart,Esther>:[66-23]->Bike
+<Griffin,Callie>:[53-7]->Bike
+<Cook,Lila>:[50-74]->Orange
+<Roberts,Jackson>:[55-37]->Lego Set
+<Anderson,Eden>:[28-31]->Lego Set
+<Wallace,Londyn>:[23-66]->Action Man Figure
+<Alvarez,Elena>:[36-42]->Lego Set
+<Morris,Leila>:[89-42]->Bag of Sweets
+<Duncan,Lillian>:[32-84]->Orange
+<Hicks,Liam>:[89-5]->Lego Set
+<Morgan,Riley>:[21-61]->Barbie Doll
+<Richards,Riley>:[23-97]->Book
+<Kim,Ryleigh>:[71-87]->Barbie Doll
+<Hudson,Gael>:[56-62]->Orange
+<Larson,Noah>:[20-41]->Toy Car
+<Dixon,Lucia>:[85-81]->Action Man Figure
+<Walker,Isaiah>:[71-9]->Action Man Figure
+<Parker,David>:[52-60]->Barbie Doll
+<Robertson,Karter>:[9-14]->Action Man Figure
+<Carter,Ethan>:[63-88]->Toy Car
+<Knight,Grayson>:[91-76]->Action Man Figure
+<Morris,Natalia>:[93-25]->Book
+<Henderson,Lily>:[3-13]->Toy Car
+<Richardson,Lyla>:[53-30]->Bag of Sweets
+<Simpson,Amara>:[24-61]->Bike
+<Bell,Ava>:[57-84]->Barbie Doll
+<Rose,Blake>:[1-39]->Orange
+<Ray,Alani>:[21-35]->Teddy Bear
+<Franklin,Ryan>:[14-42]->Book
+<Gordon,Milo>:[78-52]->Orange
+<Ramirez,Noelle>:[4-40]->Bag of Sweets
+<Griffin,Zoey>:[88-49]->Wooly Jumper
+<Dunn,Sutton>:[92-58]->Bike
+<Lopez,Ana>:[64-86]->Book
+<Weaver,Juliana>:[24-58]->Barbie Doll
+<Perry,Leo>:[26-99]->Action Man Figure
+<Lee,Jett>:[8-37]->Lego Set
+<Salazar,Lincoln>:[63-41]->Wooly Jumper
+<Flores,Josephine>:[70-52]->Lego Set
+<Johnson,Carlos>:[96-72]->Barbie Doll
+<Phillips,Jordyn>:[11-5]->Orange
+<Turner,Bennett>:[18-54]->Bag of Sweets
+<Black,Ryan>:[12-22]->Wooly Jumper
+<Harvey,Avery>:[10-27]->Lego Set
+<Franklin,Eliana>:[91-79]->Action Man Figure
+<Palmer,Brianna>:[34-82]->Book
+<Stewart,Edward>:[59-21]->Teddy Bear
+<Cox,Abel>:[42-89]->Action Man Figure
+<Dunn,Isabella>:[43-5]->Barbie Doll
+<Barnes,Leah>:[15-73]->Lego Set
+<Reed,Jaxson>:[17-34]->Book
+<Medina,Ariana>:[97-97]->Wooly Jumper
+<Martin,Noelle>:[57-72]->Toy Car
+<Collins,Eva>:[35-70]->Bag of Sweets
+<Murray,Jayce>:[71-27]->Wooly Jumper
+<Bradley,Landon>:[85-17]->Toy Car
+<Russell,Matteo>:[26-72]->Lego Set
+<Medina,Daniel>:[7-97]->Wooly Jumper
+<Freeman,Kylie>:[45-88]->Action Man Figure
+<Jenkins,Elise>:[60-90]->Teddy Bear
+<Snyder,Victoria>:[40-48]->Action Man Figure
+<Alexander,Damian>:[7-88]->Bike
+<Murray,Melanie>:[29-45]->Teddy Bear
+<Franklin,David>:[46-65]->Action Man Figure
+<Powell,Julia>:[12-27]->Action Man Figure
+<Stone,Ember>:[19-42]->Book
+<Castro,Iris>:[82-4]->Teddy Bear
+<Ryan,Aspen>:[98-70]->Book
+<Pierce,Ariella>:[97-76]->Lego Set
+<Moreno,June>:[28-18]->Teddy Bear
+<Mason,Lucas>:[48-23]->Orange
+<Rose,Emily>:[41-12]->Orange
+<Gordon,Gabriella>:[59-57]->Orange
+<Marshall,Jeremy>:[87-70]->Bike
+<Mitchell,Connor>:[75-46]->Toy Car
+<Mendoza,Jackson>:[63-35]->Wooly Jumper
+<Harris,Leila>:[2-72]->Orange
+<Larson,Zane>:[92-13]->Bike
+<Alvarez,Kaylee>:[35-91]->Wooly Jumper
+<Shaw,Kamila>:[90-85]->Orange
+<Jensen,Emily>:[70-96]->Bag of Sweets

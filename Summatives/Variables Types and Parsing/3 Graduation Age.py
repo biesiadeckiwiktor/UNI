@@ -1,0 +1,5 @@
+print("Graduation age program")
+name = input("What is your name?: ")
+age = int(input("How old were you at the start of your course?: "))
+course_duration = int(input("How long is your course in years?: "))
+print(f"At the end of your course you will be {age + course_duration} years old.")

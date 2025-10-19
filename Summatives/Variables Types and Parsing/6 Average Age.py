@@ -1,0 +1,6 @@
+print("Average Age Program")
+age1 = int(input("Please enter the first age: "))
+age2 = int(input("Please enter the second age: "))
+age3 = int(input("Please enter the third age: "))
+average_age = float((age1 + age2 + age3) / 3)
+print(f"Average age is {average_age}")

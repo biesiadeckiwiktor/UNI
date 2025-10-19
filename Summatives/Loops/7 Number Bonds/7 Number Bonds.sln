@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7 Number Bonds", "7 Number Bonds\7 Number Bonds.csproj", "{508253C8-AA46-4256-A8E3-911FD3A7ED9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{508253C8-AA46-4256-A8E3-911FD3A7ED9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{508253C8-AA46-4256-A8E3-911FD3A7ED9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{508253C8-AA46-4256-A8E3-911FD3A7ED9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{508253C8-AA46-4256-A8E3-911FD3A7ED9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B458E5B1-279E-4726-8A7D-646BD896DFC6}
+	EndGlobalSection
+EndGlobal

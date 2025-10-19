@@ -1,0 +1,27 @@
+﻿[Name:Hullywood Cinema]
+
+[Screen:C%NumPremiumSeat:0%NumStandardSeat:60]
+
+[Staff:000001%Level:Manager%FirstName:Simon%LastName:Grey]
+
+[Screen:A%NumPremiumSeat:20%NumStandardSeat:40]
+
+[Ticket:Standard%800]
+
+[Staff:000002%Level:General%FirstName:David%LastName:Parker]
+
+[Ticket:Premium%1200]
+
+[Screen:B%NumPremiumSeat:15%NumStandardSeat:0]
+
+[Concession:Popcorn%Price:250]
+
+[Movie:Gladiator%Length:120%Genre:Action%Rating:18]
+
+[Movie:Iron Man%Length:150%Genre:Fantasy%Rating:12]
+
+[Movie:Mufasa%Length:150%Genre:Animated%Rating:U]
+
+[Movie:Maze Runner%Length:130%Genre:Thriller%Rating:15]
+
+[Movie:Holiday%Length:120%Rating:12]
